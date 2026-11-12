@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Cuaderno personal para leer, contrastar y valorar propuestas políticas. Fuentes, fechas y valoraciones locales.">
+<title>Cuaderno 29N · Una decisión propia</title>
+<style>__CSS__</style>
+</head>
+<body>
+<a class="skip" href="#content">Saltar al contenido</a>
+<header class="masthead">
+ <a class="brand" href="#explorar" aria-label="Cuaderno 29N, inicio"><span class="brand-mark">29<span>N</span></span><span>CUADERNO<span class="brand-sub">UNA DECISIÓN PROPIA</span></span></a>
+ <nav aria-label="Navegación principal"><button data-view="explorar" class="active">Explorar propuestas</button><button data-view="partidos">Los partidos</button><button data-view="balance">Mi cuaderno <span id="nav-count">0</span></button><button data-view="fuentes">Fuentes y método</button></nav>
+ <span class="local-badge"><i></i> Solo en este navegador</span>
+</header>
+<main id="content" tabindex="-1">
+ <section class="intro"><div><div class="eyebrow">ELECCIONES GENERALES · 29 NOVIEMBRE 2026</div><h1>Leer. Contrastar.<br><em>Decidir por ti.</em></h1><p>Un espacio para entender qué propone cada partido y poner por escrito lo que importa para ti.</p></div><div class="intro-side"><span class="edition">EDICIÓN DE INVESTIGACIÓN</span><strong>11 / 11 / 2026</strong><p id="dataset-stats"></p><div class="progress-caption"><span>Tu recorrido</span><span id="progress-text"></span></div><div class="progress-track"><div id="progress-bar"></div></div><small id="save-status" role="status">Las valoraciones se guardan aquí.</small></div></section>
+ <div class="research-note"><span class="note-icon">i</span><p><strong>Lee también la fecha y el tipo de fuente.</strong> Este cuaderno reúne una selección documentada. Los programas completos están enlazados; las lagunas y la cobertura parcial se indican. Una declaración no equivale a un compromiso de programa.</p><button data-view="fuentes">Ver método <span aria-hidden="true">↗</span></button></div>
+ <section id="view-explorar" class="view">
+  <div class="workspace"><aside class="sidebar"><div class="eyebrow">TU MAPA DE TEMAS</div><div id="topic-list"></div><div class="sidebar-foot">Sin respuestas correctas.<br>El desacuerdo también cuenta.</div></aside><div class="reading">
+   <div class="section-heading"><div><div class="eyebrow" id="section-kicker">EL PROGRAMA, PUNTO A PUNTO</div><h2 id="topic-heading">Todas las propuestas</h2></div><button class="quiet" id="help-button">Cómo valorar</button></div>
+   <div class="filters"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Buscar una idea, medida o palabra…" aria-label="Buscar propuestas"></label><label><span class="sr-only">Partido</span><select id="party-filter"></select></label><label><span class="sr-only">Estado de valoración</span><select id="rating-filter"><option value="all">Todas las fichas</option><option value="unrated">Sin valorar</option><option value="rated">Valoradas</option><option value="essential">Imprescindibles</option><option value="notes">Con notas</option></select></label></div>
+   <div class="filter-secondary"><label><input type="checkbox" id="history-filter"> Incluir antecedentes históricos</label><label><span>Fuente</span> <select id="kind-filter"><option value="all">Todos los tipos</option><option value="manifesto_2026">Programa 2026</option><option value="official_position">Posición oficial</option><option value="statement">Declaración</option><option value="record">Actuación documentada</option><option value="principle">Principios</option><option value="historical">Antecedente histórico</option></select></label><button id="clear-filters" class="text-button">Limpiar filtros</button></div>
+   <div class="result-line"><span id="result-count" role="status"></span><span>Orden por tema y partido · sin preferencias</span></div><div id="policy-list"></div><div id="pagination" class="pagination"></div>
+  </div></div>
+ </section>
+ <section id="view-partidos" class="view" hidden></section>
+ <section id="view-balance" class="view" hidden></section>
+ <section id="view-fuentes" class="view" hidden></section>
+</main>
+<footer><span>CUADERNO 29N</span><p>La investigación se comparte. La decisión es tuya.</p><button id="export-button">Exportar mis respuestas ↓</button><button id="import-button">Importar respuestas ↑</button><input type="file" id="import-file" accept="application/json,.json" hidden></footer>
+<dialog id="help-dialog"><form method="dialog"><button class="dialog-close" aria-label="Cerrar">×</button><div class="eyebrow">CÓMO USAR TU CUADERNO</div><h2>Dos preguntas distintas.</h2><p><strong>¿Estás de acuerdo?</strong> Valora la propuesta de −2 (muy en desacuerdo) a +2 (muy de acuerdo). El 0 expresa neutralidad o una valoración mixta. «No sé» deja la ficha sin puntuar.</p><p><strong>¿Cuánto te importa?</strong> Elige de 1 a 5. Marca «Imprescindible» si quieres tenerla siempre presente, tanto a favor como en contra. Esa marca no cambia el cálculo.</p><p>Las notas te ayudan a recordar condiciones, dudas y motivos. Abre «Fuente y contexto» para consultar el original.</p><p class="muted">Tus respuestas se guardan en este navegador. Exporta una copia antes de cambiar de equipo, navegador o ubicación del archivo. El HTML compartido no contiene tus respuestas.</p><button class="primary">Empezar a leer</button></form></dialog>
+<dialog id="import-dialog"><div class="eyebrow">RECUPERAR TU CUADERNO</div><h2>Revisar la importación</h2><p id="import-description"></p><p>Se combinarán las respuestas. Cuando una ficha ya tenga una valoración, prevalecerá la del archivo importado. Las demás se conservarán.</p><div class="dialog-actions"><button id="cancel-import">Cancelar</button><button id="confirm-import" class="primary">Importar y combinar</button></div></dialog>
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<script id="research-data" type="application/json">__DATA__</script>
+<script>__CORE__</script>
+<script>__APP__</script>
+</body></html>

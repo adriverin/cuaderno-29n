@@ -1,0 +1,509 @@
+{
+  "sources": [
+    {
+      "id": "bng-programa",
+      "title": "Programa electoral 29N. Xerais 2026",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2026/11/03/26_bng_xerais_documentos_programa_electoral.pdf",
+      "date": "2026-11-03",
+      "accessed": "2026-11-11",
+      "type": "Documento oficial",
+      "locatorNotes": "Resumen propio en castellano; original en gallego."
+    },
+    {
+      "id": "bng-decalogo",
+      "title": "Diez compromisos del BNG para el 29N",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2026/11/07/29-N%20Dec%C3%A1logo%20de%20compromisos%20BNG.pdf",
+      "date": "2026-11-07",
+      "accessed": "2026-11-11",
+      "type": "Documento oficial",
+      "locatorNotes": "Resumen propio en castellano; original en gallego."
+    },
+    {
+      "id": "bng-vivienda",
+      "title": "Pontón y Rego: propuestas sobre vivienda",
+      "url": "https://www.bng.gal/novas/ana-ponton-propon-compra-masiva-vivenda-baleira-crear-gran-parque-publico-pisos-alugueiro-social/20261110170713043856.html",
+      "date": "2026-11-10",
+      "accessed": "2026-11-11",
+      "type": "Comunicación oficial",
+      "locatorNotes": "Resumen propio en castellano; original en gallego."
+    },
+    {
+      "id": "bng-trabajo",
+      "title": "Propuestas de derechos laborales ante el 29N",
+      "url": "https://www.bng.gal/novas/ana-ponton-hai-que-avanzar-dereitos-laborais-porque-non-podemos-normalizar-precariedade-entre-clase-traballadora/20261109141406043846.html",
+      "date": "2026-11-09",
+      "accessed": "2026-11-11",
+      "type": "Comunicación oficial",
+      "locatorNotes": "Resumen propio en castellano; original en gallego."
+    },
+    {
+      "id": "bng-principios",
+      "title": "Principios de actuación política y ética",
+      "url": "https://www.bng.gal/estaticas/principios-de-actuacion-politica-e-etica-do-bng.html",
+      "date": null,
+      "accessed": "2026-11-11",
+      "type": "Documento oficial",
+      "locatorNotes": "Resumen propio en castellano; original en gallego."
+    }
+  ],
+  "parties": [
+    {
+      "id": "bng",
+      "name": "Bloque Nacionalista Galego",
+      "short": "BNG",
+      "color": "#6287ad",
+      "description": "Organización nacionalista gallega que vincula soberanía y transformación social.",
+      "ideals": [
+        {
+          "text": "Soberanía nacional de Galicia y autodeterminación de los pueblos.",
+          "sourceIds": [
+            "bng-principios"
+          ]
+        },
+        {
+          "text": "Transformación social y eliminación de la dominación de clase y género.",
+          "sourceIds": [
+            "bng-principios"
+          ]
+        },
+        {
+          "text": "Participación política también en movimientos sociales, culturales y sindicales.",
+          "sourceIds": [
+            "bng-principios"
+          ]
+        }
+      ],
+      "manifesto": {
+        "status": "published_partial_review",
+        "title": "Programa electoral 29N (91 páginas)",
+        "url": "https://www.bng.gal/media/bnggaliza/files/2026/11/03/26_bng_xerais_documentos_programa_electoral.pdf",
+        "date": "2026-11-03",
+        "coverageNote": "Programa y decálogo verificados. Selección de medidas y declaraciones: no se han convertido todas las propuestas del documento en fichas."
+      },
+      "positions": [
+        {
+          "id": "bng-001",
+          "topic": "territorio",
+          "title": "Concierto gallego",
+          "summary": "Recaudar todos los impuestos mediante una Hacienda gallega.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-programa"
+          ],
+          "locator": "Programa, pág. 8–9",
+          "date": "2026-11-03",
+          "qualification": ""
+        },
+        {
+          "id": "bng-002",
+          "topic": "seguridad",
+          "title": "Policía gallega",
+          "summary": "Transferir seguridad pública, policía judicial y tráfico.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-programa"
+          ],
+          "locator": "Programa, pág. 9",
+          "date": "2026-11-03",
+          "qualification": ""
+        },
+        {
+          "id": "bng-003",
+          "topic": "educacion",
+          "title": "Educación laica",
+          "summary": "Excluir Religión del currículo escolar.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-programa"
+          ],
+          "locator": "Programa, pág. 35",
+          "date": "2026-11-03",
+          "qualification": ""
+        },
+        {
+          "id": "bng-004",
+          "topic": "educacion",
+          "title": "Financiación educativa",
+          "summary": "Dedicar al menos el 7% del PIB.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-programa"
+          ],
+          "locator": "Programa, pág. 35",
+          "date": "2026-11-03",
+          "qualification": ""
+        },
+        {
+          "id": "bng-005",
+          "topic": "inmigracion",
+          "title": "Regularización",
+          "summary": "Facilitar regularización administrativa y reforzar inspección laboral.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-programa"
+          ],
+          "locator": "Programa, pág. 22",
+          "date": "2026-11-03",
+          "qualification": ""
+        },
+        {
+          "id": "bng-006",
+          "topic": "inmigracion",
+          "title": "Centros de internamiento",
+          "summary": "Cerrar los CIE y terminar las devoluciones en caliente.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-programa"
+          ],
+          "locator": "Programa, pág. 23",
+          "date": "2026-11-03",
+          "qualification": ""
+        },
+        {
+          "id": "bng-007",
+          "topic": "exterior",
+          "title": "OTAN",
+          "summary": "Salir de la alianza y defender su disolución.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-programa"
+          ],
+          "locator": "Programa, pág. 89",
+          "date": "2026-11-03",
+          "qualification": ""
+        },
+        {
+          "id": "bng-008",
+          "topic": "exterior",
+          "title": "Ucrania",
+          "summary": "Cesar envíos de armas; negociar la paz y reforzar ayuda humanitaria.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-programa"
+          ],
+          "locator": "Programa, pág. 89",
+          "date": "2026-11-03",
+          "qualification": ""
+        },
+        {
+          "id": "bng-009",
+          "topic": "igualdad",
+          "title": "Prostitución",
+          "summary": "Perseguir proxenetas y clientes, sin criminalizar mujeres; ofrecer alternativas.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-programa"
+          ],
+          "locator": "Programa, pág. 26",
+          "date": "2026-11-03",
+          "qualification": ""
+        },
+        {
+          "id": "bng-010",
+          "topic": "territorio",
+          "title": "Lengua y nacionalidad",
+          "summary": "Aceptar conocimiento del gallego para nacionalidad, independientemente del castellano.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-programa"
+          ],
+          "locator": "Programa, pág. 23",
+          "date": "2026-11-03",
+          "qualification": ""
+        },
+        {
+          "id": "bng-011",
+          "topic": "vivienda",
+          "title": "Inversión pública",
+          "summary": "Destinar el 3% del presupuesto estatal a alquiler público permanente.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-decalogo"
+          ],
+          "locator": "Decálogo, pág. 3",
+          "date": "2026-11-07",
+          "qualification": ""
+        },
+        {
+          "id": "bng-012",
+          "topic": "empleo",
+          "title": "Jornada",
+          "summary": "Avanzar a 35 horas semanales sin reducción salarial.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-decalogo"
+          ],
+          "locator": "Decálogo, pág. 4",
+          "date": "2026-11-07",
+          "qualification": ""
+        },
+        {
+          "id": "bng-013",
+          "topic": "pensiones",
+          "title": "Jubilación",
+          "summary": "Recuperar edad ordinaria de 65 años y cómputo de diez años.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-decalogo"
+          ],
+          "locator": "Decálogo, pág. 4",
+          "date": "2026-11-07",
+          "qualification": ""
+        },
+        {
+          "id": "bng-014",
+          "topic": "pensiones",
+          "title": "Pensiones mínimas",
+          "summary": "Elevarlas al 60% del salario medio.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-decalogo"
+          ],
+          "locator": "Decálogo, pág. 4",
+          "date": "2026-11-07",
+          "qualification": ""
+        },
+        {
+          "id": "bng-015",
+          "topic": "sanidad",
+          "title": "Dependencia",
+          "summary": "Exigir financiación estatal del 50% del SAAD.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-decalogo"
+          ],
+          "locator": "Decálogo, pág. 4",
+          "date": "2026-11-07",
+          "qualification": ""
+        },
+        {
+          "id": "bng-016",
+          "topic": "economia",
+          "title": "Fiscalidad",
+          "summary": "Reducir carga sobre trabajo y aumentar la del capital y grandes fortunas.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-decalogo"
+          ],
+          "locator": "Decálogo, pág. 6",
+          "date": "2026-11-07",
+          "qualification": ""
+        },
+        {
+          "id": "bng-017",
+          "topic": "tecnologia",
+          "title": "Investigación",
+          "summary": "Alcanzar el 3% del PIB en I+D+i en 2030.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-decalogo"
+          ],
+          "locator": "Decálogo, pág. 6",
+          "date": "2026-11-07",
+          "qualification": ""
+        },
+        {
+          "id": "bng-018",
+          "topic": "clima",
+          "title": "Electricidad",
+          "summary": "Implantar tarifa gallega y recuperar concesiones hidráulicas al vencer.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-decalogo"
+          ],
+          "locator": "Decálogo, pág. 8",
+          "date": "2026-11-07",
+          "qualification": ""
+        },
+        {
+          "id": "bng-019",
+          "topic": "clima",
+          "title": "Eólica marina",
+          "summary": "Declarar la costa gallega no apta para parques.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-decalogo"
+          ],
+          "locator": "Decálogo, pág. 8",
+          "date": "2026-11-07",
+          "qualification": ""
+        },
+        {
+          "id": "bng-020",
+          "topic": "rural",
+          "title": "AP-9",
+          "summary": "Hacerla pública, gallega y sin peajes.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-decalogo"
+          ],
+          "locator": "Decálogo, pág. 9",
+          "date": "2026-11-07",
+          "qualification": ""
+        },
+        {
+          "id": "bng-021",
+          "topic": "instituciones",
+          "title": "Voto juvenil",
+          "summary": "Reconocer sufragio desde los 16 años.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-decalogo"
+          ],
+          "locator": "Decálogo, pág. 10",
+          "date": "2026-11-07",
+          "qualification": ""
+        },
+        {
+          "id": "bng-022",
+          "topic": "instituciones",
+          "title": "Protesta",
+          "summary": "Derogar la Ley de Seguridad Ciudadana.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "bng-decalogo"
+          ],
+          "locator": "Decálogo, pág. 12",
+          "date": "2026-11-07",
+          "qualification": ""
+        },
+        {
+          "id": "bng-023",
+          "topic": "vivienda",
+          "title": "Compra pública de viviendas vacías",
+          "summary": "Pontón propone comprar vivienda ya construida y vacía para destinarla a alquiler social.",
+          "kind": "statement",
+          "sourceIds": [
+            "bng-vivienda"
+          ],
+          "locator": "Intervenciones de Pontón y Rego, encuentro sobre vivienda",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "bng-024",
+          "topic": "vivienda",
+          "title": "Topes al alquiler",
+          "summary": "Rego propone limitar los precios de los alquileres por ley.",
+          "kind": "statement",
+          "sourceIds": [
+            "bng-vivienda"
+          ],
+          "locator": "Intervenciones de Pontón y Rego, encuentro sobre vivienda",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "bng-025",
+          "topic": "vivienda",
+          "title": "Hipotecas",
+          "summary": "Rego plantea topar también los precios de las hipotecas; la comunicación no precisa el mecanismo.",
+          "kind": "statement",
+          "sourceIds": [
+            "bng-vivienda"
+          ],
+          "locator": "Intervenciones de Pontón y Rego, encuentro sobre vivienda",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "bng-026",
+          "topic": "vivienda",
+          "title": "Inmuebles estatales",
+          "summary": "Transferir a Galicia los activos de Sareb y Defensa para ampliar vivienda accesible.",
+          "kind": "statement",
+          "sourceIds": [
+            "bng-vivienda"
+          ],
+          "locator": "Intervenciones de Pontón y Rego, encuentro sobre vivienda",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "bng-027",
+          "topic": "vivienda",
+          "title": "Viviendas turísticas",
+          "summary": "Intervenir frente al uso turístico para recuperar oferta residencial; sin umbrales concretados en esta fuente.",
+          "kind": "statement",
+          "sourceIds": [
+            "bng-vivienda"
+          ],
+          "locator": "Intervenciones de Pontón y Rego, encuentro sobre vivienda",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "bng-028",
+          "topic": "empleo",
+          "title": "Salario mínimo",
+          "summary": "Elevar el SMI al 60% del salario medio.",
+          "kind": "statement",
+          "sourceIds": [
+            "bng-trabajo"
+          ],
+          "locator": "Intervenciones de Pontón, Rego y Carme da Silva",
+          "date": "2026-11-09",
+          "qualification": ""
+        },
+        {
+          "id": "bng-029",
+          "topic": "empleo",
+          "title": "Reformas laborales",
+          "summary": "Derogar íntegramente las reformas que considera regresivas, incluyendo el abaratamiento del despido.",
+          "kind": "statement",
+          "sourceIds": [
+            "bng-trabajo"
+          ],
+          "locator": "Intervenciones de Pontón, Rego y Carme da Silva",
+          "date": "2026-11-09",
+          "qualification": ""
+        },
+        {
+          "id": "bng-030",
+          "topic": "empleo",
+          "title": "Bajas médicas",
+          "summary": "Mantener la protección por enfermedad y oponerse a que empresas, mediante mutuas, decidan la reincorporación.",
+          "kind": "statement",
+          "sourceIds": [
+            "bng-trabajo"
+          ],
+          "locator": "Intervenciones de Pontón, Rego y Carme da Silva",
+          "date": "2026-11-09",
+          "qualification": ""
+        },
+        {
+          "id": "bng-031",
+          "topic": "clima",
+          "title": "Precios energéticos",
+          "summary": "Carme da Silva defiende topar los precios de energía para hogares.",
+          "kind": "statement",
+          "sourceIds": [
+            "bng-trabajo"
+          ],
+          "locator": "Intervenciones de Pontón, Rego y Carme da Silva",
+          "date": "2026-11-09",
+          "qualification": ""
+        },
+        {
+          "id": "bng-032",
+          "topic": "rural",
+          "title": "Cadena alimentaria",
+          "summary": "Intervenir para garantizar remuneración digna de productores y alimentos asequibles.",
+          "kind": "statement",
+          "sourceIds": [
+            "bng-trabajo"
+          ],
+          "locator": "Intervenciones de Pontón, Rego y Carme da Silva",
+          "date": "2026-11-09",
+          "qualification": ""
+        }
+      ],
+      "gaps": [
+        "Cobertura parcial: faltan medidas detalladas de sanidad, cultura, deporte, soberanía digital, industria y política forestal.",
+        "Las propuestas con ámbito gallego no se extienden automáticamente al conjunto de España.",
+        "No se ha realizado una auditoría de cumplimiento ni de viabilidad presupuestaria.",
+        "Las declaraciones de vivienda y trabajo pueden reiterar prioridades del programa; su peso se promedia por tema."
+      ]
+    }
+  ]
+}

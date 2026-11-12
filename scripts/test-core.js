@@ -1,0 +1,16 @@
+const assert=require('node:assert/strict');
+const C=require('../src/core.js');
+const p=[{id:'a',partyId:'x',topic:'house',kind:'manifesto_2026'},{id:'b',partyId:'x',topic:'work',kind:'statement'},{id:'c',partyId:'x',topic:'work',kind:'historical'},{id:'d',partyId:'y',topic:'house',kind:'official_position'}];
+const r=(agreement,importance=3)=>({agreement,importance,essential:false,note:''});
+let s=C.empty();assert.equal(C.summarize(p,s,'x').score,null);
+s.ratings.a=r(0);assert.equal(C.summarize(p,s,'x').score,0);
+s.ratings.a=r(2);s.ratings.b=r(-2);s.ratings.c=r(2);
+assert.equal(C.summarize(p,s,'x').score,0,'historical excluded');
+s.topicWeights.house=5;s.topicWeights.work=1;assert.equal(C.summarize(p,s,'x').score,67);
+s.topicWeights.work=0;assert.equal(C.summarize(p,s,'x').score,100);
+s.ratings.d=r(-1);assert.deepEqual([...C.commonRatedTopics(p,s,['x','y'])],['house']);
+const imported=C.validateImport(JSON.parse(JSON.stringify(s)),new Set(p.map(x=>x.id)),new Set(['house','work']));
+assert.deepEqual(imported.state.ratings,s.ratings);
+assert.throws(()=>C.validateImport({schema:1,ratings:{a:r('2')}},new Set(['a']),new Set()));
+assert.equal(C.validateImport({schema:1,ratings:{unknown:r(2)}},new Set(['a']),new Set()).ignored,1);
+console.log('Scoring, missing answers, exclusions, common topics and import validation passed.');

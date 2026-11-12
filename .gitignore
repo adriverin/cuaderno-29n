@@ -1,0 +1,8 @@
+.DS_Store
+**/.DS_Store
+*.zip
+mi-cuaderno-29n-*.json
+__pycache__/
+*.pyc
+.env
+.env.*

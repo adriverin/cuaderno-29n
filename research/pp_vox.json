@@ -1,0 +1,1510 @@
+{
+  "researchedAt": "2026-11-11",
+  "scope": "Selección documentada, no extracción íntegra de todos los programas",
+  "parties": [
+    {
+      "id": "pp",
+      "name": "Partido Popular",
+      "short": "PP",
+      "color": "#1675C1",
+      "description": "Su autodefinición combina liberalismo, democracia cristiana y conservadurismo, con economía social de mercado y unidad española.",
+      "ideals": [
+        {
+          "text": "Economía de mercado con iniciativa privada y cohesión social.",
+          "sourceIds": [
+            "pp-principles"
+          ]
+        },
+        {
+          "text": "España soberana, unida y plural; Unión Europea fuerte.",
+          "sourceIds": [
+            "pp-principles"
+          ]
+        },
+        {
+          "text": "Democracia liberal, separación de poderes e igualdad ante la ley.",
+          "sourceIds": [
+            "pp-principles"
+          ]
+        }
+      ],
+      "manifesto": {
+        "status": "published_partial_review",
+        "title": "La Reconstrucción Nacional",
+        "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+        "date": "2026-11-10",
+        "coverageNote": "Programa completo localizado, pero no extraído íntegramente. Esta selección contrasta resúmenes oficiales de presentación, planes sectoriales y declaraciones. No representa todas sus 249 medidas."
+      },
+      "positions": [
+        {
+          "id": "pp-iva-vivienda",
+          "topic": "vivienda",
+          "title": "IVA de primera vivienda",
+          "summary": "Bajarlo al 4% para menores de 40 años; permitir pagos fraccionados.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "pp-launch"
+          ],
+          "locator": "Objetivo 4",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-irpf-joven",
+          "topic": "economia",
+          "title": "IRPF juvenil gradual",
+          "summary": "Entre 18–35 años: exención el primer año; pagar 25%, 50% y 75% del IRPF correspondiente en los tres siguientes.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "pp-launch"
+          ],
+          "locator": "Objetivo 4",
+          "date": "2026-11-10",
+          "qualification": "No son tipos marginales del IRPF. Los requisitos detallados deben cotejarse con el programa completo."
+        },
+        {
+          "id": "pp-medicos",
+          "topic": "sanidad",
+          "title": "Refuerzo de atención primaria",
+          "summary": "Añadir al menos 4.500 médicos.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "pp-launch"
+          ],
+          "locator": "Objetivo 4",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-constitucional",
+          "topic": "instituciones",
+          "title": "Acceso al Tribunal Constitucional",
+          "summary": "Excluir candidatos con cargos políticos en los cinco años anteriores.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "pp-launch"
+          ],
+          "locator": "Objetivo 2",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-fiscal",
+          "topic": "instituciones",
+          "title": "Mandato del fiscal general",
+          "summary": "Mandato único de cinco años; informe vinculante del CGPJ y cese al ser procesado.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "pp-launch"
+          ],
+          "locator": "Objetivo 2",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-presupuestos",
+          "topic": "instituciones",
+          "title": "Elecciones por bloqueo presupuestario",
+          "summary": "Disolver las Cortes tras una segunda prórroga presupuestaria consecutiva.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "pp-launch"
+          ],
+          "locator": "Objetivo 2",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-licencias",
+          "topic": "vivienda",
+          "title": "Licencias de construcción",
+          "summary": "Resolverlas en tres meses; silencio administrativo positivo.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "pp-launch"
+          ],
+          "locator": "Objetivo 4",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-familia",
+          "topic": "economia",
+          "title": "Deducción familiar reembolsable",
+          "summary": "Unificarla, pagarla mensualmente y actualizar mínimos familiares con inflación.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "pp-launch"
+          ],
+          "locator": "Objetivo 4",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-pau",
+          "topic": "educacion",
+          "title": "PAU común",
+          "summary": "Acordar una prueba común con comunidades y universidades.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "pp-launch"
+          ],
+          "locator": "Objetivo 3",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-presencia",
+          "topic": "territorio",
+          "title": "Presencia estatal territorial",
+          "summary": "Revisar oficinas y plantillas; especial atención a País Vasco, Navarra y Cataluña.",
+          "kind": "manifesto_2026",
+          "sourceIds": [
+            "pp-launch"
+          ],
+          "locator": "Objetivo 1",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-activacion",
+          "topic": "empleo",
+          "title": "Renta de activación",
+          "summary": "Unificar IMV y subsidios en una prestación orientada al empleo, compatible con trabajar desde el primer día.",
+          "kind": "statement",
+          "sourceIds": [
+            "pp-speech"
+          ],
+          "locator": "Presentación: renta de activación",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-absentismo",
+          "topic": "empleo",
+          "title": "Absentismo fraudulento",
+          "summary": "Impulsar un plan para combatirlo.",
+          "kind": "statement",
+          "sourceIds": [
+            "pp-speech"
+          ],
+          "locator": "Presentación: empleo",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-tarjeta",
+          "topic": "sanidad",
+          "title": "Tarjeta sanitaria interoperable",
+          "summary": "Reconocerla en cualquier parte de España.",
+          "kind": "statement",
+          "sourceIds": [
+            "pp-speech"
+          ],
+          "locator": "Presentación: ciudadanía común",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-mercado",
+          "topic": "economia",
+          "title": "Unidad de mercado",
+          "summary": "Permitir crecer a una empresa por España sin solicitar nuevos permisos territoriales.",
+          "kind": "statement",
+          "sourceIds": [
+            "pp-speech"
+          ],
+          "locator": "Presentación: ciudadanía común",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-prestaciones",
+          "topic": "inmigracion",
+          "title": "Acceso prioritario a prestaciones",
+          "summary": "Dar prioridad a quienes contribuyen a sostener el país.",
+          "kind": "statement",
+          "sourceIds": [
+            "pp-speech"
+          ],
+          "locator": "Presentación: ciudadanía común",
+          "date": "2026-11-10",
+          "qualification": "Compromiso de la presentación; desarrollo y criterios concretos pendientes de cotejo con el texto completo."
+        },
+        {
+          "id": "pp-nacionalidad",
+          "topic": "inmigracion",
+          "title": "Requisitos de nacionalidad",
+          "summary": "Exigir vínculo con la lengua y los valores nacionales.",
+          "kind": "statement",
+          "sourceIds": [
+            "pp-speech"
+          ],
+          "locator": "Presentación: nacionalidad",
+          "date": "2026-11-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-irpf-inflacion",
+          "topic": "economia",
+          "title": "Deflactar el IRPF",
+          "summary": "Actualizar la tarifa estatal según inflación.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-economy"
+          ],
+          "locator": "Punto 1",
+          "date": "2026-09-27",
+          "qualification": ""
+        },
+        {
+          "id": "pp-iva-alimentos",
+          "topic": "economia",
+          "title": "IVA alimentario cero",
+          "summary": "Aplicarlo a alimentos básicos, incluyendo carne, pescado y conservas.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-economy"
+          ],
+          "locator": "Punto 1",
+          "date": "2026-09-27",
+          "qualification": ""
+        },
+        {
+          "id": "pp-nuclear",
+          "topic": "clima",
+          "title": "Continuidad nuclear",
+          "summary": "Derogar el calendario de cierre y garantizar rentabilidad.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-economy"
+          ],
+          "locator": "Punto 3",
+          "date": "2026-09-27",
+          "qualification": ""
+        },
+        {
+          "id": "pp-autonomos-iva",
+          "topic": "empleo",
+          "title": "Franquicia de IVA",
+          "summary": "Eximir a autónomos con facturación inferior a 85.000 euros.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-economy"
+          ],
+          "locator": "Punto 5",
+          "date": "2026-09-27",
+          "qualification": ""
+        },
+        {
+          "id": "pp-autonomos-cuota",
+          "topic": "empleo",
+          "title": "Cuota inicial de autónomos",
+          "summary": "Implantar tarifa cero para nuevos autónomos.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-economy"
+          ],
+          "locator": "Punto 5",
+          "date": "2026-09-27",
+          "qualification": ""
+        },
+        {
+          "id": "pp-autonomos-padres",
+          "topic": "empleo",
+          "title": "Cotización tras maternidad y paternidad",
+          "summary": "Eximir cuotas durante dos años.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-economy"
+          ],
+          "locator": "Punto 5",
+          "date": "2026-09-27",
+          "qualification": ""
+        },
+        {
+          "id": "pp-innovacion",
+          "topic": "tecnologia",
+          "title": "Incentivos a innovación",
+          "summary": "Ampliar beneficios fiscales y formación en IA, robótica y biotecnología.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-economy"
+          ],
+          "locator": "Punto 4",
+          "date": "2026-09-27",
+          "qualification": ""
+        },
+        {
+          "id": "pp-campo",
+          "topic": "rural",
+          "title": "Sector agroalimentario estratégico",
+          "summary": "Menos burocracia, relevo generacional y competencia equivalente frente a terceros países.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-economy"
+          ],
+          "locator": "Punto 7",
+          "date": "2026-09-27",
+          "qualification": ""
+        },
+        {
+          "id": "pp-agua",
+          "topic": "rural",
+          "title": "Plan nacional del agua",
+          "summary": "Renovar presas y prevenir inundaciones; inversión potencial de 100.000 millones hasta 2035.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-economy"
+          ],
+          "locator": "Punto 10",
+          "date": "2026-09-27",
+          "qualification": ""
+        },
+        {
+          "id": "pp-alquiler-zonas",
+          "topic": "vivienda",
+          "title": "Zonas tensionadas",
+          "summary": "Eliminar este mecanismo regulatorio del alquiler.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-economy"
+          ],
+          "locator": "Punto 2",
+          "date": "2026-09-27",
+          "qualification": ""
+        },
+        {
+          "id": "pp-pensiones-ipc",
+          "topic": "pensiones",
+          "title": "Pensiones públicas vinculadas al IPC",
+          "summary": "Garantizar su viabilidad futura y revalorizarlas conforme al IPC.",
+          "kind": "statement",
+          "sourceIds": [
+            "pp-pensions"
+          ],
+          "locator": "Compromiso de Feijóo en entrevista",
+          "date": "2026-10-13",
+          "qualification": ""
+        },
+        {
+          "id": "pp-especial",
+          "topic": "educacion",
+          "title": "Mantener educación especial",
+          "summary": "Derogar la disposición adicional cuarta de la LOMLOE y preservar la escolarización en centros específicos.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-special-education"
+          ],
+          "locator": "Moción: protección de centros de educación especial",
+          "date": "2026-04-08",
+          "qualification": ""
+        },
+        {
+          "id": "pp-eleccion-especial",
+          "topic": "educacion",
+          "title": "Elección familiar de centro",
+          "summary": "Permitir a las familias elegir entre modelos de escolarización adecuados a las necesidades de sus hijos.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-special-education"
+          ],
+          "locator": "Moción: elección familiar",
+          "date": "2026-04-08",
+          "qualification": ""
+        },
+        {
+          "id": "pp-discapacidad-escolar",
+          "topic": "educacion",
+          "title": "Escolarización hasta los 21 años",
+          "summary": "Ampliar al menos hasta esa edad la escolarización en centros de educación especial.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-disability"
+          ],
+          "locator": "Enmiendas: educación especial",
+          "date": "2026-09-02",
+          "qualification": ""
+        },
+        {
+          "id": "pp-visados",
+          "topic": "inmigracion",
+          "title": "Visado por puntos",
+          "summary": "Valorar formación, experiencia, idioma e integración; vías por contrato en origen o búsqueda temporal de empleo.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-immigration"
+          ],
+          "locator": "Propuestas, apartado 2, p. 6",
+          "date": "2025-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-regularizacion",
+          "topic": "inmigracion",
+          "title": "Regularización individualizada",
+          "summary": "Sustituir regularizaciones generales por un régimen transitorio por puntos que valore trabajo, cotización e integración.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-immigration"
+          ],
+          "locator": "Propuestas, apartado 2, p. 6",
+          "date": "2025-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-circular",
+          "topic": "inmigracion",
+          "title": "Migración temporal y circular",
+          "summary": "Contratar para campañas estacionales con controles y retorno al finalizar.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-immigration"
+          ],
+          "locator": "Propuestas, apartado 2, p. 6",
+          "date": "2025-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-cupos",
+          "topic": "inmigracion",
+          "title": "Cuotas por países y sectores",
+          "summary": "Vincular los cupos a necesidades laborales y cooperación de origen en retornos y documentación.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-immigration"
+          ],
+          "locator": "Propuestas, apartado 2, p. 6",
+          "date": "2025-10",
+          "qualification": ""
+        },
+        {
+          "id": "pp-lenguas",
+          "topic": "educacion",
+          "title": "Castellano y lenguas cooficiales",
+          "summary": "Garantizar castellano en toda España y lenguas cooficiales en sus territorios.",
+          "kind": "statement",
+          "sourceIds": [
+            "pp-contract"
+          ],
+          "locator": "Educación",
+          "date": "2026-10-19",
+          "qualification": ""
+        },
+        {
+          "id": "pp-alianzas",
+          "topic": "exterior",
+          "title": "Alianzas europeas y atlánticas",
+          "summary": "Reforzar alianzas con Europa y socios históricos, con España como vínculo con Hispanoamérica.",
+          "kind": "statement",
+          "sourceIds": [
+            "pp-contract"
+          ],
+          "locator": "Política exterior",
+          "date": "2026-10-19",
+          "qualification": ""
+        },
+        {
+          "id": "pp-auditoria",
+          "topic": "instituciones",
+          "title": "Auditar gasto estatal",
+          "summary": "Revisar gasto y contratos en los primeros cien días.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-democracy"
+          ],
+          "locator": "Repararemos el Estado",
+          "date": "2026-11-11",
+          "qualification": ""
+        },
+        {
+          "id": "pp-aforamientos",
+          "topic": "instituciones",
+          "title": "Reducir aforamientos",
+          "summary": "Restringirlos y endurecer penas por malversación.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-democracy"
+          ],
+          "locator": "Regeneraremos la democracia",
+          "date": "2026-11-11",
+          "qualification": ""
+        },
+        {
+          "id": "pp-indultos",
+          "topic": "instituciones",
+          "title": "Indultos por corrupción",
+          "summary": "Impedir indultar a condenados por corrupción.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-democracy"
+          ],
+          "locator": "Regeneraremos la democracia",
+          "date": "2026-11-11",
+          "qualification": ""
+        },
+        {
+          "id": "pp-riesgo-policias",
+          "topic": "seguridad",
+          "title": "Policía como profesión de riesgo",
+          "summary": "Reconocer esa condición a Policía y Guardia Civil.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-democracy"
+          ],
+          "locator": "Repararemos el Estado",
+          "date": "2026-11-11",
+          "qualification": ""
+        },
+        {
+          "id": "pp-desalojo",
+          "topic": "seguridad",
+          "title": "Desalojos por ocupación",
+          "summary": "Prometer desalojo en 48 horas y medidas contra la multirreincidencia.",
+          "kind": "statement",
+          "sourceIds": [
+            "pp-tellado"
+          ],
+          "locator": "Compromisos de seguridad",
+          "date": "2026-11-11",
+          "qualification": "La nota no desarrolla el procedimiento ni sus garantías."
+        },
+        {
+          "id": "pp-construccion",
+          "topic": "vivienda",
+          "title": "Un millón de viviendas",
+          "summary": "Promover su construcción en la próxima legislatura con colaboración entre administraciones.",
+          "kind": "statement",
+          "sourceIds": [
+            "pp-tellado"
+          ],
+          "locator": "Pacto de Estado en vivienda",
+          "date": "2026-11-11",
+          "qualification": ""
+        },
+        {
+          "id": "pp-infraestructuras",
+          "topic": "economia",
+          "title": "Inversión en infraestructuras",
+          "summary": "Movilizar unos 300.000 millones de euros en quince años.",
+          "kind": "statement",
+          "sourceIds": [
+            "pp-tellado"
+          ],
+          "locator": "Plan de infraestructuras",
+          "date": "2026-11-11",
+          "qualification": "Horizonte superior a una legislatura; inversión estimada, no gasto ya aprobado."
+        },
+        {
+          "id": "pp-memoria",
+          "topic": "instituciones",
+          "title": "Memoria democrática",
+          "summary": "Derogar la Ley de Memoria Democrática.",
+          "kind": "statement",
+          "sourceIds": [
+            "pp-memory"
+          ],
+          "locator": "Entrevista Cadena SER",
+          "date": "2026-10-23",
+          "qualification": ""
+        },
+        {
+          "id": "pp-terrorismo-listas",
+          "topic": "seguridad",
+          "title": "Candidaturas y terrorismo",
+          "summary": "Impedir que las listas incluyan personas condenadas por terrorismo.",
+          "kind": "statement",
+          "sourceIds": [
+            "pp-memory"
+          ],
+          "locator": "Entrevista Cadena SER",
+          "date": "2026-10-23",
+          "qualification": ""
+        },
+        {
+          "id": "pp-autodeterminacion",
+          "topic": "igualdad",
+          "title": "Autodeterminación de género",
+          "summary": "Cuestionar la autodeterminación recogida en la legislación.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-principles"
+          ],
+          "locator": "Ponencia política, p. 32 del PDF",
+          "date": "2025-07",
+          "qualification": "Documento de 2025; no se presenta como redacción del programa 29N."
+        },
+        {
+          "id": "pp-deporte",
+          "topic": "igualdad",
+          "title": "Categorías deportivas femeninas",
+          "summary": "Organizarlas conforme al sexo biológico.",
+          "kind": "official_position",
+          "sourceIds": [
+            "pp-principles"
+          ],
+          "locator": "Ponencia política, p. 32 del PDF",
+          "date": "2025-07",
+          "qualification": ""
+        },
+        {
+          "id": "pp-lgtbi-compromiso",
+          "topic": "igualdad",
+          "title": "Compromiso sobre derechos LGTBI",
+          "summary": "De los Santos afirma que no retrocederán y que continuará la lucha contra la violencia machista.",
+          "kind": "statement",
+          "sourceIds": [
+            "pp-rights"
+          ],
+          "locator": "Declaración de Jaime de los Santos, 11 de noviembre",
+          "date": "2026-11-11",
+          "qualification": "Declaración general de Jaime de los Santos; debe leerse junto a las propuestas concretas sobre autodeterminación y deporte."
+        }
+      ],
+      "gaps": [
+        "Pendiente la lectura y extracción íntegra del PDF del 29N; las fichas no son el programa completo.",
+        "Pendiente cotejar financiación, cronograma y condiciones detalladas de las medidas de vivienda y fiscalidad juvenil con el PDF.",
+        "No se asigna una postura actual específica sobre aborto, eutanasia o Gaza sin completar su verificación documental."
+      ]
+    },
+    {
+      "id": "vox",
+      "name": "VOX",
+      "short": "VOX",
+      "color": "#589A32",
+      "description": "Su presentación oficial prioriza la unidad de España, la familia, la defensa de la vida y la reducción del Estado.",
+      "ideals": [
+        {
+          "text": "Unidad nacional e igualdad de los españoles.",
+          "sourceIds": [
+            "vox-principles"
+          ]
+        },
+        {
+          "text": "Defensa de la familia y de la vida.",
+          "sourceIds": [
+            "vox-principles"
+          ]
+        },
+        {
+          "text": "Menor tamaño del Estado y menor intervención en la vida privada.",
+          "sourceIds": [
+            "vox-principles"
+          ]
+        }
+      ],
+      "manifesto": {
+        "status": "not_verified",
+        "title": "Programa completo del 29N no localizado",
+        "url": "https://www.voxespana.es/programa/otras-propuestas-de-vox",
+        "date": null,
+        "coverageNote": "Se revisan prioridades de octubre de 2026 y el programa económico de 2025, ambos enlazados oficialmente. No se ha verificado un manifiesto completo específico del 29N. El enlace general a programa devolvió 404."
+      },
+      "positions": [
+        {
+          "id": "vox-prioridad",
+          "topic": "vivienda",
+          "title": "Prioridad nacional",
+          "summary": "Preferencia española en vivienda pública y servicios sociales.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-recover"
+          ],
+          "locator": "p. 3",
+          "date": "2026-10",
+          "qualification": ""
+        },
+        {
+          "id": "vox-imv",
+          "topic": "economia",
+          "title": "IMV reservado",
+          "summary": "Reservarlo a españoles necesitados.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-recover"
+          ],
+          "locator": "p. 3",
+          "date": "2026-10",
+          "qualification": ""
+        },
+        {
+          "id": "vox-sanidad-irregular",
+          "topic": "sanidad",
+          "title": "Atención a personas irregulares",
+          "summary": "Limitarla a urgencia vital.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-recover"
+          ],
+          "locator": "p. 3",
+          "date": "2026-10",
+          "qualification": ""
+        },
+        {
+          "id": "vox-alquiler-irregular",
+          "topic": "vivienda",
+          "title": "Alquiler y situación irregular",
+          "summary": "Prohibir arrendar a inmigrantes irregulares.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-recover"
+          ],
+          "locator": "p. 3",
+          "date": "2026-10",
+          "qualification": ""
+        },
+        {
+          "id": "vox-burka",
+          "topic": "igualdad",
+          "title": "Burka y niqab",
+          "summary": "Prohibirlos en espacios públicos.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-recover"
+          ],
+          "locator": "p. 3",
+          "date": "2026-10",
+          "qualification": ""
+        },
+        {
+          "id": "vox-regularizacion",
+          "topic": "inmigracion",
+          "title": "Regularización tras entrada irregular",
+          "summary": "Impedirla y prohibir regularizaciones masivas.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-recover"
+          ],
+          "locator": "p. 5",
+          "date": "2026-10",
+          "qualification": ""
+        },
+        {
+          "id": "vox-expulsion",
+          "topic": "inmigracion",
+          "title": "Repatriación por irregularidad",
+          "summary": "Repatriar a quienes permanezcan irregularmente.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-recover"
+          ],
+          "locator": "p. 5",
+          "date": "2026-10",
+          "qualification": ""
+        },
+        {
+          "id": "vox-delitos",
+          "topic": "seguridad",
+          "title": "Expulsión por delincuencia",
+          "summary": "Deportar extranjeros por delitos graves o leves reiterados.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-recover"
+          ],
+          "locator": "p. 5",
+          "date": "2026-10",
+          "qualification": ""
+        },
+        {
+          "id": "vox-subsidios",
+          "topic": "inmigracion",
+          "title": "Retorno de desempleados extranjeros",
+          "summary": "Devolver a extranjeros sin trabajo o dependientes de subsidios.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-recover"
+          ],
+          "locator": "p. 5",
+          "date": "2026-10",
+          "qualification": ""
+        },
+        {
+          "id": "vox-menores",
+          "topic": "inmigracion",
+          "title": "Menores no acompañados",
+          "summary": "Devolverlos a sus familias.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-recover"
+          ],
+          "locator": "p. 5",
+          "date": "2026-10",
+          "qualification": ""
+        },
+        {
+          "id": "vox-mercosur",
+          "topic": "rural",
+          "title": "Acuerdo Mercosur",
+          "summary": "Suspenderlo por competencia considerada desigual.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-recover"
+          ],
+          "locator": "p. 4",
+          "date": "2026-10",
+          "qualification": ""
+        },
+        {
+          "id": "vox-cuencas",
+          "topic": "rural",
+          "title": "Interconexión de cuencas",
+          "summary": "Conectar cuencas y modernizar regadíos.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-recover"
+          ],
+          "locator": "p. 4",
+          "date": "2026-10",
+          "qualification": ""
+        },
+        {
+          "id": "vox-listas-espera",
+          "topic": "sanidad",
+          "title": "Listas de espera",
+          "summary": "Plan nacional y tarjeta sanitaria única.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-recover"
+          ],
+          "locator": "p. 3",
+          "date": "2026-10",
+          "qualification": ""
+        },
+        {
+          "id": "vox-ia",
+          "topic": "tecnologia",
+          "title": "Inteligencia artificial",
+          "summary": "Impulsar la participación española en su desarrollo.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-recover"
+          ],
+          "locator": "p. 4",
+          "date": "2026-10",
+          "qualification": ""
+        },
+        {
+          "id": "vox-remesas",
+          "topic": "economia",
+          "title": "Remesas al extranjero",
+          "summary": "Crear un gravamen sobre ellas.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-recover"
+          ],
+          "locator": "p. 3",
+          "date": "2026-10",
+          "qualification": ""
+        },
+        {
+          "id": "vox-pensiones-mixtas",
+          "topic": "pensiones",
+          "title": "Pensiones mixtas",
+          "summary": "Transitar a reparto y capitalización mediante un fondo público.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-economy"
+          ],
+          "locator": "p. 38",
+          "date": "2025-10-02",
+          "qualification": "Documento económico de 2025, todavía enlazado oficialmente; no manifiesto completo del 29N."
+        },
+        {
+          "id": "vox-ahorro-jubilacion",
+          "topic": "pensiones",
+          "title": "Ahorro para jubilación",
+          "summary": "Eximirlo fiscalmente sin límite si se cobra tras jubilarse.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-economy"
+          ],
+          "locator": "p. 38",
+          "date": "2025-10-02",
+          "qualification": ""
+        },
+        {
+          "id": "vox-derogar-normas",
+          "topic": "instituciones",
+          "title": "Reducción normativa",
+          "summary": "Derogar tres normas por cada nueva.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-economy"
+          ],
+          "locator": "p. 35",
+          "date": "2025-10-02",
+          "qualification": ""
+        },
+        {
+          "id": "vox-recentralizar",
+          "topic": "territorio",
+          "title": "Eliminar el Estado autonómico",
+          "summary": "Recuperar competencias sanitarias y educativas como objetivo final.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-economy"
+          ],
+          "locator": "p. 39",
+          "date": "2025-10-02",
+          "qualification": ""
+        },
+        {
+          "id": "vox-paris",
+          "topic": "clima",
+          "title": "Acuerdo de París",
+          "summary": "Retirar la adhesión española y abandonar el Pacto Verde.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-economy"
+          ],
+          "locator": "pp. 40–41",
+          "date": "2025-10-02",
+          "qualification": ""
+        },
+        {
+          "id": "vox-alquiler-regulacion",
+          "topic": "vivienda",
+          "title": "Regulación de alquileres",
+          "summary": "Derogar medidas intervencionistas.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-economy"
+          ],
+          "locator": "p. 45",
+          "date": "2025-10-02",
+          "qualification": ""
+        },
+        {
+          "id": "vox-ahorro-pension-vivienda",
+          "topic": "vivienda",
+          "title": "Pensión para comprar vivienda",
+          "summary": "Permitir anticipar parte de la pensión futura a jóvenes compradores.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-economy"
+          ],
+          "locator": "p. 47",
+          "date": "2025-10-02",
+          "qualification": ""
+        },
+        {
+          "id": "vox-subvenciones",
+          "topic": "instituciones",
+          "title": "Financiación de organizaciones",
+          "summary": "Suprimir subvenciones a partidos, sindicatos y patronales.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-economy"
+          ],
+          "locator": "p. 39",
+          "date": "2025-10-02",
+          "qualification": ""
+        },
+        {
+          "id": "vox-datos-administracion",
+          "topic": "tecnologia",
+          "title": "Datos administrativos únicos",
+          "summary": "Evitar volver a pedir información ya aportada.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-economy"
+          ],
+          "locator": "p. 36",
+          "date": "2025-10-02",
+          "qualification": ""
+        },
+        {
+          "id": "vox-presupuesto-cero",
+          "topic": "economia",
+          "title": "Presupuestos desde cero",
+          "summary": "Revisar cada gasto para reducir gasto y déficit.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-economy"
+          ],
+          "locator": "p. 39",
+          "date": "2025-10-02",
+          "qualification": ""
+        },
+        {
+          "id": "vox-irpf",
+          "topic": "economia",
+          "title": "IRPF con dos tipos",
+          "summary": "Mínimo exento de 22.000 euros; 15% hasta 70.000 y 25% por encima.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-tax-pnl"
+          ],
+          "locator": "Proposición no de ley, punto 2",
+          "date": "2026-02-13",
+          "qualification": "Propuesta parlamentaria, no normativa vigente."
+        },
+        {
+          "id": "vox-irpf-hijos",
+          "topic": "economia",
+          "title": "Rebaja fiscal por hijos",
+          "summary": "Restar cuatro puntos porcentuales al tipo aplicable por cada descendiente.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-tax-pnl"
+          ],
+          "locator": "Proposición no de ley, punto 2",
+          "date": "2026-02-13",
+          "qualification": "Propuesta parlamentaria, no normativa vigente."
+        },
+        {
+          "id": "vox-iva-general",
+          "topic": "economia",
+          "title": "Reducir tipos de IVA",
+          "summary": "General del 21% al 18%; reducido del 10% al 8%.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-tax-pnl"
+          ],
+          "locator": "Proposición no de ley, punto 1",
+          "date": "2026-02-13",
+          "qualification": "Propuesta parlamentaria, no normativa vigente."
+        },
+        {
+          "id": "vox-iva-alimentos",
+          "topic": "economia",
+          "title": "IVA de alimentos básicos",
+          "summary": "Tipo cero permanente, incluyendo carnes, pescados, aceites y pastas.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-tax-pnl"
+          ],
+          "locator": "Proposición no de ley, punto 1",
+          "date": "2026-02-13",
+          "qualification": "Propuesta parlamentaria, no normativa vigente."
+        },
+        {
+          "id": "vox-iva-suministros",
+          "topic": "economia",
+          "title": "IVA de suministros domésticos",
+          "summary": "Aplicar el 4% a luz, gas y agua.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-tax-pnl"
+          ],
+          "locator": "Proposición no de ley, punto 1",
+          "date": "2026-02-13",
+          "qualification": "Propuesta parlamentaria, no normativa vigente."
+        },
+        {
+          "id": "vox-cuota-autonomos",
+          "topic": "empleo",
+          "title": "Autónomos con ingresos bajos",
+          "summary": "Bonificar íntegramente la cuota si sus ingresos son inferiores al SMI.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-audit"
+          ],
+          "locator": "Propuestas defendidas en el Congreso",
+          "date": "2026-06-04",
+          "qualification": ""
+        },
+        {
+          "id": "vox-auditoria",
+          "topic": "instituciones",
+          "title": "Auditoría integral del gasto",
+          "summary": "Examinar el gasto público para identificar partidas prescindibles.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-audit"
+          ],
+          "locator": "Petición de auditoría",
+          "date": "2026-06-04",
+          "qualification": ""
+        },
+        {
+          "id": "vox-impuestos-casa",
+          "topic": "vivienda",
+          "title": "Primera vivienda sin impuestos",
+          "summary": "José María Llanos propone suprimir todos los impuestos de la primera vivienda.",
+          "kind": "statement",
+          "sourceIds": [
+            "vox-housing"
+          ],
+          "locator": "Declaraciones de José María Llanos",
+          "date": "2026-09-30",
+          "qualification": "Atribución autonómica valenciana; no equivale a un programa estatal completo."
+        },
+        {
+          "id": "vox-suelo",
+          "topic": "vivienda",
+          "title": "Liberalizar suelo",
+          "summary": "Llanos propone ampliar suelo para vivienda libre y pública y reducir trámites.",
+          "kind": "statement",
+          "sourceIds": [
+            "vox-housing"
+          ],
+          "locator": "Declaraciones de José María Llanos",
+          "date": "2026-09-30",
+          "qualification": "Declaración de portavoz autonómico."
+        },
+        {
+          "id": "vox-educacion-lengua",
+          "topic": "educacion",
+          "title": "Oposición a inmersión lingüística",
+          "summary": "Cuestionar los modelos de inmersión de Cataluña y País Vasco.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-education"
+          ],
+          "locator": "Intervención de Joaquín Robles",
+          "date": "2026-06-18",
+          "qualification": ""
+        },
+        {
+          "id": "vox-educacion-eleccion",
+          "topic": "educacion",
+          "title": "Libertad de elección educativa",
+          "summary": "Reformar la enseñanza según mérito, elección familiar e igualdad de oportunidades.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-education"
+          ],
+          "locator": "Posición ante proyecto de ley educativo",
+          "date": "2026-06-18",
+          "qualification": ""
+        },
+        {
+          "id": "vox-cupo-trans",
+          "topic": "igualdad",
+          "title": "Cupo laboral trans",
+          "summary": "Rechazar la propuesta de reservar un cupo específico en empleo público.",
+          "kind": "record",
+          "sourceIds": [
+            "vox-trans-quota"
+          ],
+          "locator": "Comisión de Igualdad; PNL de Podemos",
+          "date": "2026-06-16",
+          "qualification": "Voto NO comunicado por VOX; pendiente cotejo con acta oficial de la comisión."
+        },
+        {
+          "id": "vox-aborto-constitucion",
+          "topic": "igualdad",
+          "title": "Blindaje constitucional del aborto",
+          "summary": "Oponerse a incorporarlo mediante reforma del artículo 43.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-abortion"
+          ],
+          "locator": "Enmienda a la totalidad defendida por Joaquín Robles",
+          "date": "2026-04-30",
+          "qualification": "Registra la postura de VOX, no una valoración jurídica sobre la reforma."
+        },
+        {
+          "id": "vox-misiones",
+          "topic": "exterior",
+          "title": "Control de misiones militares",
+          "summary": "Exigir autorización parlamentaria y desglose del gasto de los despliegues.",
+          "kind": "official_position",
+          "sourceIds": [
+            "vox-defence"
+          ],
+          "locator": "Comisión de Defensa",
+          "date": "2026-01-26",
+          "qualification": ""
+        },
+        {
+          "id": "vox-israel",
+          "topic": "exterior",
+          "title": "Cooperación militar con Israel",
+          "summary": "Asarta defiende mantener la cooperación estratégica y tecnológica y critica cancelar contratos.",
+          "kind": "statement",
+          "sourceIds": [
+            "vox-israel"
+          ],
+          "locator": "Apartado sobre política hacia Israel",
+          "date": "2026-10-21",
+          "qualification": ""
+        },
+        {
+          "id": "vox-nuclear",
+          "topic": "clima",
+          "title": "Nuclear y redes eléctricas",
+          "summary": "Figaredo defiende energía nuclear e inversión en redes para asegurar suministro industrial.",
+          "kind": "statement",
+          "sourceIds": [
+            "vox-energy"
+          ],
+          "locator": "Interpelación a la ministra de Transición Ecológica",
+          "date": "2026-03-18",
+          "qualification": ""
+        },
+        {
+          "id": "vox-sanidad-coordinada",
+          "topic": "sanidad",
+          "title": "Coordinación sanitaria nacional",
+          "summary": "El candidato en Castilla y León propone un sistema coordinado que iguale el acceso territorial.",
+          "kind": "statement",
+          "sourceIds": [
+            "vox-health"
+          ],
+          "locator": "Propuesta del candidato autonómico",
+          "date": "2026-03-12",
+          "qualification": "Declaración autonómica, no nuevo programa general."
+        }
+      ],
+      "gaps": [
+        "Falta localizar y verificar un programa electoral integral específico del 29N.",
+        "El documento económico de 2025 sigue enlazado, pero sus propuestas deben cotejarse con el futuro texto electoral.",
+        "No se ha completado el examen de todas las votaciones parlamentarias ni una evaluación independiente de costes.",
+        "Pendientes medidas concretas actuales sobre salud mental, listas de espera educativas, universidad e investigación."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "pp-launch",
+      "title": "PP: principales medidas presentadas para el 29N",
+      "url": "https://www.pp.es/actualidad/articulos/reparar-el-estado-regenerar-la-democracia-reunir-a-la-nacion-y-recuperar-la-ambicion-los-cuatro-pilares-de-la-reconstruccion-nacional-que-feijoo-cumplira-si-o-si/",
+      "date": "2026-11-10",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": "Resumen oficial de 20 medidas; no equivale al PDF completo."
+    },
+    {
+      "id": "pp-speech",
+      "title": "PP: presentación del programa de Feijóo",
+      "url": "https://www.pp.es/actualidad/articulos/feijoo-presenta-el-programa-del-pp-como-la-cura-con-la-que-sanar-una-espana-herida-y-la-respuesta-para-reconstruir-el-pais/",
+      "date": "2026-11-10",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "pp-economy",
+      "title": "PP: decálogo económico de septiembre",
+      "url": "https://www.pp.es/actualidad/articulos/el-pp-plantea-un-decalogo-de-reformas-economicas-para-recuperar-el-poder-adquisitivo-y-modernizar-la-economia/",
+      "date": "2026-09-27",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "pp-principles",
+      "title": "PP: ponencia política aprobada en 2025",
+      "url": "https://www.pp.es/storage/2025/07/POLITICA_PARTIDOPOPULAR_2025.pdf",
+      "date": "2025-07",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": "Principios iniciales; igualdad y autodeterminación registral, p. 32 del PDF."
+    },
+    {
+      "id": "pp-immigration",
+      "title": "PP: plan nacional de inmigración",
+      "url": "https://www.pp.es/storage/2025/10/Plan-Nacional-de-Inmigracion-del-Partido-Popular.pdf",
+      "date": "2025-10",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": "Documento previo a la convocatoria, mantenido como posición oficial; no programa 29N."
+    },
+    {
+      "id": "pp-special-education",
+      "title": "PP: propuesta para educación especial",
+      "url": "https://www.pp.es/actualidad/articulos/el-pp-impulsa-un-plan-para-proteger-la-educacion-especial-y-que-las-familias-puedan-elegir-frente-a-la-tutela-ideologica-que-impone-el-gobierno/",
+      "date": "2026-04-08",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "pp-disability",
+      "title": "PP: enmiendas sobre discapacidad y dependencia",
+      "url": "https://www.pp.es/actualidad/articulos/el-pp-registra-una-bateria-de-45-enmiendas-en-las-que-reclama-un-paquete-de-medidas-fiscales-para-la-discapacidad/",
+      "date": "2026-09-02",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "pp-contract",
+      "title": "PP: compromisos del contrato con España",
+      "url": "https://www.pp.es/actualidad/articulos/feijoo-firma-el-contrato-para-gobernar-el-cambio-mi-mayor-ambicion-es-lograr-que-la-palabra-de-un-presidente-vuelva-a-tener-valor/",
+      "date": "2026-10-19",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "pp-pensions",
+      "title": "PP: pensiones públicas e IPC",
+      "url": "https://www.pp.es/actualidad/articulos/feijoo-garantiza-el-sistema-publico-de-pensiones-y-su-revalorizacion-con-el-ipc-el-desahucio-mas-importante-de-espana-es-el-de-pedro-sanchez/",
+      "date": "2026-10-13",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "pp-democracy",
+      "title": "PP: ficha de regeneración institucional",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/26-11-10-HC-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-11",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": "Hoja política de una página; fecha impresa 11 de noviembre."
+    },
+    {
+      "id": "pp-tellado",
+      "title": "PP: compromisos sobre seguridad, vivienda e infraestructuras",
+      "url": "https://www.pp.es/actualidad/articulos/tellado-acusa-a-los-sindicatos-de-despertar-de-la-siesta-ocho-anos-despues-para-montarle-una-huelga-preventiva-al-partido-de-los-currantes/",
+      "date": "2026-11-11",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "pp-memory",
+      "title": "PP: entrevista sobre salarios y memoria democrática",
+      "url": "https://www.pp.es/actualidad/articulos/feijoo-mi-objetivo-no-solo-es-que-suba-el-salario-minimo-sino-tambien-el-salario-medio-para-hacer-crecer-la-economia/",
+      "date": "2026-10-23",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "pp-rights",
+      "title": "PP: declaración de De los Santos sobre igualdad y derechos LGTBI",
+      "url": "https://www.pp.es/actualidad/articulos/de-los-santos-subraya-que-la-inusual-y-sorprendente-huelga-general-evidencia-hasta-que-punto-los-sindicatos-se-han-convertido-en-adlateres-de-sanchez-que-los-utiliza/",
+      "date": "2026-11-11",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "pp-manifesto-2026",
+      "title": "PP: La Reconstrucción Nacional, programa completo enlazado",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "date": "2026-11-10",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": "Enlace verificado en portada oficial. Lectura íntegra bloqueada por timeout/403; la copia alternativa supera el límite de tamaño del lector. Las fichas remiten a páginas oficiales sí leídas."
+    },
+    {
+      "id": "vox-principles",
+      "title": "VOX: presentación de sus principios",
+      "url": "https://www.voxespana.es/espana/que-es-vox",
+      "date": null,
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "vox-recover",
+      "title": "VOX: prioridades Recuperar España",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/10/RECUPERAR-ESPANA-A4.pdf",
+      "date": "2026-10",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": "Documento de seis páginas. Fecha inferida del directorio oficial; no consta día. No identificado como manifiesto electoral completo del 29N."
+    },
+    {
+      "id": "vox-economy",
+      "title": "VOX: programa económico y de vivienda de 2025",
+      "url": "https://www.voxespana.es/wp-content/uploads/2025/10/Programa-WEB-021025.pdf",
+      "date": "2025-10-02",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": "48 páginas. El documento se mantiene enlazado desde la web oficial en noviembre de 2026; no es el programa completo de las generales de 2026. Fecha del nombre de archivo."
+    },
+    {
+      "id": "vox-tax-pnl",
+      "title": "Congreso: propuesta fiscal de VOX",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/D/BOCG-15-D-475.PDF",
+      "date": "2026-02-13",
+      "accessed": "2026-11-11",
+      "type": "parliament_primary",
+      "locatorNotes": "Proposición no de ley: reducción del IVA y reforma del IRPF. Registro de propuesta, no ley aprobada."
+    },
+    {
+      "id": "vox-audit",
+      "title": "VOX: auditoría de gasto y rebajas fiscales",
+      "url": "https://www.voxespana.es/grupo_parlamentario/actividad-parlamentaria/vox-exige-una-auditoria-integral-del-gasto-publico-y-denuncia-que-la-recaudacion-record-no-mejora-la-vida-de-los-espanoles-20260604",
+      "date": "2026-06-04",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "vox-housing",
+      "title": "VOX: propuesta de vivienda explicada por José María Llanos",
+      "url": "https://www.voxespana.es/noticias/vox-propone-la-eliminacion-total-de-los-impuestos-para-la-primera-vivienda-la-liberalizacion-del-suelo-y-reduccion-de-las-trabas-burocraticas-20260930",
+      "date": "2026-09-30",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": "Declaraciones de un portavoz autonómico valenciano; se conserva esa atribución."
+    },
+    {
+      "id": "vox-education",
+      "title": "VOX: posición parlamentaria sobre educación",
+      "url": "https://www.voxespana.es/grupo_parlamentario/actividad-parlamentaria/vox-denuncia-que-pnv-y-junts-utilizan-la-educacion-como-herramienta-de-ingenieria-ideologica-y-chantaje-politico-20260618",
+      "date": "2026-06-18",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "vox-trans-quota",
+      "title": "VOX: voto comunicado sobre cupo laboral trans",
+      "url": "https://www.voxespana.es/grupo_parlamentario/actividad-parlamentaria/romero-senala-a-bildu-como-buen-conocedor-de-la-cultura-de-la-muerte-no-estan-legitimados-para-hablar-de-proteccion-de-la-intimidad-y-de-garantizar-los-derechos-individuales-20260616",
+      "date": "2026-06-16",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": "Registro según nota del partido; no se ha cotejado acta independiente de la comisión."
+    },
+    {
+      "id": "vox-abortion",
+      "title": "VOX: oposición al blindaje constitucional del aborto",
+      "url": "https://www.voxespana.es/grupo_parlamentario/actividad-parlamentaria/aborto-constitucion-robles-denuncia-el-fraude-de-ley-del-gobierno-y-asegura-que-el-gobierno-no-se-preocupa-por-el-bienestar-de-las-mujeres-es-el-ejecutivo-que-acorta-la-condena-de-violadores-20260430",
+      "date": "2026-04-30",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "vox-defence",
+      "title": "VOX: control parlamentario y medios de defensa",
+      "url": "https://www.voxespana.es/grupo_parlamentario/actividad-parlamentaria/vox-denuncia-el-despliegue-de-tropas-en-el-exterior-sin-la-autorizacion-del-congreso-es-inaceptable-el-gobierno-actua-sin-control-parlamentario-20260126",
+      "date": "2026-01-26",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "vox-israel",
+      "title": "VOX: posición de Asarta sobre cooperación con Israel",
+      "url": "https://www.voxespana.es/castellon/alberto-asarta-candidato-vox-castellon-29n-20261021?provincia=castellon",
+      "date": "2026-10-21",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "vox-energy",
+      "title": "VOX: nuclear y redes eléctricas",
+      "url": "https://www.voxespana.es/grupo_parlamentario/actividad-parlamentaria/figaredo-a-la-ministra-aagesen-su-sistema-esta-dejando-a-espana-a-oscuras-20260318",
+      "date": "2026-03-18",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": ""
+    },
+    {
+      "id": "vox-health",
+      "title": "VOX: propuesta de coordinación sanitaria",
+      "url": "https://www.voxespana.es/noticias/vox-alerta-del-deterioro-de-la-sanidad-en-castilla-y-leon-20260312",
+      "date": "2026-03-12",
+      "accessed": "2026-11-11",
+      "type": "party_primary",
+      "locatorNotes": "Intervención de candidato autonómico en Castilla y León; no manifiesto estatal del 29N."
+    }
+  ],
+  "researchNotes": [
+    "El contenido de los partidos describe propuestas; no valida las cifras o relaciones causales alegadas por ellos.",
+    "No se reproducen las acusaciones partidistas contra colectivos, adversarios o instituciones como hechos.",
+    "Cada fuente se ha resumido de forma concisa; las fuentes extensas permanecen enlazadas para consulta íntegra.",
+    "No se han descargado documentos locales: el acceso directo al PDF del PP fue rechazado con HTTP 403; su versión alternativa excede el límite del lector web."
+  ]
+}

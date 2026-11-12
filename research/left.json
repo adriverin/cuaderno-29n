@@ -1,0 +1,1761 @@
+{
+  "researchCutoff": "2026-11-11",
+  "assembledOn": "2026-11-12",
+  "sources": [
+    {
+      "id": "psoe-congreso2024",
+      "title": "Resolución política del 41.º Congreso Federal (2024)",
+      "url": "https://www.psoe.es/media-content/2024/12/RESOLUCION-41C.pdf",
+      "date": "2024-12-01",
+      "accessed": "2026-11-11",
+      "type": "party_resolution",
+      "locatorNotes": "161 páginas. Selección temática breve; no es el programa de las elecciones de 2026. Página indicada = numeración del PDF."
+    },
+    {
+      "id": "psoe-ponferrada",
+      "title": "Intervención de Pedro Sánchez en Ponferrada",
+      "url": "https://www.psoe.es/actualidad/noticias-actualidad/pedro-sanchez-pido-al-supremo-que-frene-este-intento-de-atropello-de-feijoo-y-de-abascal-porque-en-una-democracia-el-derecho-al-voto-no-se-prohibe-se-garantiza/",
+      "date": "2026-10-11",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "psoe-valencia",
+      "title": "Intervención de Pedro Sánchez en València",
+      "url": "https://www.psoe.es/actualidad/noticias-actualidad/pedro-sanchez-vamos-a-movilizarnos-vamos-a-votar-el-proximo-29-de-noviembre-vamos-a-ganar-las-elecciones-y-vamos-a-seguir-gobernando-cuatro-anos-mas/",
+      "date": "2026-11-07",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "La cabecera marca 07/11/2026 y el cuerpo 06/11/2026; se conserva la fecha de publicación."
+    },
+    {
+      "id": "psoe-granada",
+      "title": "Compromisos sobre aborto y muerte digna en Granada",
+      "url": "https://www.psoe.es/actualidad/noticias-actualidad/pedro-sanchez-frente-a-los-recortes-de-feijoo-y-abascal-blindaremos-el-derecho-al-aborto-de-las-mujeres-en-la-constitucion/",
+      "date": "2026-10-24",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "psoe-pensiones",
+      "title": "Anuncio de protección constitucional de las pensiones en Gijón",
+      "url": "https://www.psoe.es/actualidad/noticias-actualidad/pedro-sanchez-la-proxima-legislatura-reformaremos-la-constitucion-para-blindar-las-pensiones-y-revalorizarlas-conforme-al-ipc/",
+      "date": null,
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Nota de precampaña 29N; el texto recuperado no muestra fecha inequívoca."
+    },
+    {
+      "id": "psoe-financiacion",
+      "title": "Propuesta socialista de financiación autonómica",
+      "url": "https://www.psoe.es/el-socialista/la-nueva-financiacion-autonomica-21-mil-millones-mas-para-educacion-sanidad-o-vivienda/",
+      "date": null,
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "psoe-regularizacion",
+      "title": "Defensa de la regularización extraordinaria",
+      "url": "https://www.psoe.es/actualidad/noticias-actualidad/elma-saiz-sobre-la-regularizacion-extraordinaria-de-personas-migrantes-cuando-la-realidad-social-va-por-delante-el-estado-responsable-no-es-el-que-mira-hacia-otro-lado/",
+      "date": null,
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "psoe-integracion",
+      "title": "Plan de Integración y Ciudadanía 2026–2030",
+      "url": "https://www.psoe.es/actualidad/noticias-actualidad/elma-saiz-la-regularizacion-es-un-acto-de-profunda-justicia-social-de-pragmatismo-economico-y-de-reconocimiento-explicito-de-dignidad-humana/",
+      "date": "2026-07-15",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "psoe-ia",
+      "title": "Iniciativa socialista para la adopción de IA en pymes",
+      "url": "https://www.psoe.es/congreso/noticias-congreso/el-grupo-socialista-apuesta-por-potenciar-el-uso-herramientas-de-inteligencia-artificial-en-las-pymes/",
+      "date": "2025-10-17",
+      "accessed": "2026-11-11",
+      "type": "parliamentary_initiative",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "psoe-rural",
+      "title": "Mociones sobre transporte y despoblación",
+      "url": "https://www.psoe.es/senado/notas-de-prensa/el-psoe-refuerza-su-compromiso-contra-la-despoblacion-con-medidas-para-garantizar-servicios-transporte-y-oportunidades-en-el-medio-rural/",
+      "date": "2026-03-24",
+      "accessed": "2026-11-11",
+      "type": "parliamentary_initiative",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "psoe-agricultura",
+      "title": "Sector primario, Agenda 2030 y Pacto Verde",
+      "url": "https://www.psoe.es/congreso/noticias-congreso/el-grupo-socialista-apuesta-por-la-defensa-del-sector-primario-en-el-marco-de-la-agenda-2030-y-el-pacto-verde-europeo/",
+      "date": "2026-06-12",
+      "accessed": "2026-11-11",
+      "type": "parliamentary_initiative",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "psoe-otan",
+      "title": "Sánchez en la cumbre de la OTAN: transcripción",
+      "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/20260708-transcripcion-sanchez-cumbre-otan.aspx",
+      "date": "2026-07-08",
+      "accessed": "2026-11-11",
+      "type": "government_statement",
+      "locatorNotes": "Posición del presidente del Gobierno; se distingue de un compromiso electoral del PSOE."
+    },
+    {
+      "id": "psoe-otanactividad",
+      "title": "Sánchez anuncia participación en misión de la OTAN en Finlandia",
+      "url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/080726-sanchez-cumbre-otan-turquia.aspx?galv2r=5",
+      "date": "2026-07-08",
+      "accessed": "2026-11-11",
+      "type": "government_statement",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "fa-constitucion",
+      "title": "Constitución del Frente Amplio",
+      "url": "https://frenteamplio.info/noticias/el-frente-amplio-de-la-izquierda-es-hoy-una-realidad/",
+      "date": "2026-10-17",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "fa-vivienda",
+      "title": "Propuesta de expropiación de vivienda corporativa",
+      "url": "https://frenteamplio.info/noticias/frente-amplio-propone-malaga-ley-expropiar-vivienda-grandes-fondos-inversion/",
+      "date": "2026-11-06",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "fa-impuestos",
+      "title": "Tres propuestas fiscales de Frente Amplio",
+      "url": "https://frenteamplio.info/noticias/frente-amplio-propone-subir-impuestos-grandes-fortunas-empresas-mejorar-servicios/",
+      "date": "2026-11-05",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "fa-pensiones",
+      "title": "Pensión mínima y jubilación a los 65 años",
+      "url": "https://frenteamplio.info/noticias/frente-amplio-propone-ninguna-pension-este-debajo-salario-minimo-recuperar/",
+      "date": "2026-10-24",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "fa-tren",
+      "title": "Pacto de Estado por el Tren",
+      "url": "https://frenteamplio.info/noticias/frente-amplio-pide-pacto-estado-tren-incluya-unificacion-adif-renfe/",
+      "date": "2026-11-02",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "fa-ia",
+      "title": "Compromiso contra la suplantación y la IA vejatoria",
+      "url": "https://frenteamplio.info/noticias/ada-colau-pide-carta-sanchez-feijoo-abascal-compromiso-uso-vejatorio/",
+      "date": "2026-10-27",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "sumar-principios",
+      "title": "Autodefinición de Movimiento Sumar",
+      "url": "https://movimientosumar.es/conocenos/",
+      "date": null,
+      "accessed": "2026-11-11",
+      "type": "party_principles",
+      "locatorNotes": "Fuente de un integrante; no equivale a un acuerdo de todas las organizaciones del Frente Amplio."
+    },
+    {
+      "id": "sumar-vivienda",
+      "title": "Posición de Sumar sobre los decretos de vivienda",
+      "url": "https://movimientosumar.es/aprobamos-en-consejo-de-ministros-los-decretos-de-vivienda/",
+      "date": "2026-09-29",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "sumar-almaraz",
+      "title": "Oposición de Sumar a prorrogar Almaraz",
+      "url": "https://movimientosumar.es/prorrogar-almaraz-una-decision-al-servicio-del-oligopolio-que-frena-la-transicion-energetica-e-hipotec-a-la-ciudadania/",
+      "date": "2026-08-14",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "sumar-migracion",
+      "title": "Posición de Sumar sobre regularización",
+      "url": "https://movimientosumar.es/aprobamos-en-consejo-de-ministros-la-regularizacion-de-mas-de-500-000-personas/",
+      "date": "2026-04-14",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "sumar-expresidentes",
+      "title": "Proposición sobre el estatuto de expresidentes",
+      "url": "https://movimientosumar.es/sumar-impulsa-una-regulacion-del-estatuto-de-expresidentes-del-gobierno/",
+      "date": "2026-06-03",
+      "accessed": "2026-11-11",
+      "type": "parliamentary_initiative",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "sumar-lgtbi",
+      "title": "Posición de Sumar sobre derechos LGTBIQA+",
+      "url": "https://movimientosumar.es/orgullosamente-diversas-orgullosamente-combativas/",
+      "date": "2026-06-26",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "sumar-aborto",
+      "title": "Sumar y el aborto en la Constitución",
+      "url": "https://movimientosumar.es/un-paso-mas-para-que-el-aborto-entre-en-la-constitucion/",
+      "date": "2026-04-30",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "sumar-infancia",
+      "title": "Reforma de protección a la infancia defendida por Sumar",
+      "url": "https://movimientosumar.es/el-consejo-de-ministros-y-ministras-aprueba-la-ley-de-proteccion-integral-a-la-infancia-y-la-adolescencia-frente-a-la-violencia-lopivi/",
+      "date": "2026-05-05",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "sumar-exterior",
+      "title": "Documento internacional de Movimiento Sumar",
+      "url": "https://movimientosumar.es/wp-content/uploads/2026/06/Geopolitica-en-tiempos-de-Trump.pdf",
+      "date": "2026-06-24",
+      "accessed": "2026-11-11",
+      "type": "party_resolution",
+      "locatorNotes": "27 páginas. Se revisan las propuestas finales; no es un programa electoral de Frente Amplio."
+    },
+    {
+      "id": "iu-huelga",
+      "title": "Posición de IU ante la huelga general",
+      "url": "https://izquierdaunida.org/2026/11/10/iu-se-vuelca-en-todo-el-estado-en-respaldo-a-la-huelga-general-para-conseguir-una-vida-digna-empezando-por-una-vivienda-accesible-con-mejores-salarios-y-servicios-publicos/",
+      "date": "2026-11-10",
+      "accessed": "2026-11-11",
+      "type": "official_party",
+      "locatorNotes": "Texto original; las cifras y valoraciones del emisor no constituyen una evaluación independiente."
+    },
+    {
+      "id": "podemos-campana",
+      "title": "Cinco ejes de la campaña de Irene Montero",
+      "url": "https://pazcasaytrabajo.es/",
+      "date": null,
+      "accessed": "2026-11-11",
+      "type": "official_campaign",
+      "locatorNotes": "Página oficial de campaña consultada el 11/11/2026. Cinco medidas generales; no PDF íntegro del programa. No se muestra fecha inequívoca de publicación."
+    },
+    {
+      "id": "podemos-europeas2024",
+      "title": "Programa de Podemos para las europeas de 2024",
+      "url": "https://podemos.info/wp-content/uploads/2024/05/Programa-PODEMOS-elecciones-europeas-2024.pdf",
+      "date": "2024-05",
+      "accessed": "2026-11-11",
+      "type": "historical_manifesto",
+      "locatorNotes": "130 páginas. Selección breve de antecedentes, NO programa de las generales 2026. Los localizadores indican la página impresa."
+    },
+    {
+      "id": "podemos-vivienda-congreso",
+      "title": "Noemí Santana: propuestas de vivienda en el Congreso",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-185.PDF",
+      "date": "2026-05-19",
+      "accessed": "2026-11-11",
+      "type": "parliamentary_statement",
+      "locatorNotes": "Intervención de Noemí Santana, p. 54. Acredita postura expresada, no resultado de votación."
+    },
+    {
+      "id": "podemos-redes-congreso",
+      "title": "Ione Belarra: fiscalidad de plataformas y red social pública",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-164.PDF",
+      "date": "2026-02-11",
+      "accessed": "2026-11-11",
+      "type": "parliamentary_statement",
+      "locatorNotes": "Intervención de Ione Belarra: localizar «educación sexual obligatoria» y «red social pública»."
+    },
+    {
+      "id": "podemos-migracion-entrevista",
+      "title": "Entrevista directa a Ione Belarra sobre regularización",
+      "url": "https://cadenaser.com/nacional/2026/01/26/ione-belarra-sobre-la-regularizacion-de-migrantes-pactada-con-el-gobierno-si-el-partido-popular-y-vox-rabian-es-porque-estamos-acertando-cadena-ser/",
+      "date": "2026-01-26",
+      "accessed": "2026-11-11",
+      "type": "interview",
+      "locatorNotes": "Fuente primaria testimonial: respuestas de Ione Belarra a la entrevistadora. El acuerdo anunciado no equivale a todas las condiciones finalmente aprobadas."
+    }
+  ],
+  "parties": [
+    {
+      "id": "psoe",
+      "name": "Partido Socialista Obrero Español",
+      "short": "PSOE",
+      "color": "#cc2940",
+      "description": "Formación socialdemócrata de ámbito estatal; aquí se recogen sus posiciones federales.",
+      "ideals": [
+        {
+          "text": "Redistribución y servicios públicos universales.",
+          "sourceIds": [
+            "psoe-congreso2024"
+          ]
+        },
+        {
+          "text": "Igualdad feminista, diversidad y transición ecológica.",
+          "sourceIds": [
+            "psoe-congreso2024"
+          ]
+        },
+        {
+          "text": "Integración europea y cooperación multilateral.",
+          "sourceIds": [
+            "psoe-congreso2024"
+          ]
+        }
+      ],
+      "manifesto": {
+        "status": "not_located",
+        "title": "Programa completo 29N no localizado",
+        "url": "https://www.psoe.es/",
+        "date": null,
+        "coverageNote": "No se ha localizado un programa íntegro de las generales 2026 en las fuentes oficiales revisadas a 11/11. Selección de anuncios de campaña, posiciones oficiales y resolución federal de 2024. No equivale a inventario completo."
+      },
+      "positions": [
+        {
+          "id": "psoe-001",
+          "topic": "vivienda",
+          "title": "Vivienda protegida",
+          "summary": "Sánchez plantea alcanzar un 6 % de vivienda protegida en 2030.",
+          "kind": "statement",
+          "sourceIds": [
+            "psoe-ponferrada"
+          ],
+          "locator": "Intervención, párrafo de objetivos para 2030",
+          "date": "2026-10-11",
+          "qualification": "El anuncio no precisa aquí calendario presupuestario ni instrumento de ejecución."
+        },
+        {
+          "id": "psoe-002",
+          "topic": "clima",
+          "title": "Electricidad renovable",
+          "summary": "Sánchez fija como objetivo un 80 % de generación eléctrica renovable en 2030.",
+          "kind": "statement",
+          "sourceIds": [
+            "psoe-ponferrada"
+          ],
+          "locator": "Párrafo final de objetivos 2030",
+          "date": "2026-10-11",
+          "qualification": "Cifra de este discurso; no sustituye las metas de otros planes energéticos."
+        },
+        {
+          "id": "psoe-003",
+          "topic": "igualdad",
+          "title": "Paridad en el poder",
+          "summary": "Aspira a que las mujeres ocupen el 50 % del poder económico e institucional en 2030.",
+          "kind": "statement",
+          "sourceIds": [
+            "psoe-ponferrada"
+          ],
+          "locator": "Objetivos para 2030",
+          "date": "2026-10-11",
+          "qualification": "Objetivo general; la nota no especifica nuevas cuotas o sanciones."
+        },
+        {
+          "id": "psoe-004",
+          "topic": "empleo",
+          "title": "Subidas anuales del SMI",
+          "summary": "Sánchez se compromete a seguir elevando el salario mínimo cada año de gobierno.",
+          "kind": "statement",
+          "sourceIds": [
+            "psoe-valencia"
+          ],
+          "locator": "Intervención: salario mínimo",
+          "date": "2026-11-07",
+          "qualification": "No concreta aquí la cuantía anual."
+        },
+        {
+          "id": "psoe-005",
+          "topic": "sanidad",
+          "title": "Reforzar la sanidad pública",
+          "summary": "Defiende ampliar los servicios sanitarios públicos.",
+          "kind": "statement",
+          "sourceIds": [
+            "psoe-valencia"
+          ],
+          "locator": "Intervención: servicios públicos",
+          "date": "2026-11-07",
+          "qualification": "Orientación general, sin dotación ni objetivos asistenciales en esta nota."
+        },
+        {
+          "id": "psoe-006",
+          "topic": "educacion",
+          "title": "Educación pública",
+          "summary": "Propone fortalecer la educación pública.",
+          "kind": "statement",
+          "sourceIds": [
+            "psoe-valencia"
+          ],
+          "locator": "Intervención: servicios públicos",
+          "date": "2026-11-07",
+          "qualification": "No concreta aquí ratios, plazas o financiación."
+        },
+        {
+          "id": "psoe-007",
+          "topic": "pensiones",
+          "title": "Sistema de dependencia",
+          "summary": "Defiende reforzar la atención a la dependencia.",
+          "kind": "statement",
+          "sourceIds": [
+            "psoe-valencia"
+          ],
+          "locator": "Intervención: dependencia",
+          "date": "2026-11-07",
+          "qualification": "Se clasifica con pensiones y cuidados; no es una nueva prestación detallada."
+        },
+        {
+          "id": "psoe-008",
+          "topic": "igualdad",
+          "title": "Aborto en la Constitución",
+          "summary": "Promete una reforma constitucional que proteja el derecho al aborto.",
+          "kind": "statement",
+          "sourceIds": [
+            "psoe-granada"
+          ],
+          "locator": "Anuncio inicial",
+          "date": "2026-10-24",
+          "qualification": "Requeriría tramitar la reforma constitucional; no se presenta como norma ya aprobada."
+        },
+        {
+          "id": "psoe-009",
+          "topic": "sanidad",
+          "title": "Muerte digna",
+          "summary": "Sánchez se compromete a mantener el derecho a una muerte digna.",
+          "kind": "statement",
+          "sourceIds": [
+            "psoe-granada"
+          ],
+          "locator": "Primeros párrafos",
+          "date": "2026-10-24",
+          "qualification": "La nota lo presenta como defensa de un derecho existente."
+        },
+        {
+          "id": "psoe-010",
+          "topic": "pensiones",
+          "title": "Pensiones vinculadas al IPC",
+          "summary": "Propone garantizar constitucionalmente las pensiones y su actualización conforme al IPC.",
+          "kind": "statement",
+          "sourceIds": [
+            "psoe-pensiones"
+          ],
+          "locator": "Anuncio de Gijón",
+          "date": null,
+          "qualification": "Compromiso condicionado a una nueva legislatura y reforma constitucional."
+        },
+        {
+          "id": "psoe-011",
+          "topic": "empleo",
+          "title": "Objetivo de desempleo",
+          "summary": "Sánchez plantea alcanzar una tasa de paro del 8 %.",
+          "kind": "statement",
+          "sourceIds": [
+            "psoe-pensiones"
+          ],
+          "locator": "Compromisos para los siguientes cuatro años",
+          "date": null,
+          "qualification": "Objetivo, no resultado garantizado ni medida de contratación concreta."
+        },
+        {
+          "id": "psoe-012",
+          "topic": "exterior",
+          "title": "Reconocimiento de Palestina",
+          "summary": "Sánchez reafirma la defensa del reconocimiento del Estado palestino.",
+          "kind": "statement",
+          "sourceIds": [
+            "psoe-pensiones"
+          ],
+          "locator": "Balance de política exterior",
+          "date": null,
+          "qualification": "La nota reivindica una decisión anterior; no anuncia un reconocimiento nuevo."
+        },
+        {
+          "id": "psoe-013",
+          "topic": "territorio",
+          "title": "Más financiación autonómica",
+          "summary": "Defiende una reforma con unos 21.000 millones adicionales y 3.000 millones más para el fondo de solidaridad.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-financiacion"
+          ],
+          "locator": "Descripción del modelo",
+          "date": null,
+          "qualification": "Cifras del PSOE. Propuesta sujeta a negociación y aprobación parlamentaria."
+        },
+        {
+          "id": "psoe-014",
+          "topic": "inmigracion",
+          "title": "Regularización extraordinaria",
+          "summary": "Defiende regularizar a residentes previos a enero de 2026, con cinco meses continuados y sin antecedentes penales.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-regularizacion"
+          ],
+          "locator": "Condiciones del real decreto",
+          "date": null,
+          "qualification": "Se evalúa su apoyo político; no es una guía para solicitar permisos."
+        },
+        {
+          "id": "psoe-015",
+          "topic": "inmigracion",
+          "title": "Integración y títulos",
+          "summary": "Apoya el Plan de Integración 2026–2030, incluida inserción laboral y homologación de títulos.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-integracion"
+          ],
+          "locator": "Párrafo final",
+          "date": "2026-07-15",
+          "qualification": "Anuncio de la ministra y dirigente socialista; no programa 29N."
+        },
+        {
+          "id": "psoe-016",
+          "topic": "tecnologia",
+          "title": "Ayudas digitales para pymes",
+          "summary": "Propone estudiar prorrogar Kit Digital y Kit Consulting desde 2026.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-ia"
+          ],
+          "locator": "Qué se propone, punto 1",
+          "date": "2025-10-17",
+          "qualification": "Iniciativa parlamentaria previa a la campaña; no aprobación acreditada."
+        },
+        {
+          "id": "psoe-017",
+          "topic": "tecnologia",
+          "title": "Asesoramiento público sobre IA",
+          "summary": "Plantea incorporar especialistas en IA a las oficinas Acelera Pyme.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-ia"
+          ],
+          "locator": "Qué se propone, punto 2",
+          "date": "2025-10-17",
+          "qualification": "Proposición no de ley."
+        },
+        {
+          "id": "psoe-018",
+          "topic": "educacion",
+          "title": "FP en inteligencia artificial",
+          "summary": "Propone ampliar las plazas públicas de FP en IA, nube y análisis de datos, con las comunidades.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-ia"
+          ],
+          "locator": "Qué se propone, punto 3",
+          "date": "2025-10-17",
+          "qualification": "Proposición no de ley."
+        },
+        {
+          "id": "psoe-019",
+          "topic": "tecnologia",
+          "title": "IA y derechos fundamentales",
+          "summary": "Propone materiales públicos para evaluar riesgos de IA y su impacto en derechos fundamentales.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-ia"
+          ],
+          "locator": "Qué se propone, punto 5",
+          "date": "2025-10-17",
+          "qualification": "Proposición no de ley."
+        },
+        {
+          "id": "psoe-020",
+          "topic": "rural",
+          "title": "Transporte a demanda",
+          "summary": "Propone extender el transporte a demanda en zonas despobladas para acceder a servicios esenciales.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-rural"
+          ],
+          "locator": "Primera moción",
+          "date": "2026-03-24",
+          "qualification": "Moción anunciada; no se atribuye aquí un resultado de votación."
+        },
+        {
+          "id": "psoe-021",
+          "topic": "rural",
+          "title": "Servicios para fijar población",
+          "summary": "Propone combinar vivienda, conectividad, servicios públicos, empleo y conciliación para atraer y mantener familias rurales.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-rural"
+          ],
+          "locator": "Segunda moción",
+          "date": "2026-03-24",
+          "qualification": "Paquete general sin cuantías en la nota."
+        },
+        {
+          "id": "psoe-022",
+          "topic": "rural",
+          "title": "Transición agraria financiada",
+          "summary": "Defiende acompañamiento técnico y financiación para adaptar explotaciones a la transición ecológica.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-agricultura"
+          ],
+          "locator": "Propuesta sobre transición justa",
+          "date": "2026-06-12",
+          "qualification": "Se presenta como iniciativa, no como financiación concedida."
+        },
+        {
+          "id": "psoe-023",
+          "topic": "rural",
+          "title": "Precios y costes agrarios",
+          "summary": "Propone que los costes de producción sean la base de negociación de los contratos del sector primario.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-agricultura"
+          ],
+          "locator": "Protección del productor",
+          "date": "2026-06-12",
+          "qualification": "La nota no especifica un precio mínimo universal."
+        },
+        {
+          "id": "psoe-024",
+          "topic": "exterior",
+          "title": "Permanencia en la OTAN",
+          "summary": "Sánchez defiende el compromiso con la OTAN y una alianza más europea.",
+          "kind": "statement",
+          "sourceIds": [
+            "psoe-otanactividad"
+          ],
+          "locator": "Declaraciones en Ankara",
+          "date": "2026-07-08",
+          "qualification": "Posición del presidente del Gobierno, no capítulo de programa electoral."
+        },
+        {
+          "id": "psoe-025",
+          "topic": "exterior",
+          "title": "Gasto en defensa",
+          "summary": "Sánchez defiende el esfuerzo del 2 % del PIB en defensa en 2026.",
+          "kind": "statement",
+          "sourceIds": [
+            "psoe-otan"
+          ],
+          "locator": "Respuestas sobre inversión",
+          "date": "2026-07-08",
+          "qualification": "Dato y posición declarados en julio; no promesa de porcentaje para toda la legislatura."
+        },
+        {
+          "id": "psoe-026",
+          "topic": "exterior",
+          "title": "Apoyo a Ucrania",
+          "summary": "Defiende continuar apoyando a Ucrania y la cooperación militar con aliados.",
+          "kind": "statement",
+          "sourceIds": [
+            "psoe-otanactividad"
+          ],
+          "locator": "Apoyo a Ucrania",
+          "date": "2026-07-08",
+          "qualification": "Declaración de política gubernamental previa al 29N."
+        },
+        {
+          "id": "psoe-027",
+          "topic": "empleo",
+          "title": "Jornada de 36 horas",
+          "summary": "Objetivo medio para 2030, sin reducción salarial.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-congreso2024"
+          ],
+          "locator": "p. 40",
+          "date": "2024-12-01",
+          "qualification": "Resolución federal de 2024; no se atribuye al programa 29N."
+        },
+        {
+          "id": "psoe-028",
+          "topic": "empleo",
+          "title": "Beneficios compartidos",
+          "summary": "Obligar a grandes empresas a compartir beneficios y gestión con trabajadores.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-congreso2024"
+          ],
+          "locator": "p. 11",
+          "date": "2024-12-01",
+          "qualification": "Resolución federal de 2024; no se atribuye al programa 29N."
+        },
+        {
+          "id": "psoe-029",
+          "topic": "economia",
+          "title": "IRPF de rentas altas",
+          "summary": "Tipo marginal mínimo del 50 % desde 300.000 euros anuales.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-congreso2024"
+          ],
+          "locator": "p. 13",
+          "date": "2024-12-01",
+          "qualification": "Resolución federal de 2024; no se atribuye al programa 29N."
+        },
+        {
+          "id": "psoe-030",
+          "topic": "empleo",
+          "title": "SMI constitucional",
+          "summary": "Garantizar constitucionalmente un SMI superior al 60 % del salario medio.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-congreso2024"
+          ],
+          "locator": "p. 11",
+          "date": "2024-12-01",
+          "qualification": "Resolución federal de 2024; no se atribuye al programa 29N."
+        },
+        {
+          "id": "psoe-031",
+          "topic": "instituciones",
+          "title": "Participación ciudadana",
+          "summary": "Crear un escaño ciudadano sin voto en ambas cámaras.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-congreso2024"
+          ],
+          "locator": "p. 11",
+          "date": "2024-12-01",
+          "qualification": "Resolución federal de 2024; no se atribuye al programa 29N."
+        },
+        {
+          "id": "psoe-032",
+          "topic": "educacion",
+          "title": "Formación dual",
+          "summary": "Extender progresivamente la formación dual a universidad y FP.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-congreso2024"
+          ],
+          "locator": "p. 12",
+          "date": "2024-12-01",
+          "qualification": "Resolución federal de 2024; no se atribuye al programa 29N."
+        },
+        {
+          "id": "psoe-033",
+          "topic": "vivienda",
+          "title": "Conversión turística",
+          "summary": "Prohibir convertir residencias en alquiler turístico o temporal en zonas de alta demanda.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-congreso2024"
+          ],
+          "locator": "p. 12",
+          "date": "2024-12-01",
+          "qualification": "Resolución federal de 2024; no se atribuye al programa 29N."
+        },
+        {
+          "id": "psoe-034",
+          "topic": "economia",
+          "title": "Prestaciones integradas",
+          "summary": "Integrar prestaciones no contributivas en una ayuda única para simplificar trámites.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-congreso2024"
+          ],
+          "locator": "p. 12",
+          "date": "2024-12-01",
+          "qualification": "Resolución federal de 2024; no se atribuye al programa 29N."
+        },
+        {
+          "id": "psoe-035",
+          "topic": "clima",
+          "title": "Adaptación climática",
+          "summary": "Crear un fondo de resiliencia para personas y territorios vulnerables.",
+          "kind": "official_position",
+          "sourceIds": [
+            "psoe-congreso2024"
+          ],
+          "locator": "p. 13",
+          "date": "2024-12-01",
+          "qualification": "Resolución federal de 2024; no se atribuye al programa 29N."
+        }
+      ],
+      "gaps": [
+        {
+          "topic": "seguridad",
+          "note": "No se ha incorporado una posición suficientemente verificada para este tema en la selección revisada. No significa ausencia de postura ni desacuerdo."
+        },
+        {
+          "topic": "programa_completo",
+          "note": "Programa íntegro de las generales 2026 no localizado al cierre de investigación del 11/11; no se puede afirmar cobertura completa de sus propuestas."
+        },
+        {
+          "topic": "economia",
+          "note": "No se ha incorporado una memoria económica integral del 29N ni comprobado la financiación de cada anuncio."
+        }
+      ],
+      "coverage": {
+        "cutoff": "2026-11-11",
+        "scope": "selección temática verificada, no inventario exhaustivo",
+        "topicsWithEntries": 14,
+        "topicsTotal": 15,
+        "positions": 35
+      }
+    },
+    {
+      "id": "frente-amplio",
+      "name": "Frente Amplio",
+      "short": "Frente Amplio",
+      "color": "#d76830",
+      "description": "Coalición de izquierdas de 2026. Se distinguen sus anuncios conjuntos de las posiciones de integrantes como Movimiento Sumar e IU.",
+      "ideals": [
+        {
+          "text": "Redistribución mediante fiscalidad y vivienda pública.",
+          "sourceIds": [
+            "fa-impuestos",
+            "fa-vivienda"
+          ]
+        },
+        {
+          "text": "Trabajo decente, ecologismo, feminismo y reconocimiento plurinacional en Movimiento Sumar.",
+          "sourceIds": [
+            "sumar-principios"
+          ]
+        },
+        {
+          "text": "Voluntad de reeditar un gobierno de coalición progresista.",
+          "sourceIds": [
+            "fa-constitucion"
+          ]
+        }
+      ],
+      "manifesto": {
+        "status": "not_located",
+        "title": "Avances oficiales de campaña; programa completo no localizado",
+        "url": "https://frenteamplio.info/",
+        "date": null,
+        "coverageNote": "Revisadas las notas oficiales de campaña disponibles hasta 11/11 y documentos de integrantes. Los anuncios no constituyen el programa completo. Las posiciones de Sumar/IU están atribuidas expresamente y no se presumen acordadas por toda la coalición."
+      },
+      "positions": [
+        {
+          "id": "frente-amplio-001",
+          "topic": "vivienda",
+          "title": "Expropiación a grandes empresas",
+          "summary": "Propone expropiar vivienda corporativa por fases: propietarios de más de 1.000, después 700 y después 50 inmuebles.",
+          "kind": "official_position",
+          "sourceIds": [
+            "fa-vivienda"
+          ],
+          "locator": "Expropiación por fases",
+          "date": "2026-11-06",
+          "qualification": "Excluye a propietarios familiares. La nota no concreta aquí justiprecios ni presupuesto de expropiación."
+        },
+        {
+          "id": "frente-amplio-002",
+          "topic": "vivienda",
+          "title": "Activos de SAREB",
+          "summary": "Propone integrar obligatoriamente sus fincas urbanas y suelos residenciales en el parque público.",
+          "kind": "official_position",
+          "sourceIds": [
+            "fa-vivienda"
+          ],
+          "locator": "La SAREB, al parque público",
+          "date": "2026-11-06",
+          "qualification": "Propuesta de adscripción de activos, no cifra de viviendas ya disponibles."
+        },
+        {
+          "id": "frente-amplio-003",
+          "topic": "economia",
+          "title": "Impuesto sobre grandes patrimonios",
+          "summary": "Propone un 2 % sobre patrimonio neto superior a un millón y un 3 % desde 50 millones.",
+          "kind": "official_position",
+          "sourceIds": [
+            "fa-impuestos"
+          ],
+          "locator": "Tasar las grandes fortunas",
+          "date": "2026-11-05",
+          "qualification": "Descontaría lo abonado por Patrimonio y Grandes Fortunas. No grava salarios ni pensiones como tales."
+        },
+        {
+          "id": "frente-amplio-004",
+          "topic": "economia",
+          "title": "Tributación de grandes empresas",
+          "summary": "Propone elevar el tipo efectivo de grandes empresas y banca revisando desgravaciones.",
+          "kind": "official_position",
+          "sourceIds": [
+            "fa-impuestos"
+          ],
+          "locator": "Impuesto a la banca",
+          "date": "2026-11-05",
+          "qualification": "La recaudación conjunta anunciada para tres impuestos es una estimación de la coalición."
+        },
+        {
+          "id": "frente-amplio-005",
+          "topic": "vivienda",
+          "title": "Impuesto a la acumulación",
+          "summary": "Plantea gravar al 10 % el valor de viviendas de empresas desde la primera y de particulares desde la cuarta.",
+          "kind": "official_position",
+          "sourceIds": [
+            "fa-impuestos"
+          ],
+          "locator": "Impuesto a la acumulación de vivienda",
+          "date": "2026-11-05",
+          "qualification": "Umbral conjunto: 800.000 euros. Excepción: alquiler asequible y estable. La reducción de alquileres anunciada es una previsión del partido."
+        },
+        {
+          "id": "frente-amplio-006",
+          "topic": "pensiones",
+          "title": "Pensión mínima igual al SMI",
+          "summary": "Propone que ninguna pensión sea inferior al salario mínimo.",
+          "kind": "official_position",
+          "sourceIds": [
+            "fa-pensiones"
+          ],
+          "locator": "Salario mínimo = pensión mínima",
+          "date": "2026-10-24",
+          "qualification": "Estima unos 10.000 millones anuales; propone más imposición sobre empresas y grandes patrimonios."
+        },
+        {
+          "id": "frente-amplio-007",
+          "topic": "pensiones",
+          "title": "Jubilación a los 65",
+          "summary": "Propone recuperar de forma efectiva la jubilación a los 65 años.",
+          "kind": "official_position",
+          "sourceIds": [
+            "fa-pensiones"
+          ],
+          "locator": "Jubilación a los 65",
+          "date": "2026-10-24",
+          "qualification": "Estima otros 10.000 millones anuales; la nota no detalla todas las condiciones contributivas."
+        },
+        {
+          "id": "frente-amplio-008",
+          "topic": "pensiones",
+          "title": "Cotizaciones máximas",
+          "summary": "Propone eliminar progresivamente el tope de cotización para financiar pensiones.",
+          "kind": "official_position",
+          "sourceIds": [
+            "fa-pensiones"
+          ],
+          "locator": "Cómo se paga",
+          "date": "2026-10-24",
+          "qualification": "Estimación del partido: 7.000–8.500 millones anuales. No evaluación independiente."
+        },
+        {
+          "id": "frente-amplio-009",
+          "topic": "pensiones",
+          "title": "Empresas automatizadas",
+          "summary": "Propone una aportación de empresas más automatizadas al Mecanismo de Equidad Intergeneracional.",
+          "kind": "official_position",
+          "sourceIds": [
+            "fa-pensiones"
+          ],
+          "locator": "Cómo se paga",
+          "date": "2026-10-24",
+          "qualification": "El partido estima 3.000–4.000 millones; no desarrolla aquí la base ni el tipo."
+        },
+        {
+          "id": "frente-amplio-010",
+          "topic": "territorio",
+          "title": "Unificar Renfe y Adif",
+          "summary": "Propone un gran operador público integrado de trenes e infraestructuras.",
+          "kind": "official_position",
+          "sourceIds": [
+            "fa-tren"
+          ],
+          "locator": "Primera propuesta",
+          "date": "2026-11-02",
+          "qualification": "Parte de su propuesta de Pacto de Estado por el Tren."
+        },
+        {
+          "id": "frente-amplio-011",
+          "topic": "seguridad",
+          "title": "Mantenimiento ferroviario",
+          "summary": "Propone aumentar inversión y personal de mantenimiento para reforzar la seguridad del ferrocarril.",
+          "kind": "official_position",
+          "sourceIds": [
+            "fa-tren"
+          ],
+          "locator": "Segunda propuesta",
+          "date": "2026-11-02",
+          "qualification": "No concreta una dotación total ni plantea detener los grandes proyectos pendientes."
+        },
+        {
+          "id": "frente-amplio-012",
+          "topic": "territorio",
+          "title": "Refuerzo de cercanías",
+          "summary": "Propone más fiabilidad, frecuencia y seguridad en cercanías, además de alta velocidad.",
+          "kind": "official_position",
+          "sourceIds": [
+            "fa-tren"
+          ],
+          "locator": "Párrafo sobre cercanías",
+          "date": "2026-11-02",
+          "qualification": "Sin metas de frecuencia en la nota."
+        },
+        {
+          "id": "frente-amplio-013",
+          "topic": "clima",
+          "title": "Fondos aeroportuarios al tren",
+          "summary": "Propone trasladar inmediatamente a la red ferroviaria los casi 13.000 millones del plan aeroportuario DORA.",
+          "kind": "official_position",
+          "sourceIds": [
+            "fa-tren"
+          ],
+          "locator": "Propuesta final",
+          "date": "2026-11-02",
+          "qualification": "Cantidad y reasignación planteadas por la coalición."
+        },
+        {
+          "id": "frente-amplio-014",
+          "topic": "tecnologia",
+          "title": "IA en campaña",
+          "summary": "Colau propone un pacto contra la suplantación de identidad y los contenidos vejatorios generados con IA.",
+          "kind": "statement",
+          "sourceIds": [
+            "fa-ia"
+          ],
+          "locator": "Carta a otros candidatos",
+          "date": "2026-10-27",
+          "qualification": "Compromiso de conducta política; no es un proyecto de ley con sanciones."
+        },
+        {
+          "id": "frente-amplio-015",
+          "topic": "vivienda",
+          "title": "Protección frente a desahucios",
+          "summary": "Sumar defiende protección hasta 2030.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-vivienda"
+          ],
+          "locator": "Lista de medidas",
+          "date": "2026-09-29",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio. La nota de septiembre acredita apoyo, no la vigencia jurídica actual de esos decretos."
+        },
+        {
+          "id": "frente-amplio-016",
+          "topic": "vivienda",
+          "title": "Prórroga de alquileres",
+          "summary": "Sumar defiende prórrogas de dos años y renovación automática de contratos.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-vivienda"
+          ],
+          "locator": "Lista de medidas",
+          "date": "2026-09-29",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio. La nota de septiembre acredita apoyo, no la vigencia jurídica actual de esos decretos."
+        },
+        {
+          "id": "frente-amplio-017",
+          "topic": "vivienda",
+          "title": "Temporada y habitaciones",
+          "summary": "Sumar defiende regular los alquileres de temporada y de habitaciones.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-vivienda"
+          ],
+          "locator": "Lista de medidas",
+          "date": "2026-09-29",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio. La nota de septiembre acredita apoyo, no la vigencia jurídica actual de esos decretos."
+        },
+        {
+          "id": "frente-amplio-018",
+          "topic": "vivienda",
+          "title": "Compras de fondos",
+          "summary": "Sumar defiende prohibir compras de fondos de inversión hasta 2028.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-vivienda"
+          ],
+          "locator": "Lista de medidas",
+          "date": "2026-09-29",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio. La nota de septiembre acredita apoyo, no la vigencia jurídica actual de esos decretos."
+        },
+        {
+          "id": "frente-amplio-019",
+          "topic": "clima",
+          "title": "Cierre nuclear",
+          "summary": "Sumar rechaza prorrogar Almaraz y prioriza renovables y reconversión industrial territorial.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-almaraz"
+          ],
+          "locator": "Titular y síntesis",
+          "date": "2026-08-14",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio."
+        },
+        {
+          "id": "frente-amplio-020",
+          "topic": "inmigracion",
+          "title": "Regularización y documentación",
+          "summary": "Sumar apoya la regularización y flexibilizar la acreditación documental de residencia y trabajo.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-migracion"
+          ],
+          "locator": "Apartado de medidas incorporadas",
+          "date": "2026-04-14",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio."
+        },
+        {
+          "id": "frente-amplio-021",
+          "topic": "inmigracion",
+          "title": "Personas apátridas",
+          "summary": "Sumar pidió incluir a personas apátridas en la regularización; reconoce que no se incorporó.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-migracion"
+          ],
+          "locator": "Propuestas no incorporadas",
+          "date": "2026-04-14",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio."
+        },
+        {
+          "id": "frente-amplio-022",
+          "topic": "instituciones",
+          "title": "Puertas giratorias",
+          "summary": "Sumar propone diez años de incompatibilidad para expresidentes en empresas de sectores estratégicos.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-expresidentes"
+          ],
+          "locator": "Propuesta 1",
+          "date": "2026-06-03",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio."
+        },
+        {
+          "id": "frente-amplio-023",
+          "topic": "instituciones",
+          "title": "Recursos de expresidentes",
+          "summary": "Sumar propone retirar medios públicos y pensiones indemnizatorias a expresidentes que opten por actividad privada lucrativa.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-expresidentes"
+          ],
+          "locator": "Propuestas 2–4",
+          "date": "2026-06-03",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio."
+        },
+        {
+          "id": "frente-amplio-024",
+          "topic": "igualdad",
+          "title": "Derechos LGTBIQA+",
+          "summary": "Sumar defiende los derechos adquiridos y un enfoque antirracista en las políticas LGTBIQA+.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-lgtbi"
+          ],
+          "locator": "Manifiesto y síntesis",
+          "date": "2026-06-26",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio."
+        },
+        {
+          "id": "frente-amplio-025",
+          "topic": "igualdad",
+          "title": "Protección constitucional del aborto",
+          "summary": "Sumar defiende incorporar el aborto a la Constitución.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-aborto"
+          ],
+          "locator": "Posición ante la tramitación",
+          "date": "2026-04-30",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio."
+        },
+        {
+          "id": "frente-amplio-026",
+          "topic": "igualdad",
+          "title": "Escuchar a la infancia",
+          "summary": "Sumar defiende garantizar audiencia adaptada a menores afectados por decisiones, sin umbral rígido de edad.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-infancia"
+          ],
+          "locator": "Medida 1",
+          "date": "2026-05-05",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio."
+        },
+        {
+          "id": "frente-amplio-027",
+          "topic": "igualdad",
+          "title": "Justicia especializada en infancia",
+          "summary": "Sumar defiende turnos de oficio especializados en violencia contra menores y formación de profesionales.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-infancia"
+          ],
+          "locator": "Medidas 3–4",
+          "date": "2026-05-05",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio."
+        },
+        {
+          "id": "frente-amplio-028",
+          "topic": "igualdad",
+          "title": "Protección infantil pública",
+          "summary": "Sumar propone priorizar gestión pública directa y limitar la externalización de servicios de protección infantil a excepciones.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-infancia"
+          ],
+          "locator": "Medida 7",
+          "date": "2026-05-05",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio."
+        },
+        {
+          "id": "frente-amplio-029",
+          "topic": "exterior",
+          "title": "OTAN y acuerdos militares",
+          "summary": "El equipo internacional de Sumar propone abandonar la estructura militar de la OTAN y denunciar el Tratado.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-exterior"
+          ],
+          "locator": "p. 26 del PDF / p. 25 impresa",
+          "date": "2026-06-24",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio."
+        },
+        {
+          "id": "frente-amplio-030",
+          "topic": "exterior",
+          "title": "Neutralidad y bases",
+          "summary": "Propone renegociar acuerdos con EEUU y prohibir tropas extranjeras y armamento nuclear en territorio español.",
+          "kind": "official_position",
+          "sourceIds": [
+            "sumar-exterior"
+          ],
+          "locator": "p. 26 del PDF / p. 25 impresa",
+          "date": "2026-06-24",
+          "qualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio."
+        },
+        {
+          "id": "frente-amplio-031",
+          "topic": "empleo",
+          "title": "Menor jornada laboral",
+          "summary": "IU reclama reducir la jornada laboral.",
+          "kind": "official_position",
+          "sourceIds": [
+            "iu-huelga"
+          ],
+          "locator": "Demandas de la huelga del 11N",
+          "date": "2026-11-10",
+          "qualification": "Posición de Izquierda Unida, integrante del Frente Amplio. No sustituye al programa conjunto."
+        },
+        {
+          "id": "frente-amplio-032",
+          "topic": "empleo",
+          "title": "Salarios y SMI",
+          "summary": "IU reclama elevar salarios y salario mínimo.",
+          "kind": "official_position",
+          "sourceIds": [
+            "iu-huelga"
+          ],
+          "locator": "Demandas de la huelga del 11N",
+          "date": "2026-11-10",
+          "qualification": "Posición de Izquierda Unida, integrante del Frente Amplio. No sustituye al programa conjunto."
+        },
+        {
+          "id": "frente-amplio-033",
+          "topic": "sanidad",
+          "title": "Sanidad pública",
+          "summary": "IU defiende reforzar la sanidad desde lo público.",
+          "kind": "official_position",
+          "sourceIds": [
+            "iu-huelga"
+          ],
+          "locator": "Demandas de la huelga del 11N",
+          "date": "2026-11-10",
+          "qualification": "Posición de Izquierda Unida, integrante del Frente Amplio. No sustituye al programa conjunto."
+        },
+        {
+          "id": "frente-amplio-034",
+          "topic": "educacion",
+          "title": "Educación pública",
+          "summary": "IU defiende reforzar la educación pública.",
+          "kind": "official_position",
+          "sourceIds": [
+            "iu-huelga"
+          ],
+          "locator": "Demandas de la huelga del 11N",
+          "date": "2026-11-10",
+          "qualification": "Posición de Izquierda Unida, integrante del Frente Amplio. No sustituye al programa conjunto."
+        },
+        {
+          "id": "frente-amplio-035",
+          "topic": "economia",
+          "title": "Precios básicos y energía",
+          "summary": "IU reclama controlar precios de bienes básicos y energía.",
+          "kind": "official_position",
+          "sourceIds": [
+            "iu-huelga"
+          ],
+          "locator": "Demandas de la huelga del 11N",
+          "date": "2026-11-10",
+          "qualification": "Posición de Izquierda Unida, integrante del Frente Amplio. No sustituye al programa conjunto."
+        }
+      ],
+      "gaps": [
+        {
+          "topic": "rural",
+          "note": "No se ha incorporado una posición suficientemente verificada para este tema en la selección revisada. No significa ausencia de postura ni desacuerdo."
+        },
+        {
+          "topic": "programa_completo",
+          "note": "Programa íntegro de las generales 2026 no localizado al cierre de investigación del 11/11; no se puede afirmar cobertura completa de sus propuestas."
+        },
+        {
+          "topic": "seguridad",
+          "note": "La entrada de seguridad trata del ferrocarril; falta una política conjunta verificada de policía, justicia penal y seguridad ciudadana."
+        },
+        {
+          "topic": "territorio",
+          "note": "Las entradas de territorio tratan de transporte; falta un modelo territorial conjunto del Frente Amplio documentado para el 29N."
+        }
+      ],
+      "coverage": {
+        "cutoff": "2026-11-11",
+        "scope": "selección temática verificada, no inventario exhaustivo",
+        "topicsWithEntries": 14,
+        "topicsTotal": 15,
+        "positions": 35
+      }
+    },
+    {
+      "id": "podemos",
+      "name": "Podemos",
+      "short": "Podemos",
+      "color": "#6b4190",
+      "description": "Formación estatal de izquierdas. Se separan los ejes de campaña de los antecedentes europeos y las intervenciones parlamentarias.",
+      "ideals": [
+        {
+          "text": "Vivienda como derecho, redistribución y menor tiempo de trabajo.",
+          "sourceIds": [
+            "podemos-campana"
+          ]
+        },
+        {
+          "text": "Pacifismo y prioridad presupuestaria de los servicios públicos.",
+          "sourceIds": [
+            "podemos-campana"
+          ]
+        },
+        {
+          "text": "Feminismo y defensa de derechos LGTBIQ+.",
+          "sourceIds": [
+            "podemos-europeas2024"
+          ]
+        }
+      ],
+      "manifesto": {
+        "status": "not_located",
+        "title": "Cinco ejes de campaña; programa completo no localizado",
+        "url": "https://pazcasaytrabajo.es/",
+        "date": null,
+        "coverageNote": "Se han revisado los cinco ejes publicados en la web oficial de campaña y fuentes parlamentarias. No se ha localizado el programa completo 29N al 11/11. El programa europeo de 2024 se muestra exclusivamente como antecedente histórico."
+      },
+      "positions": [
+        {
+          "id": "podemos-001",
+          "topic": "vivienda",
+          "title": "Compra especulativa",
+          "summary": "Plantea impedir que se compre vivienda con fines especulativos.",
+          "kind": "official_position",
+          "sourceIds": [
+            "podemos-campana"
+          ],
+          "locator": "Medida 1",
+          "date": null,
+          "qualification": "La página no define aquí jurídicamente especulación ni los sujetos afectados."
+        },
+        {
+          "id": "podemos-002",
+          "topic": "economia",
+          "title": "Coste de vida",
+          "summary": "Propone bajar precios y recuperar poder adquisitivo frente a beneficios empresariales elevados.",
+          "kind": "official_position",
+          "sourceIds": [
+            "podemos-campana"
+          ],
+          "locator": "Medida 2",
+          "date": null,
+          "qualification": "No concreta en esta página los productos, mecanismos ni cuantías."
+        },
+        {
+          "id": "podemos-003",
+          "topic": "exterior",
+          "title": "Gasto militar",
+          "summary": "Rechaza nuevos recursos para armas y propone destinarlos a servicios públicos.",
+          "kind": "official_position",
+          "sourceIds": [
+            "podemos-campana"
+          ],
+          "locator": "Medida 3",
+          "date": null,
+          "qualification": "Orientación presupuestaria; la página no incluye memoria económica."
+        },
+        {
+          "id": "podemos-004",
+          "topic": "empleo",
+          "title": "SMI de 1.800 euros",
+          "summary": "Propone fijar por ley un salario mínimo de 1.800 euros.",
+          "kind": "official_position",
+          "sourceIds": [
+            "podemos-campana"
+          ],
+          "locator": "Medida 4",
+          "date": null,
+          "qualification": "No precisa aquí el número de pagas ni calendario de aplicación."
+        },
+        {
+          "id": "podemos-005",
+          "topic": "empleo",
+          "title": "Semana de 30 horas",
+          "summary": "Propone una jornada laboral de 30 horas semanales.",
+          "kind": "official_position",
+          "sourceIds": [
+            "podemos-campana"
+          ],
+          "locator": "Medida 4",
+          "date": null,
+          "qualification": "La página no desarrolla excepciones, negociación sectorial ni transición."
+        },
+        {
+          "id": "podemos-006",
+          "topic": "sanidad",
+          "title": "Personal sanitario",
+          "summary": "Propone más recursos públicos, profesionales y mejores salarios sanitarios.",
+          "kind": "official_position",
+          "sourceIds": [
+            "podemos-campana"
+          ],
+          "locator": "Medida 5",
+          "date": null,
+          "qualification": "No cuantifica plantillas ni financiación."
+        },
+        {
+          "id": "podemos-007",
+          "topic": "educacion",
+          "title": "Personal educativo",
+          "summary": "Propone más recursos y profesionales mejor remunerados en educación pública.",
+          "kind": "official_position",
+          "sourceIds": [
+            "podemos-campana"
+          ],
+          "locator": "Medida 5",
+          "date": null,
+          "qualification": "No concreta ratios ni plazas en esta página."
+        },
+        {
+          "id": "podemos-008",
+          "topic": "clima",
+          "title": "Acción climática",
+          "summary": "Defiende combatir el cambio climático y reforzar los cuidados.",
+          "kind": "official_position",
+          "sourceIds": [
+            "podemos-campana"
+          ],
+          "locator": "Medida 5",
+          "date": null,
+          "qualification": "Orientación general sin nuevas metas cuantitativas."
+        },
+        {
+          "id": "podemos-009",
+          "topic": "igualdad",
+          "title": "Violencia machista",
+          "summary": "Defiende políticas para garantizar vidas libres de violencia machista.",
+          "kind": "official_position",
+          "sourceIds": [
+            "podemos-campana"
+          ],
+          "locator": "Medida 5",
+          "date": null,
+          "qualification": "No presenta aquí una reforma normativa específica."
+        },
+        {
+          "id": "podemos-010",
+          "topic": "vivienda",
+          "title": "Rebaja de alquileres",
+          "summary": "Santana propone reducir los alquileres un 40 %.",
+          "kind": "statement",
+          "sourceIds": [
+            "podemos-vivienda-congreso"
+          ],
+          "locator": "p. 54",
+          "date": "2026-05-19",
+          "qualification": "Intervención de Noemí Santana; no se atribuye aquí una ley aprobada ni un mecanismo completo."
+        },
+        {
+          "id": "podemos-011",
+          "topic": "vivienda",
+          "title": "Hipotecas variables",
+          "summary": "Propone limitar los intereses de las hipotecas variables.",
+          "kind": "statement",
+          "sourceIds": [
+            "podemos-vivienda-congreso"
+          ],
+          "locator": "p. 54",
+          "date": "2026-05-19",
+          "qualification": "Intervención de Noemí Santana; no se atribuye aquí una ley aprobada ni un mecanismo completo."
+        },
+        {
+          "id": "podemos-012",
+          "topic": "vivienda",
+          "title": "Expropiación de vivienda",
+          "summary": "Propone expropiar viviendas de bancos y fondos de inversión.",
+          "kind": "statement",
+          "sourceIds": [
+            "podemos-vivienda-congreso"
+          ],
+          "locator": "p. 54",
+          "date": "2026-05-19",
+          "qualification": "Intervención de Noemí Santana; no se atribuye aquí una ley aprobada ni un mecanismo completo."
+        },
+        {
+          "id": "podemos-013",
+          "topic": "vivienda",
+          "title": "Compras de bancos y fondos",
+          "summary": "Propone prohibirles comprar viviendas.",
+          "kind": "statement",
+          "sourceIds": [
+            "podemos-vivienda-congreso"
+          ],
+          "locator": "p. 54",
+          "date": "2026-05-19",
+          "qualification": "Intervención de Noemí Santana; no se atribuye aquí una ley aprobada ni un mecanismo completo."
+        },
+        {
+          "id": "podemos-014",
+          "topic": "tecnologia",
+          "title": "Fiscalidad de plataformas",
+          "summary": "Belarra propone aumentar impuestos a plataformas de redes sociales para financiar educación sexual obligatoria.",
+          "kind": "statement",
+          "sourceIds": [
+            "podemos-redes-congreso"
+          ],
+          "locator": "Intervención de Ione Belarra; buscar «educación sexual obligatoria»",
+          "date": "2026-02-11",
+          "qualification": "Propuesta parlamentaria verbal, no tributo aprobado."
+        },
+        {
+          "id": "podemos-015",
+          "topic": "tecnologia",
+          "title": "Red social pública",
+          "summary": "Belarra propone una red social pública con algoritmo transparente.",
+          "kind": "statement",
+          "sourceIds": [
+            "podemos-redes-congreso"
+          ],
+          "locator": "Intervención de Ione Belarra; buscar «red social pública»",
+          "date": "2026-02-11",
+          "qualification": "La intervención no desarrolla gobernanza ni presupuesto."
+        },
+        {
+          "id": "podemos-016",
+          "topic": "inmigracion",
+          "title": "Regularización extraordinaria",
+          "summary": "Belarra defiende regularizar a migrantes residentes y facilitar la prueba documental de los requisitos.",
+          "kind": "statement",
+          "sourceIds": [
+            "podemos-migracion-entrevista"
+          ],
+          "locator": "Preguntas sobre requisitos y procedimiento",
+          "date": "2026-01-26",
+          "qualification": "Entrevista sobre el acuerdo inicial con el PSOE; no descripción completa del procedimiento finalmente aprobado."
+        },
+        {
+          "id": "podemos-017",
+          "topic": "territorio",
+          "title": "Competencias migratorias",
+          "summary": "Belarra se muestra abierta a delegarlas a Cataluña con garantías de derechos y sin discriminación.",
+          "kind": "statement",
+          "sourceIds": [
+            "podemos-migracion-entrevista"
+          ],
+          "locator": "Pregunta sobre delegación a Cataluña",
+          "date": "2026-01-26",
+          "qualification": "Posición condicional; no apoyo incondicional a cualquier texto de transferencia."
+        },
+        {
+          "id": "podemos-018",
+          "topic": "igualdad",
+          "title": "Aborto público",
+          "summary": "Garantizar aborto seguro, libre y gratuito en la sanidad pública europea.",
+          "kind": "historical",
+          "sourceIds": [
+            "podemos-europeas2024"
+          ],
+          "locator": "pp. 20–21",
+          "date": "2024-05",
+          "qualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N."
+        },
+        {
+          "id": "podemos-019",
+          "topic": "igualdad",
+          "title": "Identidad de género",
+          "summary": "Defender la autodeterminación de género y despatologizar a las personas trans.",
+          "kind": "historical",
+          "sourceIds": [
+            "podemos-europeas2024"
+          ],
+          "locator": "pp. 23–24",
+          "date": "2024-05",
+          "qualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N."
+        },
+        {
+          "id": "podemos-020",
+          "topic": "inmigracion",
+          "title": "Centros de internamiento",
+          "summary": "Cerrar centros de internamiento y detención de migrantes y refugiados.",
+          "kind": "historical",
+          "sourceIds": [
+            "podemos-europeas2024"
+          ],
+          "locator": "p. 50",
+          "date": "2024-05",
+          "qualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N."
+        },
+        {
+          "id": "podemos-021",
+          "topic": "clima",
+          "title": "Renovables en 2040",
+          "summary": "Reducir a la mitad la energía primaria fósil en 2030; renovables al 100 % en 2040.",
+          "kind": "historical",
+          "sourceIds": [
+            "podemos-europeas2024"
+          ],
+          "locator": "p. 64",
+          "date": "2024-05",
+          "qualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N."
+        },
+        {
+          "id": "podemos-022",
+          "topic": "clima",
+          "title": "Abandono nuclear",
+          "summary": "Planificar el abandono europeo de la energía nuclear de fisión.",
+          "kind": "historical",
+          "sourceIds": [
+            "podemos-europeas2024"
+          ],
+          "locator": "p. 77",
+          "date": "2024-05",
+          "qualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N."
+        },
+        {
+          "id": "podemos-023",
+          "topic": "rural",
+          "title": "Ayudas agrarias condicionadas",
+          "summary": "Vincular la PAC al respeto ambiental y laboral.",
+          "kind": "historical",
+          "sourceIds": [
+            "podemos-europeas2024"
+          ],
+          "locator": "p. 86",
+          "date": "2024-05",
+          "qualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N."
+        },
+        {
+          "id": "podemos-024",
+          "topic": "rural",
+          "title": "Tratado Mercosur",
+          "summary": "Paralizar la negociación comercial UE–Mercosur.",
+          "kind": "historical",
+          "sourceIds": [
+            "podemos-europeas2024"
+          ],
+          "locator": "p. 126",
+          "date": "2024-05",
+          "qualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N."
+        },
+        {
+          "id": "podemos-025",
+          "topic": "tecnologia",
+          "title": "Conectividad universal",
+          "summary": "Garantizar internet asequible de 100 Mbps en cualquier núcleo habitado.",
+          "kind": "historical",
+          "sourceIds": [
+            "podemos-europeas2024"
+          ],
+          "locator": "p. 79",
+          "date": "2024-05",
+          "qualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N."
+        },
+        {
+          "id": "podemos-026",
+          "topic": "sanidad",
+          "title": "Cobertura sanitaria ampliada",
+          "summary": "Promover cobertura pública dental, oftalmológica, auditiva y de fisioterapia.",
+          "kind": "historical",
+          "sourceIds": [
+            "podemos-europeas2024"
+          ],
+          "locator": "p. 35",
+          "date": "2024-05",
+          "qualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N."
+        },
+        {
+          "id": "podemos-027",
+          "topic": "pensiones",
+          "title": "Permisos de cuidados",
+          "summary": "Objetivo de 36 semanas remuneradas e intransferibles; doble para familias monomarentales.",
+          "kind": "historical",
+          "sourceIds": [
+            "podemos-europeas2024"
+          ],
+          "locator": "p. 27",
+          "date": "2024-05",
+          "qualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N."
+        }
+      ],
+      "gaps": [
+        {
+          "topic": "instituciones",
+          "note": "No se ha incorporado una posición suficientemente verificada para este tema en la selección revisada. No significa ausencia de postura ni desacuerdo."
+        },
+        {
+          "topic": "seguridad",
+          "note": "No se ha incorporado una posición suficientemente verificada para este tema en la selección revisada. No significa ausencia de postura ni desacuerdo."
+        },
+        {
+          "topic": "programa_completo",
+          "note": "Programa íntegro de las generales 2026 no localizado al cierre de investigación del 11/11; no se puede afirmar cobertura completa de sus propuestas."
+        },
+        {
+          "topic": "pensiones",
+          "note": "La entrada histórica de este grupo trata de cuidados; no se ha incorporado una propuesta completa y actualizada de jubilación y financiación de pensiones."
+        }
+      ],
+      "coverage": {
+        "cutoff": "2026-11-11",
+        "scope": "selección temática verificada, no inventario exhaustivo",
+        "topicsWithEntries": 13,
+        "topicsTotal": 15,
+        "positions": 27
+      }
+    }
+  ],
+  "researchNotes": [
+    "Las cifras de recaudación, efectos o costes en anuncios de partido se atribuyen al emisor y no son estimaciones independientes.",
+    "No se usan comparadores de terceros como evidencia final. La entrevista de Cadena SER se utiliza como testimonio primario directo de Ione Belarra.",
+    "Las fuentes con fecha null no mostraban fecha inequívoca en el texto recuperado.",
+    "Los programas históricos y documentos de miembros de coaliciones no se convierten en compromisos conjuntos actuales."
+  ]
+}
