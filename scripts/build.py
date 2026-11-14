@@ -34,7 +34,7 @@ for party in parties:
         assert all(s in source_ids for s in ideal.get('sourceIds',[])), 'Unknown ideal source'
 encoded=json.dumps(data,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c').replace('>','\\u003e').replace('&','\\u0026')
 template=(ROOT/'src/template.html').read_text()
-for token,path in [('__CSS__','src/styles.css'),('__CORE__','src/core.js'),('__APP__','src/app.js')]:
+for token,path in [('__CSS__','src/styles.css'),('__CORE__','src/core.js'),('__BLIND__','src/blind.js'),('__APP__','src/app.js')]:
     template=template.replace(token,(ROOT/path).read_text())
 template=template.replace('__DATA__',encoded)
 (ROOT/'index.html').write_text(template)

@@ -1,0 +1,16 @@
+const assert=require('node:assert/strict');
+const B=require('../src/blind.js');
+const D=require('../research/dataset.json');
+const mask=B.masker(D.parties);
+assert.equal(mask('Sánchez propone vivienda pública en Galicia.'),'[representante] propone vivienda pública en Galicia.');
+assert.equal(mask('El PP y PSOE discrepan; VOX y Podemos también.'),'El [partido] y [partido] discrepan; [partido] y [partido] también.');
+assert.equal(mask('Apoyar el empleo y la soberanía de Cataluña.'),'Apoyar el empleo y la soberanía de Cataluña.');
+assert.equal(mask('José María Llanos y Ana Pontón'), '[representante] y [representante]');
+for(const p of D.parties)assert.equal(mask(p.name),'[partido]');
+const ids=D.parties.flatMap(p=>p.positions.map(x=>x.id));
+const shuffled=B.shuffledIds(ids,()=>0.3);
+assert.equal(new Set(shuffled).size,ids.length);
+assert.notDeepEqual(shuffled,ids);
+assert.deepEqual(B.restoreOrder(['b','b','old','a'],['a','b','c']),['b','a','c']);
+assert.deepEqual(B.restoreOrder(shuffled,ids),shuffled);
+console.log('Blind attribution masking, policy preservation, shuffle and order restoration passed.');

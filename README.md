@@ -8,6 +8,12 @@ Edición elaborada el 12 de noviembre de 2026 con corte de investigación del 11
 
 Esta es una selección documentada y amplia, **no la extracción exhaustiva de todos los puntos de todos los programas**. PP, PNV y BNG tienen documentos de 2026 localizados, con extracción parcial. Para los demás no se verificó un manifiesto integral específico del 29N; se incorporan posiciones y declaraciones identificadas, y algunos antecedentes históricos. Consulta las lagunas en «Los partidos». Las fuentes partidarias acreditan sus posiciones, no necesariamente la exactitud de sus afirmaciones sobre hechos externos.
 
+## Modo ciego
+
+Activa «Modo ciego» encima de los filtros para ocultar nombres, colores, atribuciones y enlaces a fuentes. Las fichas se mezclan y mantienen su orden al recargar. Las menciones explícitas a organizaciones y representantes se sustituyen en pantalla; el contenido de las políticas y su ámbito territorial se conservan, por lo que algunas pueden reconocerse. Tus propias notas pueden contener pistas que escribiste antes.
+
+«Revelar partidos y ver mi balance» recupera las identidades y los resultados con las mismas respuestas. Las páginas de partidos, fuentes y resultados piden revelar antes de mostrar información identificativa. Es una ayuda de lectura, no una anonimización de los datos públicos del archivo. El modo y el orden se guardan localmente por separado de las respuestas.
+
 ## Valorar y conservar respuestas
 
 - Acuerdo de −2 a +2; 0 es neutral/mixto y «No sé» no puntúa.
@@ -27,6 +33,7 @@ Reconstruir el HTML, desde esta carpeta:
 ```sh
 python3 scripts/build.py
 node scripts/test-core.js
+node scripts/test-blind.js
 ```
 
 El constructor comprueba IDs, temas y referencias. No se necesita instalar dependencias. `src/` contiene la interfaz y el cálculo; `index.html` incorpora todos los recursos. No edites el HTML generado si quieres conservar las modificaciones tras reconstruirlo.
