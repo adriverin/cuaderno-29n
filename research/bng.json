@@ -55,19 +55,19 @@
       "description": "Organización nacionalista gallega que vincula soberanía y transformación social.",
       "ideals": [
         {
-          "text": "Soberanía nacional de Galicia y autodeterminación de los pueblos.",
+          "text": "Defender la soberanía política de Galicia y que los pueblos puedan decidir su futuro.",
           "sourceIds": [
             "bng-principios"
           ]
         },
         {
-          "text": "Transformación social y eliminación de la dominación de clase y género.",
+          "text": "Transformar la sociedad para eliminar relaciones de dominación por clase social o género.",
           "sourceIds": [
             "bng-principios"
           ]
         },
         {
-          "text": "Participación política también en movimientos sociales, culturales y sindicales.",
+          "text": "Participar en política también mediante movimientos sociales, culturales y sindicales, además de las instituciones.",
           "sourceIds": [
             "bng-principios"
           ]
@@ -84,8 +84,8 @@
         {
           "id": "bng-001",
           "topic": "territorio",
-          "title": "Concierto gallego",
-          "summary": "Recaudar todos los impuestos mediante una Hacienda gallega.",
+          "title": "Hacer que Galicia recaude todos sus impuestos con una Hacienda propia",
+          "summary": "Crear un sistema de concierto y una Hacienda gallega para recaudar todos los impuestos y gestionar esos recursos. Es una propuesta de mayor autonomía fiscal, no la descripción del sistema vigente.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-programa"
@@ -97,8 +97,8 @@
         {
           "id": "bng-002",
           "topic": "seguridad",
-          "title": "Policía gallega",
-          "summary": "Transferir seguridad pública, policía judicial y tráfico.",
+          "title": "Transferir a Galicia las competencias de seguridad y crear una policía propia",
+          "summary": "Reclamar para Galicia la seguridad pública, la policía judicial y fiscal y el control del tráfico. Desarrollar estas funciones mediante una policía gallega.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-programa"
@@ -110,8 +110,8 @@
         {
           "id": "bng-003",
           "topic": "educacion",
-          "title": "Educación laica",
-          "summary": "Excluir Religión del currículo escolar.",
+          "title": "Sacar la asignatura de Religión del currículo escolar",
+          "summary": "Eliminar Religión del conjunto de materias del sistema educativo. La propuesta defiende una enseñanza laica, sin enseñanza religiosa dentro del currículo.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-programa"
@@ -123,8 +123,8 @@
         {
           "id": "bng-004",
           "topic": "educacion",
-          "title": "Financiación educativa",
-          "summary": "Dedicar al menos el 7% del PIB.",
+          "title": "Destinar a educación al menos el 7 % de la economía",
+          "summary": "Elevar el presupuesto educativo hasta un mínimo del 7 % del PIB. El PIB mide el valor de la producción económica; este porcentaje no se refiere al total del presupuesto público.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-programa"
@@ -136,8 +136,8 @@
         {
           "id": "bng-005",
           "topic": "inmigracion",
-          "title": "Regularización",
-          "summary": "Facilitar regularización administrativa y reforzar inspección laboral.",
+          "title": "Facilitar permisos de residencia y reforzar la inspección del trabajo",
+          "summary": "Favorecer la regularización de personas migrantes sin permiso y aumentar el control sobre las condiciones de trabajo para combatir la explotación laboral.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-programa"
@@ -149,8 +149,8 @@
         {
           "id": "bng-006",
           "topic": "inmigracion",
-          "title": "Centros de internamiento",
-          "summary": "Cerrar los CIE y terminar las devoluciones en caliente.",
+          "title": "Cerrar los centros de internamiento y acabar con devoluciones en caliente",
+          "summary": "Cerrar los CIE, centros donde se retiene a extranjeros por motivos administrativos, y terminar las devoluciones inmediatas en frontera conocidas como devoluciones en caliente.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-programa"
@@ -162,8 +162,8 @@
         {
           "id": "bng-007",
           "topic": "exterior",
-          "title": "OTAN",
-          "summary": "Salir de la alianza y defender su disolución.",
+          "title": "Salir de la OTAN y defender su disolución",
+          "summary": "Retirar a España de la alianza militar atlántica y promover que deje de existir. La propuesta no se limita a cambiar el papel español dentro de la alianza.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-programa"
@@ -175,8 +175,8 @@
         {
           "id": "bng-008",
           "topic": "exterior",
-          "title": "Ucrania",
-          "summary": "Cesar envíos de armas; negociar la paz y reforzar ayuda humanitaria.",
+          "title": "Dejar de enviar armas a Ucrania y aumentar la ayuda humanitaria",
+          "summary": "Cesar los envíos de armamento, defender una solución diplomática negociada al conflicto y reforzar el material y la ayuda humanitaria.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-programa"
@@ -188,8 +188,8 @@
         {
           "id": "bng-009",
           "topic": "igualdad",
-          "title": "Prostitución",
-          "summary": "Perseguir proxenetas y clientes, sin criminalizar mujeres; ofrecer alternativas.",
+          "title": "Perseguir a proxenetas y clientes y ofrecer alternativas a las mujeres",
+          "summary": "Avanzar hacia la abolición de la prostitución persiguiendo a quienes la explotan y a quienes pagan por ella. No criminalizar a las mujeres y ofrecer alternativas para que puedan dejarla.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-programa"
@@ -201,8 +201,8 @@
         {
           "id": "bng-010",
           "topic": "territorio",
-          "title": "Lengua y nacionalidad",
-          "summary": "Aceptar conocimiento del gallego para nacionalidad, independientemente del castellano.",
+          "title": "Aceptar el gallego como vía para acreditar integración al obtener la nacionalidad",
+          "summary": "Admitir el conocimiento de la lengua y cultura gallegas para acceder a la nacionalidad española, con independencia del conocimiento del castellano. Es una propuesta de cambio de requisitos.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-programa"
@@ -214,8 +214,8 @@
         {
           "id": "bng-011",
           "topic": "vivienda",
-          "title": "Inversión pública",
-          "summary": "Destinar el 3% del presupuesto estatal a alquiler público permanente.",
+          "title": "Destinar el 3 % del presupuesto estatal a vivienda pública de alquiler",
+          "summary": "Dedicar el 3 % de los Presupuestos Generales del Estado a crear viviendas públicas que permanezcan destinadas al alquiler. El objetivo es que ese parque de vivienda tenga carácter permanente.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-decalogo"
@@ -227,8 +227,8 @@
         {
           "id": "bng-012",
           "topic": "empleo",
-          "title": "Jornada",
-          "summary": "Avanzar a 35 horas semanales sin reducción salarial.",
+          "title": "Reducir la jornada a 35 horas semanales sin bajar el sueldo",
+          "summary": "Avanzar hacia una semana laboral de 35 horas manteniendo el salario. La ficha no desarrolla aquí el calendario ni la aplicación por sectores.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-decalogo"
@@ -240,8 +240,8 @@
         {
           "id": "bng-013",
           "topic": "pensiones",
-          "title": "Jubilación",
-          "summary": "Recuperar edad ordinaria de 65 años y cómputo de diez años.",
+          "title": "Volver a jubilarse a los 65 años y calcular la pensión con diez años",
+          "summary": "Recuperar los 65 años como edad ordinaria de jubilación y un período de diez años para calcular la pensión. La ficha no especifica aquí qué diez años se tomarían para el cálculo.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-decalogo"
@@ -253,8 +253,8 @@
         {
           "id": "bng-014",
           "topic": "pensiones",
-          "title": "Pensiones mínimas",
-          "summary": "Elevarlas al 60% del salario medio.",
+          "title": "Subir las pensiones mínimas al 60 % del salario medio",
+          "summary": "Elevar el importe de las pensiones mínimas hasta que equivalga al 60 % del salario medio. Se trata del salario medio, no del salario mínimo.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-decalogo"
@@ -266,8 +266,8 @@
         {
           "id": "bng-015",
           "topic": "sanidad",
-          "title": "Dependencia",
-          "summary": "Exigir financiación estatal del 50% del SAAD.",
+          "title": "Exigir que el Estado pague la mitad del sistema de dependencia",
+          "summary": "Reclamar que el Gobierno central financie el 50 % del Sistema para la Autonomía y Atención a la Dependencia, que presta ayudas y servicios a personas que necesitan apoyo cotidiano.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-decalogo"
@@ -279,8 +279,8 @@
         {
           "id": "bng-016",
           "topic": "economia",
-          "title": "Fiscalidad",
-          "summary": "Reducir carga sobre trabajo y aumentar la del capital y grandes fortunas.",
+          "title": "Gravar menos las rentas del trabajo y más el capital y las grandes fortunas",
+          "summary": "Reducir la carga fiscal de los ingresos obtenidos trabajando y aumentar la de las rentas del capital, como rendimientos de inversiones, y de los grandes patrimonios.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-decalogo"
@@ -292,8 +292,8 @@
         {
           "id": "bng-017",
           "topic": "tecnologia",
-          "title": "Investigación",
-          "summary": "Alcanzar el 3% del PIB en I+D+i en 2030.",
+          "title": "Invertir el 3 % de la economía en investigación e innovación en 2030",
+          "summary": "Alcanzar en 2030 una inversión en investigación, desarrollo e innovación, conocida como I+D+i, equivalente al 3 % del PIB. Este indicador mide el valor de la producción económica.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-decalogo"
@@ -305,8 +305,8 @@
         {
           "id": "bng-018",
           "topic": "clima",
-          "title": "Electricidad",
-          "summary": "Implantar tarifa gallega y recuperar concesiones hidráulicas al vencer.",
+          "title": "Crear una tarifa eléctrica gallega y recuperar concesiones de embalses al vencer",
+          "summary": "Establecer un precio o sistema tarifario propio para la electricidad en Galicia. Devolver al sector público la gestión de los aprovechamientos hidroeléctricos cuando terminen sus concesiones.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-decalogo"
@@ -318,8 +318,8 @@
         {
           "id": "bng-019",
           "topic": "clima",
-          "title": "Eólica marina",
-          "summary": "Declarar la costa gallega no apta para parques.",
+          "title": "Excluir la costa gallega de los parques eólicos marinos",
+          "summary": "Declarar el litoral de Galicia como zona no apta para instalar parques que producen electricidad con aerogeneradores en el mar.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-decalogo"
@@ -331,8 +331,8 @@
         {
           "id": "bng-020",
           "topic": "rural",
-          "title": "AP-9",
-          "summary": "Hacerla pública, gallega y sin peajes.",
+          "title": "Hacer pública la AP-9 y eliminar sus peajes",
+          "summary": "Transferir a Galicia la autopista AP-9, ponerla bajo titularidad pública y permitir su uso sin pagar peaje.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-decalogo"
@@ -344,8 +344,8 @@
         {
           "id": "bng-021",
           "topic": "instituciones",
-          "title": "Voto juvenil",
-          "summary": "Reconocer sufragio desde los 16 años.",
+          "title": "Permitir votar desde los 16 años",
+          "summary": "Reconocer el derecho al voto a partir de los 16 años. La ficha no desarrolla aquí los cambios legales necesarios para aplicarlo.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-decalogo"
@@ -357,8 +357,8 @@
         {
           "id": "bng-022",
           "topic": "instituciones",
-          "title": "Protesta",
-          "summary": "Derogar la Ley de Seguridad Ciudadana.",
+          "title": "Derogar la Ley de Seguridad Ciudadana",
+          "summary": "Eliminar la norma conocida como «ley mordaza», que regula, entre otras cuestiones, sanciones de seguridad ciudadana. La ficha no detalla aquí el texto que la sustituiría.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "bng-decalogo"
@@ -370,8 +370,8 @@
         {
           "id": "bng-023",
           "topic": "vivienda",
-          "title": "Compra pública de viviendas vacías",
-          "summary": "Pontón propone comprar vivienda ya construida y vacía para destinarla a alquiler social.",
+          "title": "Comprar viviendas vacías para destinarlas a alquiler social",
+          "summary": "Proponer que la Administración compre viviendas ya construidas que están vacías y las incorpore a un parque público de alquiler social.",
           "kind": "statement",
           "sourceIds": [
             "bng-vivienda"
@@ -383,8 +383,8 @@
         {
           "id": "bng-024",
           "topic": "vivienda",
-          "title": "Topes al alquiler",
-          "summary": "Rego propone limitar los precios de los alquileres por ley.",
+          "title": "Fijar por ley un límite al precio de los alquileres",
+          "summary": "Establecer topes legales a los precios de alquiler de vivienda. La declaración resumida no concreta aquí los importes ni cómo se calcularían.",
           "kind": "statement",
           "sourceIds": [
             "bng-vivienda"
@@ -396,8 +396,8 @@
         {
           "id": "bng-025",
           "topic": "vivienda",
-          "title": "Hipotecas",
-          "summary": "Rego plantea topar también los precios de las hipotecas; la comunicación no precisa el mecanismo.",
+          "title": "Poner límites al coste de las hipotecas",
+          "summary": "Proponer topes también para los precios de las hipotecas. La declaración no precisa si el límite afectaría al interés, a la cuota o a otro elemento del préstamo, ni cómo se aplicaría.",
           "kind": "statement",
           "sourceIds": [
             "bng-vivienda"
@@ -409,8 +409,8 @@
         {
           "id": "bng-026",
           "topic": "vivienda",
-          "title": "Inmuebles estatales",
-          "summary": "Transferir a Galicia los activos de Sareb y Defensa para ampliar vivienda accesible.",
+          "title": "Ceder a Galicia inmuebles de Sareb y Defensa para vivienda asequible",
+          "summary": "Transferir a Galicia viviendas y terrenos de Sareb y del Ministerio de Defensa para ampliar la oferta de vivienda accesible. Sareb es la sociedad creada para gestionar activos inmobiliarios del rescate bancario.",
           "kind": "statement",
           "sourceIds": [
             "bng-vivienda"
@@ -422,8 +422,8 @@
         {
           "id": "bng-027",
           "topic": "vivienda",
-          "title": "Viviendas turísticas",
-          "summary": "Intervenir frente al uso turístico para recuperar oferta residencial; sin umbrales concretados en esta fuente.",
+          "title": "Actuar sobre las viviendas turísticas para recuperar oferta residencial",
+          "summary": "Intervenir frente al uso turístico de viviendas para que puedan volver a servir como residencia habitual. La declaración no fija aquí límites numéricos ni condiciones concretas.",
           "kind": "statement",
           "sourceIds": [
             "bng-vivienda"
@@ -435,8 +435,8 @@
         {
           "id": "bng-028",
           "topic": "empleo",
-          "title": "Salario mínimo",
-          "summary": "Elevar el SMI al 60% del salario medio.",
+          "title": "Subir el salario mínimo hasta el 60 % del salario medio",
+          "summary": "Elevar el salario mínimo interprofesional hasta que alcance el 60 % del salario medio. La propuesta relaciona el mínimo legal con el promedio de salarios, no fija aquí una cifra concreta en euros.",
           "kind": "statement",
           "sourceIds": [
             "bng-trabajo"
@@ -448,8 +448,8 @@
         {
           "id": "bng-029",
           "topic": "empleo",
-          "title": "Reformas laborales",
-          "summary": "Derogar íntegramente las reformas que considera regresivas, incluyendo el abaratamiento del despido.",
+          "title": "Eliminar las reformas laborales que considera regresivas",
+          "summary": "Derogar íntegramente las reformas laborales que recortaron derechos según esta posición, incluidos los cambios que abarataron el despido. La ficha no enumera aquí todos los artículos afectados.",
           "kind": "statement",
           "sourceIds": [
             "bng-trabajo"
@@ -461,8 +461,8 @@
         {
           "id": "bng-030",
           "topic": "empleo",
-          "title": "Bajas médicas",
-          "summary": "Mantener la protección por enfermedad y oponerse a que empresas, mediante mutuas, decidan la reincorporación.",
+          "title": "Proteger las bajas médicas y evitar que las empresas decidan la reincorporación",
+          "summary": "Defender que una persona enferma pueda mantener su protección laboral. Oponerse a que las empresas, a través de las mutuas, decidan si debe volver al trabajo.",
           "kind": "statement",
           "sourceIds": [
             "bng-trabajo"
@@ -474,8 +474,8 @@
         {
           "id": "bng-031",
           "topic": "clima",
-          "title": "Precios energéticos",
-          "summary": "Carme da Silva defiende topar los precios de energía para hogares.",
+          "title": "Limitar los precios de la electricidad y otros suministros energéticos del hogar",
+          "summary": "Defender topes a los precios de la energía para las familias. La declaración resumida no fija las cantidades ni el mecanismo para imponer esos límites.",
           "kind": "statement",
           "sourceIds": [
             "bng-trabajo"
@@ -487,8 +487,8 @@
         {
           "id": "bng-032",
           "topic": "rural",
-          "title": "Cadena alimentaria",
-          "summary": "Intervenir para garantizar remuneración digna de productores y alimentos asequibles.",
+          "title": "Mejorar lo que cobran los productores y mantener alimentos asequibles",
+          "summary": "Intervenir en la cadena entre producción y venta de alimentos para que agricultores y otros productores reciban una remuneración digna y los consumidores puedan acceder a precios asequibles. La ficha no concreta aquí precios obligatorios.",
           "kind": "statement",
           "sourceIds": [
             "bng-trabajo"

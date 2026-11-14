@@ -318,19 +318,19 @@
       "description": "Formación socialdemócrata de ámbito estatal; aquí se recogen sus posiciones federales.",
       "ideals": [
         {
-          "text": "Redistribución y servicios públicos universales.",
+          "text": "Repartir los recursos de forma más igualitaria y ofrecer servicios públicos para toda la población.",
           "sourceIds": [
             "psoe-congreso2024"
           ]
         },
         {
-          "text": "Igualdad feminista, diversidad y transición ecológica.",
+          "text": "Promover la igualdad entre mujeres y hombres, respetar la diversidad y cambiar hacia una economía más sostenible.",
           "sourceIds": [
             "psoe-congreso2024"
           ]
         },
         {
-          "text": "Integración europea y cooperación multilateral.",
+          "text": "Apoyar la integración europea y resolver asuntos internacionales mediante la cooperación entre varios países.",
           "sourceIds": [
             "psoe-congreso2024"
           ]
@@ -347,8 +347,8 @@
         {
           "id": "psoe-001",
           "topic": "vivienda",
-          "title": "Vivienda protegida",
-          "summary": "Sánchez plantea alcanzar un 6 % de vivienda protegida en 2030.",
+          "title": "Alcanzar un 6 % de vivienda protegida en 2030",
+          "summary": "Plantear que la vivienda protegida alcance el 6 % en 2030. Es vivienda sujeta a condiciones públicas de acceso y precio. El anuncio resumido no concreta el presupuesto ni cómo se llegaría a esa cifra.",
           "kind": "statement",
           "sourceIds": [
             "psoe-ponferrada"
@@ -360,8 +360,8 @@
         {
           "id": "psoe-002",
           "topic": "clima",
-          "title": "Electricidad renovable",
-          "summary": "Sánchez fija como objetivo un 80 % de generación eléctrica renovable en 2030.",
+          "title": "Generar el 80 % de la electricidad con renovables en 2030",
+          "summary": "Fijar como objetivo que en 2030 el 80 % de la electricidad se produzca con fuentes renovables, como la solar o la eólica. El porcentaje se refiere a electricidad, no a toda la energía consumida.",
           "kind": "statement",
           "sourceIds": [
             "psoe-ponferrada"
@@ -373,8 +373,8 @@
         {
           "id": "psoe-003",
           "topic": "igualdad",
-          "title": "Paridad en el poder",
-          "summary": "Aspira a que las mujeres ocupen el 50 % del poder económico e institucional en 2030.",
+          "title": "Lograr que las mujeres ocupen la mitad del poder económico e institucional",
+          "summary": "Aspirar a que en 2030 las mujeres ocupen el 50 % de los puestos de poder económico e institucional. El anuncio no concreta nuevas cuotas obligatorias ni sanciones.",
           "kind": "statement",
           "sourceIds": [
             "psoe-ponferrada"
@@ -386,8 +386,8 @@
         {
           "id": "psoe-004",
           "topic": "empleo",
-          "title": "Subidas anuales del SMI",
-          "summary": "Sánchez se compromete a seguir elevando el salario mínimo cada año de gobierno.",
+          "title": "Subir el salario mínimo cada año",
+          "summary": "Comprometerse a aumentar cada año de gobierno el salario mínimo interprofesional, el suelo salarial legal. El anuncio no fija cuánto subiría cada año.",
           "kind": "statement",
           "sourceIds": [
             "psoe-valencia"
@@ -399,8 +399,8 @@
         {
           "id": "psoe-005",
           "topic": "sanidad",
-          "title": "Reforzar la sanidad pública",
-          "summary": "Defiende ampliar los servicios sanitarios públicos.",
+          "title": "Ampliar los servicios de la sanidad pública",
+          "summary": "Defender que la sanidad pública ofrezca más servicios. Es una orientación general: la comunicación citada no fija presupuesto ni objetivos concretos de atención.",
           "kind": "statement",
           "sourceIds": [
             "psoe-valencia"
@@ -412,21 +412,21 @@
         {
           "id": "psoe-006",
           "topic": "educacion",
-          "title": "Educación pública",
-          "summary": "Propone fortalecer la educación pública.",
+          "title": "Reforzar la educación pública",
+          "summary": "Proponer un mayor apoyo a la enseñanza pública. La comunicación citada no concreta cuántos profesores o plazas se añadirían, ni cuánto dinero se destinaría.",
           "kind": "statement",
           "sourceIds": [
             "psoe-valencia"
           ],
           "locator": "Intervención: servicios públicos",
           "date": "2026-11-07",
-          "qualification": "No concreta aquí ratios, plazas o financiación."
+          "qualification": "La comunicación no concreta cuántos alumnos habría por docente o grupo, qué plazas se crearían ni qué presupuesto se destinaría."
         },
         {
           "id": "psoe-007",
           "topic": "pensiones",
-          "title": "Sistema de dependencia",
-          "summary": "Defiende reforzar la atención a la dependencia.",
+          "title": "Mejorar la atención a personas que necesitan ayuda en su vida diaria",
+          "summary": "Reforzar el sistema de atención a la dependencia, dirigido a quienes necesitan ayuda para actividades de su vida cotidiana. La declaración no define una nueva prestación ni su importe.",
           "kind": "statement",
           "sourceIds": [
             "psoe-valencia"
@@ -438,8 +438,8 @@
         {
           "id": "psoe-008",
           "topic": "igualdad",
-          "title": "Aborto en la Constitución",
-          "summary": "Promete una reforma constitucional que proteja el derecho al aborto.",
+          "title": "Proteger el derecho al aborto en la Constitución",
+          "summary": "Reformar la Constitución para incluir la protección del derecho al aborto. Se presenta como un compromiso de reforma, no como un cambio ya aprobado.",
           "kind": "statement",
           "sourceIds": [
             "psoe-granada"
@@ -451,8 +451,8 @@
         {
           "id": "psoe-009",
           "topic": "sanidad",
-          "title": "Muerte digna",
-          "summary": "Sánchez se compromete a mantener el derecho a una muerte digna.",
+          "title": "Mantener el derecho a una muerte digna",
+          "summary": "Defender la continuidad del derecho a una muerte digna. La declaración respalda un derecho existente y no anuncia aquí una nueva regulación.",
           "kind": "statement",
           "sourceIds": [
             "psoe-granada"
@@ -464,8 +464,8 @@
         {
           "id": "psoe-010",
           "topic": "pensiones",
-          "title": "Pensiones vinculadas al IPC",
-          "summary": "Propone garantizar constitucionalmente las pensiones y su actualización conforme al IPC.",
+          "title": "Proteger en la Constitución las pensiones y su subida con los precios",
+          "summary": "Garantizar constitucionalmente las pensiones y su actualización según el IPC, el indicador de los precios de consumo. Para aplicarlo habría que tramitar y aprobar una reforma de la Constitución.",
           "kind": "statement",
           "sourceIds": [
             "psoe-pensiones"
@@ -477,8 +477,8 @@
         {
           "id": "psoe-011",
           "topic": "empleo",
-          "title": "Objetivo de desempleo",
-          "summary": "Sánchez plantea alcanzar una tasa de paro del 8 %.",
+          "title": "Reducir la tasa de paro hasta el 8 %",
+          "summary": "Fijar como objetivo que el desempleo baje al 8 % de la población activa. Es una meta económica, no una garantía de resultado ni una medida concreta de contratación.",
           "kind": "statement",
           "sourceIds": [
             "psoe-pensiones"
@@ -490,8 +490,8 @@
         {
           "id": "psoe-012",
           "topic": "exterior",
-          "title": "Reconocimiento de Palestina",
-          "summary": "Sánchez reafirma la defensa del reconocimiento del Estado palestino.",
+          "title": "Mantener el reconocimiento del Estado palestino",
+          "summary": "Reafirmar el apoyo al reconocimiento de Palestina como Estado. La declaración defiende una decisión anterior; no anuncia un reconocimiento nuevo.",
           "kind": "statement",
           "sourceIds": [
             "psoe-pensiones"
@@ -503,8 +503,8 @@
         {
           "id": "psoe-013",
           "topic": "territorio",
-          "title": "Más financiación autonómica",
-          "summary": "Defiende una reforma con unos 21.000 millones adicionales y 3.000 millones más para el fondo de solidaridad.",
+          "title": "Aumentar los recursos de las comunidades y el fondo de solidaridad",
+          "summary": "Reformar la financiación autonómica con unos 21.000 millones de euros adicionales y otros 3.000 millones para el fondo de solidaridad. Son cifras propuestas, sujetas a negociación y aprobación parlamentaria.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-financiacion"
@@ -516,8 +516,8 @@
         {
           "id": "psoe-014",
           "topic": "inmigracion",
-          "title": "Regularización extraordinaria",
-          "summary": "Defiende regularizar a residentes previos a enero de 2026, con cinco meses continuados y sin antecedentes penales.",
+          "title": "Apoyar la regularización de residentes con cinco meses de permanencia",
+          "summary": "Defender la regularización de personas que ya residían en España antes de enero de 2026, con cinco meses continuados de permanencia y sin antecedentes penales. La ficha valora el apoyo político; no recoge todos los requisitos de un trámite.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-regularizacion"
@@ -529,8 +529,8 @@
         {
           "id": "psoe-015",
           "topic": "inmigracion",
-          "title": "Integración y títulos",
-          "summary": "Apoya el Plan de Integración 2026–2030, incluida inserción laboral y homologación de títulos.",
+          "title": "Facilitar el empleo y el reconocimiento de títulos de personas migrantes",
+          "summary": "Apoyar el Plan de Integración 2026–2030, incluida la incorporación al trabajo y la homologación de estudios obtenidos fuera de España. Homologar significa reconocer oficialmente esos títulos.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-integracion"
@@ -542,8 +542,8 @@
         {
           "id": "psoe-016",
           "topic": "tecnologia",
-          "title": "Ayudas digitales para pymes",
-          "summary": "Propone estudiar prorrogar Kit Digital y Kit Consulting desde 2026.",
+          "title": "Estudiar la continuidad de ayudas digitales para pequeñas empresas",
+          "summary": "Estudiar la prórroga, desde 2026, de Kit Digital y Kit Consulting: programas para ayudar a pequeñas y medianas empresas a incorporar tecnología y recibir asesoramiento. No se acredita aquí que la prórroga esté aprobada.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-ia"
@@ -555,47 +555,47 @@
         {
           "id": "psoe-017",
           "topic": "tecnologia",
-          "title": "Asesoramiento público sobre IA",
-          "summary": "Plantea incorporar especialistas en IA a las oficinas Acelera Pyme.",
+          "title": "Ofrecer asesoramiento público sobre inteligencia artificial a las empresas",
+          "summary": "Incorporar especialistas en inteligencia artificial a las oficinas Acelera Pyme, que ayudan a las pequeñas y medianas empresas a utilizar tecnología. Se plantea como una iniciativa parlamentaria.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-ia"
           ],
           "locator": "Qué se propone, punto 2",
           "date": "2025-10-17",
-          "qualification": "Proposición no de ley."
+          "qualification": "Petición parlamentaria para que se actúe; por sí sola no cambia una ley ni aprueba gasto."
         },
         {
           "id": "psoe-018",
           "topic": "educacion",
-          "title": "FP en inteligencia artificial",
-          "summary": "Propone ampliar las plazas públicas de FP en IA, nube y análisis de datos, con las comunidades.",
+          "title": "Crear más plazas de formación profesional en inteligencia artificial",
+          "summary": "Ampliar las plazas públicas de formación profesional en inteligencia artificial, servicios informáticos en la nube y análisis de datos. Coordinar la ampliación con las comunidades autónomas.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-ia"
           ],
           "locator": "Qué se propone, punto 3",
           "date": "2025-10-17",
-          "qualification": "Proposición no de ley."
+          "qualification": "Petición parlamentaria para que se actúe; por sí sola no cambia una ley ni aprueba gasto."
         },
         {
           "id": "psoe-019",
           "topic": "tecnologia",
-          "title": "IA y derechos fundamentales",
-          "summary": "Propone materiales públicos para evaluar riesgos de IA y su impacto en derechos fundamentales.",
+          "title": "Publicar guías para evaluar los riesgos de la inteligencia artificial",
+          "summary": "Crear materiales públicos que ayuden a identificar los riesgos de los sistemas de inteligencia artificial y sus posibles efectos sobre derechos fundamentales, como la igualdad y la privacidad.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-ia"
           ],
           "locator": "Qué se propone, punto 5",
           "date": "2025-10-17",
-          "qualification": "Proposición no de ley."
+          "qualification": "Petición parlamentaria para que se actúe; por sí sola no cambia una ley ni aprueba gasto."
         },
         {
           "id": "psoe-020",
           "topic": "rural",
-          "title": "Transporte a demanda",
-          "summary": "Propone extender el transporte a demanda en zonas despobladas para acceder a servicios esenciales.",
+          "title": "Extender el transporte que se solicita según la necesidad de los pueblos",
+          "summary": "Ampliar el transporte a demanda en zonas despobladas: servicios que se organizan según las solicitudes de los usuarios para facilitar el acceso a servicios esenciales. Se trata de una moción anunciada.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-rural"
@@ -607,8 +607,8 @@
         {
           "id": "psoe-021",
           "topic": "rural",
-          "title": "Servicios para fijar población",
-          "summary": "Propone combinar vivienda, conectividad, servicios públicos, empleo y conciliación para atraer y mantener familias rurales.",
+          "title": "Mejorar vivienda, conexión y servicios para mantener población rural",
+          "summary": "Combinar acceso a vivienda, conectividad, servicios públicos, empleo y facilidades para conciliar trabajo y cuidados. El objetivo es que las familias puedan quedarse o instalarse en zonas rurales; no se indican importes concretos.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-rural"
@@ -620,8 +620,8 @@
         {
           "id": "psoe-022",
           "topic": "rural",
-          "title": "Transición agraria financiada",
-          "summary": "Defiende acompañamiento técnico y financiación para adaptar explotaciones a la transición ecológica.",
+          "title": "Ayudar al campo a adaptarse a prácticas más sostenibles",
+          "summary": "Ofrecer asesoramiento técnico y financiación para que las explotaciones agrícolas y ganaderas se adapten a la transición ecológica. Es una propuesta de apoyo, no financiación ya concedida.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-agricultura"
@@ -633,8 +633,8 @@
         {
           "id": "psoe-023",
           "topic": "rural",
-          "title": "Precios y costes agrarios",
-          "summary": "Propone que los costes de producción sean la base de negociación de los contratos del sector primario.",
+          "title": "Usar los costes de producción al negociar los contratos del campo",
+          "summary": "Hacer que los costes de producir sean la base de negociación de los contratos agrícolas, ganaderos y de otros productores del sector primario. La propuesta no fija un precio mínimo universal.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-agricultura"
@@ -646,8 +646,8 @@
         {
           "id": "psoe-024",
           "topic": "exterior",
-          "title": "Permanencia en la OTAN",
-          "summary": "Sánchez defiende el compromiso con la OTAN y una alianza más europea.",
+          "title": "Mantener la pertenencia a la OTAN y reforzar el papel europeo",
+          "summary": "Defender el compromiso de España con la OTAN, la alianza militar atlántica, y dar más peso a Europa dentro de ella. La postura procede de una declaración gubernamental.",
           "kind": "statement",
           "sourceIds": [
             "psoe-otanactividad"
@@ -659,8 +659,8 @@
         {
           "id": "psoe-025",
           "topic": "exterior",
-          "title": "Gasto en defensa",
-          "summary": "Sánchez defiende el esfuerzo del 2 % del PIB en defensa en 2026.",
+          "title": "Defender un gasto en defensa del 2 % de la economía en 2026",
+          "summary": "Respaldar el esfuerzo de defensa equivalente al 2 % del PIB en 2026. El PIB mide el valor de la producción económica de un país. La declaración no fija el porcentaje para toda una legislatura.",
           "kind": "statement",
           "sourceIds": [
             "psoe-otan"
@@ -672,8 +672,8 @@
         {
           "id": "psoe-026",
           "topic": "exterior",
-          "title": "Apoyo a Ucrania",
-          "summary": "Defiende continuar apoyando a Ucrania y la cooperación militar con aliados.",
+          "title": "Continuar el apoyo a Ucrania y la cooperación militar con aliados",
+          "summary": "Mantener la ayuda a Ucrania y la colaboración militar con países aliados. La postura procede de una declaración de política gubernamental anterior a la campaña.",
           "kind": "statement",
           "sourceIds": [
             "psoe-otanactividad"
@@ -685,8 +685,8 @@
         {
           "id": "psoe-027",
           "topic": "empleo",
-          "title": "Jornada de 36 horas",
-          "summary": "Objetivo medio para 2030, sin reducción salarial.",
+          "title": "Alcanzar una jornada media de 36 horas semanales en 2030",
+          "summary": "Plantear para 2030 una jornada laboral media de 36 horas por semana, sin reducir el salario. La propuesta figura en una resolución de 2024; no se ha verificado como compromiso del programa del 29N.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-congreso2024"
@@ -698,8 +698,8 @@
         {
           "id": "psoe-028",
           "topic": "empleo",
-          "title": "Beneficios compartidos",
-          "summary": "Obligar a grandes empresas a compartir beneficios y gestión con trabajadores.",
+          "title": "Dar a los trabajadores participación en beneficios y gestión de grandes empresas",
+          "summary": "Obligar a las grandes empresas a compartir beneficios y participación en la gestión con sus trabajadores. La resolución resumida no concreta el reparto ni cómo se organizaría esa participación.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-congreso2024"
@@ -711,8 +711,8 @@
         {
           "id": "psoe-029",
           "topic": "economia",
-          "title": "IRPF de rentas altas",
-          "summary": "Tipo marginal mínimo del 50 % desde 300.000 euros anuales.",
+          "title": "Aplicar al menos un 50 % de IRPF al tramo de rentas desde 300.000 euros",
+          "summary": "En el impuesto sobre la renta (IRPF), establecer un tipo marginal mínimo del 50 % desde 300.000 euros anuales. Un tipo marginal grava el tramo de renta correspondiente, no implica aplicar ese porcentaje a todos los ingresos.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-congreso2024"
@@ -724,8 +724,8 @@
         {
           "id": "psoe-030",
           "topic": "empleo",
-          "title": "SMI constitucional",
-          "summary": "Garantizar constitucionalmente un SMI superior al 60 % del salario medio.",
+          "title": "Garantizar en la Constitución un salario mínimo superior al 60 % del salario medio",
+          "summary": "Incluir en la Constitución que el salario mínimo interprofesional supere el 60 % del salario medio. Es una propuesta de una resolución de 2024, no un compromiso del 29N verificado.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-congreso2024"
@@ -737,8 +737,8 @@
         {
           "id": "psoe-031",
           "topic": "instituciones",
-          "title": "Participación ciudadana",
-          "summary": "Crear un escaño ciudadano sin voto en ambas cámaras.",
+          "title": "Crear un espacio de participación ciudadana sin voto en las dos cámaras",
+          "summary": "Crear un «escaño ciudadano» en el Congreso y el Senado para dar voz a la ciudadanía, sin derecho a votar las decisiones parlamentarias. La ficha no desarrolla cómo se elegiría a sus participantes.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-congreso2024"
@@ -750,8 +750,8 @@
         {
           "id": "psoe-032",
           "topic": "educacion",
-          "title": "Formación dual",
-          "summary": "Extender progresivamente la formación dual a universidad y FP.",
+          "title": "Extender la formación que combina estudios y trabajo en empresas",
+          "summary": "Ampliar progresivamente la formación dual en la universidad y la formación profesional. La formación dual combina aprendizaje en el centro educativo con formación práctica en una empresa.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-congreso2024"
@@ -763,8 +763,8 @@
         {
           "id": "psoe-033",
           "topic": "vivienda",
-          "title": "Conversión turística",
-          "summary": "Prohibir convertir residencias en alquiler turístico o temporal en zonas de alta demanda.",
+          "title": "Impedir convertir viviendas en alquileres turísticos o temporales en zonas de alta demanda",
+          "summary": "Prohibir que las viviendas residenciales pasen a destinarse a alquiler turístico o de temporada en zonas con mucha demanda. La posición procede de una resolución de 2024.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-congreso2024"
@@ -776,8 +776,8 @@
         {
           "id": "psoe-034",
           "topic": "economia",
-          "title": "Prestaciones integradas",
-          "summary": "Integrar prestaciones no contributivas en una ayuda única para simplificar trámites.",
+          "title": "Unificar ayudas que no dependen de haber cotizado",
+          "summary": "Integrar en una sola ayuda las prestaciones no contributivas, que no exigen haber cotizado previamente lo suficiente. El objetivo declarado es simplificar trámites.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-congreso2024"
@@ -789,8 +789,8 @@
         {
           "id": "psoe-035",
           "topic": "clima",
-          "title": "Adaptación climática",
-          "summary": "Crear un fondo de resiliencia para personas y territorios vulnerables.",
+          "title": "Crear un fondo para afrontar daños y riesgos climáticos",
+          "summary": "Establecer un fondo de adaptación al cambio climático dirigido a personas y territorios vulnerables. La resolución de origen no concreta en esta ficha su presupuesto ni sus condiciones de acceso.",
           "kind": "official_position",
           "sourceIds": [
             "psoe-congreso2024"
@@ -830,20 +830,20 @@
       "description": "Coalición de izquierdas de 2026. Se distinguen sus anuncios conjuntos de las posiciones de integrantes como Movimiento Sumar e IU.",
       "ideals": [
         {
-          "text": "Redistribución mediante fiscalidad y vivienda pública.",
+          "text": "Reducir desigualdades mediante los impuestos y el acceso a vivienda pública.",
           "sourceIds": [
             "fa-impuestos",
             "fa-vivienda"
           ]
         },
         {
-          "text": "Trabajo decente, ecologismo, feminismo y reconocimiento plurinacional en Movimiento Sumar.",
+          "text": "En Movimiento Sumar, defender trabajo digno, protección ambiental, igualdad de género y reconocimiento de varias naciones dentro del Estado.",
           "sourceIds": [
             "sumar-principios"
           ]
         },
         {
-          "text": "Voluntad de reeditar un gobierno de coalición progresista.",
+          "text": "Buscar un nuevo gobierno compartido por partidos de orientación progresista.",
           "sourceIds": [
             "fa-constitucion"
           ]
@@ -860,60 +860,60 @@
         {
           "id": "frente-amplio-001",
           "topic": "vivienda",
-          "title": "Expropiación a grandes empresas",
-          "summary": "Propone expropiar vivienda corporativa por fases: propietarios de más de 1.000, después 700 y después 50 inmuebles.",
+          "title": "Expropiar viviendas de empresas con grandes cantidades de inmuebles",
+          "summary": "Transferir obligatoriamente a manos públicas viviendas de empresas, por fases: primero las de propietarios con más de 1.000 inmuebles, después más de 700 y después más de 50. Se excluye a propietarios familiares; no se concreta el presupuesto ni la compensación.",
           "kind": "official_position",
           "sourceIds": [
             "fa-vivienda"
           ],
           "locator": "Expropiación por fases",
           "date": "2026-11-06",
-          "qualification": "Excluye a propietarios familiares. La nota no concreta aquí justiprecios ni presupuesto de expropiación."
+          "qualification": "No se dirige a propietarios familiares. La comunicación no concreta las indemnizaciones a los propietarios ni el dinero necesario para las expropiaciones."
         },
         {
           "id": "frente-amplio-002",
           "topic": "vivienda",
-          "title": "Activos de SAREB",
-          "summary": "Propone integrar obligatoriamente sus fincas urbanas y suelos residenciales en el parque público.",
+          "title": "Incorporar al parque público las viviendas y suelos residenciales de Sareb",
+          "summary": "Destinar obligatoriamente a vivienda pública las fincas urbanas y los terrenos residenciales de Sareb, la sociedad creada para gestionar activos inmobiliarios del rescate bancario. La propuesta no indica cuántas viviendas estarían ya disponibles para habitar.",
           "kind": "official_position",
           "sourceIds": [
             "fa-vivienda"
           ],
           "locator": "La SAREB, al parque público",
           "date": "2026-11-06",
-          "qualification": "Propuesta de adscripción de activos, no cifra de viviendas ya disponibles."
+          "qualification": "La medida propone cambiar el destino de los inmuebles y terrenos. No indica cuántas viviendas estarían ya listas para habitar."
         },
         {
           "id": "frente-amplio-003",
           "topic": "economia",
-          "title": "Impuesto sobre grandes patrimonios",
-          "summary": "Propone un 2 % sobre patrimonio neto superior a un millón y un 3 % desde 50 millones.",
+          "title": "Cobrar más impuestos sobre grandes patrimonios",
+          "summary": "Proponer un impuesto del 2 % sobre patrimonio neto superior a un millón de euros y del 3 % desde 50 millones. El patrimonio neto es el valor de los bienes menos las deudas; se descontaría lo ya pagado por Patrimonio y Grandes Fortunas.",
           "kind": "official_position",
           "sourceIds": [
             "fa-impuestos"
           ],
           "locator": "Tasar las grandes fortunas",
           "date": "2026-11-05",
-          "qualification": "Descontaría lo abonado por Patrimonio y Grandes Fortunas. No grava salarios ni pensiones como tales."
+          "qualification": "Se restaría lo ya pagado en los impuestos sobre Patrimonio y Grandes Fortunas. Se grava el patrimonio, no directamente el sueldo o la pensión."
         },
         {
           "id": "frente-amplio-004",
           "topic": "economia",
-          "title": "Tributación de grandes empresas",
-          "summary": "Propone elevar el tipo efectivo de grandes empresas y banca revisando desgravaciones.",
+          "title": "Aumentar lo que pagan realmente grandes empresas y bancos",
+          "summary": "Revisar los descuentos fiscales para elevar el tipo efectivo, es decir, el porcentaje que grandes empresas y bancos pagan realmente tras aplicar deducciones y otras ventajas fiscales.",
           "kind": "official_position",
           "sourceIds": [
             "fa-impuestos"
           ],
           "locator": "Impuesto a la banca",
           "date": "2026-11-05",
-          "qualification": "La recaudación conjunta anunciada para tres impuestos es una estimación de la coalición."
+          "qualification": "El dinero que se prevé ingresar con los tres impuestos es una estimación de la coalición, no un resultado garantizado."
         },
         {
           "id": "frente-amplio-005",
           "topic": "vivienda",
-          "title": "Impuesto a la acumulación",
-          "summary": "Plantea gravar al 10 % el valor de viviendas de empresas desde la primera y de particulares desde la cuarta.",
+          "title": "Gravar la acumulación de viviendas de empresas y grandes propietarios",
+          "summary": "Aplicar un impuesto del 10 % al valor de las viviendas: desde la primera en empresas y desde la cuarta en particulares, con un umbral conjunto de 800.000 euros. Exceptuar viviendas de alquiler asequible y estable.",
           "kind": "official_position",
           "sourceIds": [
             "fa-impuestos"
@@ -925,8 +925,8 @@
         {
           "id": "frente-amplio-006",
           "topic": "pensiones",
-          "title": "Pensión mínima igual al SMI",
-          "summary": "Propone que ninguna pensión sea inferior al salario mínimo.",
+          "title": "Hacer que ninguna pensión quede por debajo del salario mínimo",
+          "summary": "Elevar las pensiones más bajas para que su importe no sea inferior al salario mínimo interprofesional. Se propone financiarlo aumentando la imposición sobre empresas y grandes patrimonios.",
           "kind": "official_position",
           "sourceIds": [
             "fa-pensiones"
@@ -938,8 +938,8 @@
         {
           "id": "frente-amplio-007",
           "topic": "pensiones",
-          "title": "Jubilación a los 65",
-          "summary": "Propone recuperar de forma efectiva la jubilación a los 65 años.",
+          "title": "Recuperar la jubilación a los 65 años",
+          "summary": "Volver a una edad efectiva de jubilación de 65 años. La comunicación estima un coste adicional de unos 10.000 millones de euros al año, pero no detalla todas las condiciones de cotización necesarias.",
           "kind": "official_position",
           "sourceIds": [
             "fa-pensiones"
@@ -951,21 +951,21 @@
         {
           "id": "frente-amplio-008",
           "topic": "pensiones",
-          "title": "Cotizaciones máximas",
-          "summary": "Propone eliminar progresivamente el tope de cotización para financiar pensiones.",
+          "title": "Eliminar gradualmente el límite de cotización de los salarios altos",
+          "summary": "Quitar de forma progresiva el máximo de ingresos sobre el que se cotiza a la Seguridad Social. Así, también se cotizaría por la parte del salario que supera ese límite, para financiar las pensiones.",
           "kind": "official_position",
           "sourceIds": [
             "fa-pensiones"
           ],
           "locator": "Cómo se paga",
           "date": "2026-10-24",
-          "qualification": "Estimación del partido: 7.000–8.500 millones anuales. No evaluación independiente."
+          "qualification": "La organización calcula que recaudaría entre 7.000 y 8.500 millones de euros al año. Este cuaderno no verifica esa estimación de forma independiente."
         },
         {
           "id": "frente-amplio-009",
           "topic": "pensiones",
-          "title": "Empresas automatizadas",
-          "summary": "Propone una aportación de empresas más automatizadas al Mecanismo de Equidad Intergeneracional.",
+          "title": "Pedir una aportación para pensiones a las empresas más automatizadas",
+          "summary": "Hacer que las empresas con mayor automatización contribuyan al Mecanismo de Equidad Intergeneracional, destinado a financiar las pensiones. No se concreta sobre qué cantidad se calcularía esa aportación ni su porcentaje.",
           "kind": "official_position",
           "sourceIds": [
             "fa-pensiones"
@@ -977,34 +977,34 @@
         {
           "id": "frente-amplio-010",
           "topic": "territorio",
-          "title": "Unificar Renfe y Adif",
-          "summary": "Propone un gran operador público integrado de trenes e infraestructuras.",
+          "title": "Reunir Renfe y Adif en un solo operador público",
+          "summary": "Integrar la empresa que presta servicios de tren, Renfe, y la que gestiona gran parte de la infraestructura ferroviaria, Adif, en una misma organización pública.",
           "kind": "official_position",
           "sourceIds": [
             "fa-tren"
           ],
           "locator": "Primera propuesta",
           "date": "2026-11-02",
-          "qualification": "Parte de su propuesta de Pacto de Estado por el Tren."
+          "qualification": "Forma parte de la propuesta de un acuerdo amplio entre partidos e instituciones sobre el ferrocarril."
         },
         {
           "id": "frente-amplio-011",
           "topic": "seguridad",
-          "title": "Mantenimiento ferroviario",
-          "summary": "Propone aumentar inversión y personal de mantenimiento para reforzar la seguridad del ferrocarril.",
+          "title": "Invertir más en mantenimiento y seguridad ferroviaria",
+          "summary": "Aumentar el dinero y el personal destinados a mantener la red y reforzar la seguridad de los trenes. La propuesta no fija una dotación total ni plantea detener los grandes proyectos pendientes.",
           "kind": "official_position",
           "sourceIds": [
             "fa-tren"
           ],
           "locator": "Segunda propuesta",
           "date": "2026-11-02",
-          "qualification": "No concreta una dotación total ni plantea detener los grandes proyectos pendientes."
+          "qualification": "La comunicación no fija el presupuesto total ni propone parar los grandes proyectos que quedan por ejecutar."
         },
         {
           "id": "frente-amplio-012",
           "topic": "territorio",
-          "title": "Refuerzo de cercanías",
-          "summary": "Propone más fiabilidad, frecuencia y seguridad en cercanías, además de alta velocidad.",
+          "title": "Mejorar la frecuencia y la fiabilidad de los trenes de cercanías",
+          "summary": "Reforzar la seguridad, la regularidad y la frecuencia de los servicios de cercanías, además de la alta velocidad. La comunicación no fija cuántos trenes adicionales habría.",
           "kind": "official_position",
           "sourceIds": [
             "fa-tren"
@@ -1016,8 +1016,8 @@
         {
           "id": "frente-amplio-013",
           "topic": "clima",
-          "title": "Fondos aeroportuarios al tren",
-          "summary": "Propone trasladar inmediatamente a la red ferroviaria los casi 13.000 millones del plan aeroportuario DORA.",
+          "title": "Pasar casi 13.000 millones de inversión aeroportuaria al ferrocarril",
+          "summary": "Trasladar inmediatamente a la red de trenes los casi 13.000 millones de euros previstos en el plan de inversión aeroportuaria DORA. Es una reasignación propuesta, no una transferencia ya ejecutada.",
           "kind": "official_position",
           "sourceIds": [
             "fa-tren"
@@ -1029,8 +1029,8 @@
         {
           "id": "frente-amplio-014",
           "topic": "tecnologia",
-          "title": "IA en campaña",
-          "summary": "Colau propone un pacto contra la suplantación de identidad y los contenidos vejatorios generados con IA.",
+          "title": "Pactar que la campaña no use IA para suplantar o humillar a personas",
+          "summary": "Proponer un acuerdo político contra los vídeos, imágenes o mensajes generados con inteligencia artificial que suplanten identidades o tengan contenido vejatorio. Es un compromiso de conducta, no una ley con sanciones.",
           "kind": "statement",
           "sourceIds": [
             "fa-ia"
@@ -1042,8 +1042,8 @@
         {
           "id": "frente-amplio-015",
           "topic": "vivienda",
-          "title": "Protección frente a desahucios",
-          "summary": "Sumar defiende protección hasta 2030.",
+          "title": "Mantener la protección frente a desahucios hasta 2030",
+          "summary": "Defender que la protección frente a los desahucios se extienda hasta 2030. Es una posición de una organización integrante de la coalición; la fuente no acredita por sí sola que esa protección esté legalmente vigente.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-vivienda"
@@ -1055,8 +1055,8 @@
         {
           "id": "frente-amplio-016",
           "topic": "vivienda",
-          "title": "Prórroga de alquileres",
-          "summary": "Sumar defiende prórrogas de dos años y renovación automática de contratos.",
+          "title": "Prorrogar alquileres dos años y renovar los contratos automáticamente",
+          "summary": "Defender extensiones de dos años y la renovación automática de los contratos de alquiler. La postura corresponde a una organización de la coalición y no se presenta como un compromiso conjunto verificado.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-vivienda"
@@ -1068,8 +1068,8 @@
         {
           "id": "frente-amplio-017",
           "topic": "vivienda",
-          "title": "Temporada y habitaciones",
-          "summary": "Sumar defiende regular los alquileres de temporada y de habitaciones.",
+          "title": "Regular los alquileres de temporada y por habitaciones",
+          "summary": "Establecer reglas para los alquileres por períodos temporales y para los de habitaciones. Es una posición de una organización integrante; la ficha no concreta aquí todas las condiciones de esa regulación.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-vivienda"
@@ -1081,8 +1081,8 @@
         {
           "id": "frente-amplio-018",
           "topic": "vivienda",
-          "title": "Compras de fondos",
-          "summary": "Sumar defiende prohibir compras de fondos de inversión hasta 2028.",
+          "title": "Prohibir hasta 2028 las compras de vivienda de fondos de inversión",
+          "summary": "Defender una prohibición temporal para que los fondos de inversión compren vivienda, hasta 2028. Es una posición de una organización integrante de la coalición, no una prohibición cuya vigencia se certifique aquí.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-vivienda"
@@ -1094,8 +1094,8 @@
         {
           "id": "frente-amplio-019",
           "topic": "clima",
-          "title": "Cierre nuclear",
-          "summary": "Sumar rechaza prorrogar Almaraz y prioriza renovables y reconversión industrial territorial.",
+          "title": "No alargar la vida de Almaraz y apoyar alternativas económicas en la zona",
+          "summary": "Rechazar una prórroga de funcionamiento de la central nuclear de Almaraz. Priorizar las energías renovables y la creación de alternativas industriales en el territorio afectado.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-almaraz"
@@ -1107,8 +1107,8 @@
         {
           "id": "frente-amplio-020",
           "topic": "inmigracion",
-          "title": "Regularización y documentación",
-          "summary": "Sumar apoya la regularización y flexibilizar la acreditación documental de residencia y trabajo.",
+          "title": "Facilitar la regularización y la prueba de residencia y trabajo",
+          "summary": "Apoyar que personas migrantes puedan obtener una situación legal y flexibilizar los documentos con los que acreditan su residencia y su trabajo. La ficha no describe todos los requisitos del procedimiento.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-migracion"
@@ -1120,8 +1120,8 @@
         {
           "id": "frente-amplio-021",
           "topic": "inmigracion",
-          "title": "Personas apátridas",
-          "summary": "Sumar pidió incluir a personas apátridas en la regularización; reconoce que no se incorporó.",
+          "title": "Incluir a personas sin nacionalidad en la regularización",
+          "summary": "Pedir que la regularización alcance también a personas apátridas, es decir, a quienes ningún Estado reconoce como nacionales. La propia fuente señala que esta petición no se incorporó.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-migracion"
@@ -1133,8 +1133,8 @@
         {
           "id": "frente-amplio-022",
           "topic": "instituciones",
-          "title": "Puertas giratorias",
-          "summary": "Sumar propone diez años de incompatibilidad para expresidentes en empresas de sectores estratégicos.",
+          "title": "Impedir diez años que expresidentes trabajen en sectores estratégicos",
+          "summary": "Prohibir durante diez años que expresidentes ocupen puestos en empresas de sectores estratégicos. Es una medida contra las llamadas «puertas giratorias», el paso de responsabilidades políticas a empresas relacionadas.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-expresidentes"
@@ -1146,8 +1146,8 @@
         {
           "id": "frente-amplio-023",
           "topic": "instituciones",
-          "title": "Recursos de expresidentes",
-          "summary": "Sumar propone retirar medios públicos y pensiones indemnizatorias a expresidentes que opten por actividad privada lucrativa.",
+          "title": "Retirar beneficios públicos a expresidentes que elijan actividad privada lucrativa",
+          "summary": "Quitar medios públicos y pensiones indemnizatorias a expresidentes que opten por una actividad privada con la que obtengan ingresos. La propuesta trata de evitar que mantengan esos apoyos al desarrollar dicha actividad.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-expresidentes"
@@ -1159,8 +1159,8 @@
         {
           "id": "frente-amplio-024",
           "topic": "igualdad",
-          "title": "Derechos LGTBIQA+",
-          "summary": "Sumar defiende los derechos adquiridos y un enfoque antirracista en las políticas LGTBIQA+.",
+          "title": "Proteger los derechos por orientación sexual e identidad de género",
+          "summary": "Mantener los derechos de las personas LGTBIQA+ y atender también al racismo que pueden sufrir. La postura se refiere a lesbianas, gais, bisexuales, personas trans y otras diversidades sexuales y de género.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-lgtbi"
@@ -1172,8 +1172,8 @@
         {
           "id": "frente-amplio-025",
           "topic": "igualdad",
-          "title": "Protección constitucional del aborto",
-          "summary": "Sumar defiende incorporar el aborto a la Constitución.",
+          "title": "Incluir la protección del aborto en la Constitución",
+          "summary": "Defender una reforma de la Constitución para que recoja el derecho al aborto. Es una posición de una organización integrante de la coalición.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-aborto"
@@ -1185,8 +1185,8 @@
         {
           "id": "frente-amplio-026",
           "topic": "igualdad",
-          "title": "Escuchar a la infancia",
-          "summary": "Sumar defiende garantizar audiencia adaptada a menores afectados por decisiones, sin umbral rígido de edad.",
+          "title": "Escuchar a los menores en las decisiones que les afectan",
+          "summary": "Garantizar que los niños y adolescentes puedan expresar su opinión de una manera adaptada a su situación, sin excluirlos solo por no alcanzar una edad fija.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-infancia"
@@ -1198,8 +1198,8 @@
         {
           "id": "frente-amplio-027",
           "topic": "igualdad",
-          "title": "Justicia especializada en infancia",
-          "summary": "Sumar defiende turnos de oficio especializados en violencia contra menores y formación de profesionales.",
+          "title": "Ofrecer asistencia jurídica especializada en violencia contra menores",
+          "summary": "Crear servicios de asistencia jurídica de oficio especializados en violencia contra menores. Formar también a los profesionales que intervienen en estos casos.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-infancia"
@@ -1211,8 +1211,8 @@
         {
           "id": "frente-amplio-028",
           "topic": "igualdad",
-          "title": "Protección infantil pública",
-          "summary": "Sumar propone priorizar gestión pública directa y limitar la externalización de servicios de protección infantil a excepciones.",
+          "title": "Gestionar directamente desde lo público la protección de menores",
+          "summary": "Priorizar que la Administración gestione los servicios de protección infantil. Dejar la contratación de entidades externas para prestar esos servicios solo para casos excepcionales.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-infancia"
@@ -1224,8 +1224,8 @@
         {
           "id": "frente-amplio-029",
           "topic": "exterior",
-          "title": "OTAN y acuerdos militares",
-          "summary": "El equipo internacional de Sumar propone abandonar la estructura militar de la OTAN y denunciar el Tratado.",
+          "title": "Salir de la estructura militar de la OTAN y abandonar su tratado",
+          "summary": "Proponer la salida de la estructura militar de la OTAN y la denuncia de su tratado. «Denunciar» un tratado significa comunicar formalmente la decisión de dejar de estar vinculado por él.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-exterior"
@@ -1237,8 +1237,8 @@
         {
           "id": "frente-amplio-030",
           "topic": "exterior",
-          "title": "Neutralidad y bases",
-          "summary": "Propone renegociar acuerdos con EEUU y prohibir tropas extranjeras y armamento nuclear en territorio español.",
+          "title": "Renegociar acuerdos con EEUU y prohibir tropas extranjeras y armas nucleares",
+          "summary": "Revisar los acuerdos militares con Estados Unidos y prohibir tropas extranjeras y armamento nuclear en territorio español. La posición procede de una organización integrante de la coalición.",
           "kind": "official_position",
           "sourceIds": [
             "sumar-exterior"
@@ -1250,8 +1250,8 @@
         {
           "id": "frente-amplio-031",
           "topic": "empleo",
-          "title": "Menor jornada laboral",
-          "summary": "IU reclama reducir la jornada laboral.",
+          "title": "Reducir la duración de la jornada laboral",
+          "summary": "Reclamar que se trabaje menos horas por semana. La posición de la organización integrante recogida en esta ficha no fija aquí un número de horas ni un calendario.",
           "kind": "official_position",
           "sourceIds": [
             "iu-huelga"
@@ -1263,8 +1263,8 @@
         {
           "id": "frente-amplio-032",
           "topic": "empleo",
-          "title": "Salarios y SMI",
-          "summary": "IU reclama elevar salarios y salario mínimo.",
+          "title": "Subir los salarios y el salario mínimo",
+          "summary": "Reclamar aumentos salariales y una subida del salario mínimo legal. La ficha recoge una posición de una organización integrante, sin fijar importes concretos.",
           "kind": "official_position",
           "sourceIds": [
             "iu-huelga"
@@ -1276,8 +1276,8 @@
         {
           "id": "frente-amplio-033",
           "topic": "sanidad",
-          "title": "Sanidad pública",
-          "summary": "IU defiende reforzar la sanidad desde lo público.",
+          "title": "Reforzar la sanidad mediante los servicios públicos",
+          "summary": "Defender un mayor apoyo a la sanidad desde la gestión y los recursos públicos. La posición resumida no establece aquí un presupuesto ni un número de profesionales.",
           "kind": "official_position",
           "sourceIds": [
             "iu-huelga"
@@ -1289,8 +1289,8 @@
         {
           "id": "frente-amplio-034",
           "topic": "educacion",
-          "title": "Educación pública",
-          "summary": "IU defiende reforzar la educación pública.",
+          "title": "Reforzar la enseñanza pública",
+          "summary": "Defender un mayor apoyo a la educación pública. La ficha no concreta aquí nuevos puestos docentes, plazas escolares o cantidades de financiación.",
           "kind": "official_position",
           "sourceIds": [
             "iu-huelga"
@@ -1302,8 +1302,8 @@
         {
           "id": "frente-amplio-035",
           "topic": "economia",
-          "title": "Precios básicos y energía",
-          "summary": "IU reclama controlar precios de bienes básicos y energía.",
+          "title": "Controlar los precios de productos básicos y de la energía",
+          "summary": "Reclamar una intervención pública sobre los precios de bienes básicos y energía. La ficha no detalla qué productos estarían incluidos ni qué límites se aplicarían.",
           "kind": "official_position",
           "sourceIds": [
             "iu-huelga"
@@ -1347,19 +1347,19 @@
       "description": "Formación estatal de izquierdas. Se separan los ejes de campaña de los antecedentes europeos y las intervenciones parlamentarias.",
       "ideals": [
         {
-          "text": "Vivienda como derecho, redistribución y menor tiempo de trabajo.",
+          "text": "Tratar la vivienda como un derecho, repartir los recursos de forma más igualitaria y reducir el tiempo de trabajo.",
           "sourceIds": [
             "podemos-campana"
           ]
         },
         {
-          "text": "Pacifismo y prioridad presupuestaria de los servicios públicos.",
+          "text": "Dar prioridad a la paz y destinar más recursos presupuestarios a los servicios públicos.",
           "sourceIds": [
             "podemos-campana"
           ]
         },
         {
-          "text": "Feminismo y defensa de derechos LGTBIQ+.",
+          "text": "Defender la igualdad entre mujeres y hombres y los derechos por orientación sexual e identidad de género.",
           "sourceIds": [
             "podemos-europeas2024"
           ]
@@ -1376,8 +1376,8 @@
         {
           "id": "podemos-001",
           "topic": "vivienda",
-          "title": "Compra especulativa",
-          "summary": "Plantea impedir que se compre vivienda con fines especulativos.",
+          "title": "Impedir la compra de vivienda con fines especulativos",
+          "summary": "Prohibir comprar vivienda para especular, es decir, para obtener ganancias de su precio. La página citada no define jurídicamente qué operaciones contarían como especulación ni a quiénes afectaría la prohibición.",
           "kind": "official_position",
           "sourceIds": [
             "podemos-campana"
@@ -1389,21 +1389,21 @@
         {
           "id": "podemos-002",
           "topic": "economia",
-          "title": "Coste de vida",
-          "summary": "Propone bajar precios y recuperar poder adquisitivo frente a beneficios empresariales elevados.",
+          "title": "Bajar los precios para recuperar capacidad de compra",
+          "summary": "Defender medidas para que los ingresos permitan comprar más frente al encarecimiento de la vida y los altos beneficios empresariales. La fuente no precisa qué precios se bajarían, cuánto ni mediante qué mecanismos.",
           "kind": "official_position",
           "sourceIds": [
             "podemos-campana"
           ],
           "locator": "Medida 2",
           "date": null,
-          "qualification": "No concreta en esta página los productos, mecanismos ni cuantías."
+          "qualification": "La página no dice qué productos se abaratarían, cuánto bajarían ni cómo se conseguiría."
         },
         {
           "id": "podemos-003",
           "topic": "exterior",
-          "title": "Gasto militar",
-          "summary": "Rechaza nuevos recursos para armas y propone destinarlos a servicios públicos.",
+          "title": "Destinar recursos a servicios públicos en lugar de más gasto en armas",
+          "summary": "Rechazar nuevas partidas para armamento y dirigir esos recursos a servicios públicos. La página citada no incluye un cálculo detallado de cuánto dinero se trasladaría.",
           "kind": "official_position",
           "sourceIds": [
             "podemos-campana"
@@ -1415,8 +1415,8 @@
         {
           "id": "podemos-004",
           "topic": "empleo",
-          "title": "SMI de 1.800 euros",
-          "summary": "Propone fijar por ley un salario mínimo de 1.800 euros.",
+          "title": "Fijar por ley un salario mínimo de 1.800 euros",
+          "summary": "Establecer legalmente un salario mínimo de 1.800 euros. La página no aclara el número de pagas ni el calendario de aplicación, por lo que no permite calcular un importe anual preciso.",
           "kind": "official_position",
           "sourceIds": [
             "podemos-campana"
@@ -1428,47 +1428,47 @@
         {
           "id": "podemos-005",
           "topic": "empleo",
-          "title": "Semana de 30 horas",
-          "summary": "Propone una jornada laboral de 30 horas semanales.",
+          "title": "Reducir la semana laboral a 30 horas",
+          "summary": "Proponer una jornada de 30 horas de trabajo por semana. La página no desarrolla las excepciones, la negociación por sectores ni cómo se haría la transición.",
           "kind": "official_position",
           "sourceIds": [
             "podemos-campana"
           ],
           "locator": "Medida 4",
           "date": null,
-          "qualification": "La página no desarrolla excepciones, negociación sectorial ni transición."
+          "qualification": "La página no explica las excepciones, los acuerdos por sectores ni los pasos para llegar a esa jornada."
         },
         {
           "id": "podemos-006",
           "topic": "sanidad",
-          "title": "Personal sanitario",
-          "summary": "Propone más recursos públicos, profesionales y mejores salarios sanitarios.",
+          "title": "Aumentar recursos, personal y salarios de la sanidad pública",
+          "summary": "Dedicar más recursos a la sanidad pública, contratar más profesionales y mejorar sus salarios. La página no cuantifica las nuevas plazas ni el presupuesto.",
           "kind": "official_position",
           "sourceIds": [
             "podemos-campana"
           ],
           "locator": "Medida 5",
           "date": null,
-          "qualification": "No cuantifica plantillas ni financiación."
+          "qualification": "No indica cuántos profesionales se contratarían ni cuánto dinero se destinaría."
         },
         {
           "id": "podemos-007",
           "topic": "educacion",
-          "title": "Personal educativo",
-          "summary": "Propone más recursos y profesionales mejor remunerados en educación pública.",
+          "title": "Aumentar el personal y los salarios de la educación pública",
+          "summary": "Dedicar más recursos a la enseñanza pública y contar con más profesionales mejor pagados. La página no concreta plazas ni cuántos alumnos habría por docente.",
           "kind": "official_position",
           "sourceIds": [
             "podemos-campana"
           ],
           "locator": "Medida 5",
           "date": null,
-          "qualification": "No concreta ratios ni plazas en esta página."
+          "qualification": "La página no concreta cuántos alumnos habría por docente o grupo ni cuántas plazas se crearían."
         },
         {
           "id": "podemos-008",
           "topic": "clima",
-          "title": "Acción climática",
-          "summary": "Defiende combatir el cambio climático y reforzar los cuidados.",
+          "title": "Combatir el cambio climático y reforzar los cuidados",
+          "summary": "Defender medidas frente al cambio climático y un mayor apoyo a las tareas y servicios de cuidados. Es una orientación general sin nuevas metas numéricas en la página citada.",
           "kind": "official_position",
           "sourceIds": [
             "podemos-campana"
@@ -1480,8 +1480,8 @@
         {
           "id": "podemos-009",
           "topic": "igualdad",
-          "title": "Violencia machista",
-          "summary": "Defiende políticas para garantizar vidas libres de violencia machista.",
+          "title": "Reforzar las políticas contra la violencia machista",
+          "summary": "Defender políticas para que las mujeres puedan vivir sin violencia machista. La página citada no desarrolla una reforma legal específica.",
           "kind": "official_position",
           "sourceIds": [
             "podemos-campana"
@@ -1493,8 +1493,8 @@
         {
           "id": "podemos-010",
           "topic": "vivienda",
-          "title": "Rebaja de alquileres",
-          "summary": "Santana propone reducir los alquileres un 40 %.",
+          "title": "Reducir los alquileres un 40 %",
+          "summary": "Proponer una rebaja del 40 % en los alquileres. Es una declaración parlamentaria; la fuente resumida no ofrece el mecanismo completo para aplicarla ni acredita que sea una ley aprobada.",
           "kind": "statement",
           "sourceIds": [
             "podemos-vivienda-congreso"
@@ -1506,8 +1506,8 @@
         {
           "id": "podemos-011",
           "topic": "vivienda",
-          "title": "Hipotecas variables",
-          "summary": "Propone limitar los intereses de las hipotecas variables.",
+          "title": "Limitar el interés de las hipotecas variables",
+          "summary": "Poner un límite a los intereses de las hipotecas cuyo tipo cambia con el tiempo. La intervención citada no especifica aquí cuál sería ese límite ni cómo se calcularía.",
           "kind": "statement",
           "sourceIds": [
             "podemos-vivienda-congreso"
@@ -1519,8 +1519,8 @@
         {
           "id": "podemos-012",
           "topic": "vivienda",
-          "title": "Expropiación de vivienda",
-          "summary": "Propone expropiar viviendas de bancos y fondos de inversión.",
+          "title": "Expropiar viviendas de bancos y fondos de inversión",
+          "summary": "Transferir obligatoriamente a manos públicas viviendas propiedad de bancos y fondos de inversión. La declaración citada no desarrolla el procedimiento completo ni la compensación a los propietarios.",
           "kind": "statement",
           "sourceIds": [
             "podemos-vivienda-congreso"
@@ -1532,8 +1532,8 @@
         {
           "id": "podemos-013",
           "topic": "vivienda",
-          "title": "Compras de bancos y fondos",
-          "summary": "Propone prohibirles comprar viviendas.",
+          "title": "Prohibir que bancos y fondos de inversión compren viviendas",
+          "summary": "Impedir que bancos y fondos de inversión adquieran viviendas. La intervención citada no detalla todas las condiciones ni acredita una prohibición ya aprobada.",
           "kind": "statement",
           "sourceIds": [
             "podemos-vivienda-congreso"
@@ -1545,34 +1545,34 @@
         {
           "id": "podemos-014",
           "topic": "tecnologia",
-          "title": "Fiscalidad de plataformas",
-          "summary": "Belarra propone aumentar impuestos a plataformas de redes sociales para financiar educación sexual obligatoria.",
+          "title": "Cobrar más impuestos a redes sociales para financiar educación sexual",
+          "summary": "Aumentar los impuestos a las plataformas de redes sociales y destinar esos ingresos a educación sexual obligatoria. Es una propuesta verbal en el Parlamento, no un impuesto aprobado.",
           "kind": "statement",
           "sourceIds": [
             "podemos-redes-congreso"
           ],
           "locator": "Intervención de Ione Belarra; buscar «educación sexual obligatoria»",
           "date": "2026-02-11",
-          "qualification": "Propuesta parlamentaria verbal, no tributo aprobado."
+          "qualification": "Propuesta expresada en el Parlamento; no significa que el impuesto esté aprobado."
         },
         {
           "id": "podemos-015",
           "topic": "tecnologia",
-          "title": "Red social pública",
-          "summary": "Belarra propone una red social pública con algoritmo transparente.",
+          "title": "Crear una red social pública con reglas de recomendación transparentes",
+          "summary": "Poner en marcha una red social pública y explicar cómo funciona el algoritmo que decide qué contenidos se muestran. La declaración no desarrolla quién la gestionaría ni cuánto costaría.",
           "kind": "statement",
           "sourceIds": [
             "podemos-redes-congreso"
           ],
           "locator": "Intervención de Ione Belarra; buscar «red social pública»",
           "date": "2026-02-11",
-          "qualification": "La intervención no desarrolla gobernanza ni presupuesto."
+          "qualification": "La declaración no explica quién gestionaría el servicio, cómo se tomarían las decisiones ni cuánto costaría."
         },
         {
           "id": "podemos-016",
           "topic": "inmigracion",
-          "title": "Regularización extraordinaria",
-          "summary": "Belarra defiende regularizar a migrantes residentes y facilitar la prueba documental de los requisitos.",
+          "title": "Regularizar a migrantes residentes y facilitar la documentación exigida",
+          "summary": "Defender que personas migrantes ya residentes obtengan una situación legal y que sea más sencillo demostrar que cumplen los requisitos. La entrevista trata un acuerdo inicial, no todos los detalles del procedimiento final.",
           "kind": "statement",
           "sourceIds": [
             "podemos-migracion-entrevista"
@@ -1584,8 +1584,8 @@
         {
           "id": "podemos-017",
           "topic": "territorio",
-          "title": "Competencias migratorias",
-          "summary": "Belarra se muestra abierta a delegarlas a Cataluña con garantías de derechos y sin discriminación.",
+          "title": "Aceptar que Cataluña gestione competencias migratorias si se garantizan derechos",
+          "summary": "Mostrar disposición a delegar competencias de inmigración a Cataluña, siempre que se protejan los derechos y no haya discriminación. Es un apoyo condicionado, no la aceptación de cualquier texto de transferencia.",
           "kind": "statement",
           "sourceIds": [
             "podemos-migracion-entrevista"
@@ -1597,8 +1597,8 @@
         {
           "id": "podemos-018",
           "topic": "igualdad",
-          "title": "Aborto público",
-          "summary": "Garantizar aborto seguro, libre y gratuito en la sanidad pública europea.",
+          "title": "Garantizar aborto seguro y gratuito en la sanidad pública europea",
+          "summary": "Defender el acceso al aborto seguro, libre y gratuito a través de los servicios sanitarios públicos de Europa. Es una propuesta de las elecciones europeas de 2024, no un compromiso del 29N verificado.",
           "kind": "historical",
           "sourceIds": [
             "podemos-europeas2024"
@@ -1610,8 +1610,8 @@
         {
           "id": "podemos-019",
           "topic": "igualdad",
-          "title": "Identidad de género",
-          "summary": "Defender la autodeterminación de género y despatologizar a las personas trans.",
+          "title": "Reconocer la identidad de género sin tratar a las personas trans como enfermas",
+          "summary": "Defender que las personas determinen su identidad de género y que ser trans no se considere una enfermedad. La posición procede del programa europeo de 2024.",
           "kind": "historical",
           "sourceIds": [
             "podemos-europeas2024"
@@ -1623,8 +1623,8 @@
         {
           "id": "podemos-020",
           "topic": "inmigracion",
-          "title": "Centros de internamiento",
-          "summary": "Cerrar centros de internamiento y detención de migrantes y refugiados.",
+          "title": "Cerrar los centros que internan a migrantes y refugiados",
+          "summary": "Proponer el cierre de los centros de internamiento y detención de personas migrantes y refugiadas. La medida procede del programa para las elecciones europeas de 2024.",
           "kind": "historical",
           "sourceIds": [
             "podemos-europeas2024"
@@ -1636,8 +1636,8 @@
         {
           "id": "podemos-021",
           "topic": "clima",
-          "title": "Renovables en 2040",
-          "summary": "Reducir a la mitad la energía primaria fósil en 2030; renovables al 100 % en 2040.",
+          "title": "Reducir los combustibles fósiles en 2030 y llegar al 100 % renovable en 2040",
+          "summary": "Reducir a la mitad en 2030 la energía primaria procedente de combustibles fósiles y alcanzar el 100 % de renovables en 2040. La energía primaria es la obtenida de las fuentes antes de transformarla para su consumo.",
           "kind": "historical",
           "sourceIds": [
             "podemos-europeas2024"
@@ -1649,8 +1649,8 @@
         {
           "id": "podemos-022",
           "topic": "clima",
-          "title": "Abandono nuclear",
-          "summary": "Planificar el abandono europeo de la energía nuclear de fisión.",
+          "title": "Planificar la salida de la energía nuclear de fisión en Europa",
+          "summary": "Preparar el abandono europeo de la energía nuclear que utilizan las centrales actuales, basada en dividir núcleos atómicos. La propuesta procede del programa europeo de 2024 y no fija aquí una fecha de cierre.",
           "kind": "historical",
           "sourceIds": [
             "podemos-europeas2024"
@@ -1662,8 +1662,8 @@
         {
           "id": "podemos-023",
           "topic": "rural",
-          "title": "Ayudas agrarias condicionadas",
-          "summary": "Vincular la PAC al respeto ambiental y laboral.",
+          "title": "Exigir condiciones laborales y ambientales para recibir ayudas agrícolas europeas",
+          "summary": "Vincular las ayudas de la Política Agrícola Común, conocida como PAC, al cumplimiento de requisitos de protección ambiental y derechos laborales. Es una propuesta europea de 2024.",
           "kind": "historical",
           "sourceIds": [
             "podemos-europeas2024"
@@ -1675,8 +1675,8 @@
         {
           "id": "podemos-024",
           "topic": "rural",
-          "title": "Tratado Mercosur",
-          "summary": "Paralizar la negociación comercial UE–Mercosur.",
+          "title": "Parar la negociación del acuerdo comercial entre la UE y Mercosur",
+          "summary": "Paralizar las negociaciones comerciales entre la Unión Europea y el bloque sudamericano Mercosur. La posición corresponde al programa europeo de 2024 y no describe el estado actual de esas negociaciones.",
           "kind": "historical",
           "sourceIds": [
             "podemos-europeas2024"
@@ -1688,8 +1688,8 @@
         {
           "id": "podemos-025",
           "topic": "tecnologia",
-          "title": "Conectividad universal",
-          "summary": "Garantizar internet asequible de 100 Mbps en cualquier núcleo habitado.",
+          "title": "Garantizar internet asequible de 100 Mbps en todos los núcleos habitados",
+          "summary": "Asegurar una conexión a internet de 100 megabits por segundo a precio asequible en cualquier población habitada. Esa unidad mide la velocidad de conexión. Es una propuesta europea de 2024.",
           "kind": "historical",
           "sourceIds": [
             "podemos-europeas2024"
@@ -1701,8 +1701,8 @@
         {
           "id": "podemos-026",
           "topic": "sanidad",
-          "title": "Cobertura sanitaria ampliada",
-          "summary": "Promover cobertura pública dental, oftalmológica, auditiva y de fisioterapia.",
+          "title": "Ampliar la cobertura pública de dentista, vista, audición y fisioterapia",
+          "summary": "Promover que la atención sanitaria pública incluya más servicios dentales, de salud visual, de audición y de fisioterapia. La propuesta procede del programa europeo de 2024.",
           "kind": "historical",
           "sourceIds": [
             "podemos-europeas2024"
@@ -1714,8 +1714,8 @@
         {
           "id": "podemos-027",
           "topic": "pensiones",
-          "title": "Permisos de cuidados",
-          "summary": "Objetivo de 36 semanas remuneradas e intransferibles; doble para familias monomarentales.",
+          "title": "Dar 36 semanas de permiso de cuidados, remuneradas y no transferibles",
+          "summary": "Plantear permisos de cuidados de 36 semanas con sueldo que cada persona debe utilizar por sí misma, sin cederlos a otra. Duplicar la duración para familias con una sola madre. Es una propuesta europea de 2024.",
           "kind": "historical",
           "sourceIds": [
             "podemos-europeas2024"

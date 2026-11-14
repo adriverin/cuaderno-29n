@@ -8,6 +8,12 @@ Edición elaborada el 12 de noviembre de 2026 con corte de investigación del 11
 
 Esta es una selección documentada y amplia, **no la extracción exhaustiva de todos los puntos de todos los programas**. PP, PNV y BNG tienen documentos de 2026 localizados, con extracción parcial. Para los demás no se verificó un manifiesto integral específico del 29N; se incorporan posiciones y declaraciones identificadas, y algunos antecedentes históricos. Consulta las lagunas en «Los partidos». Las fuentes partidarias acreditan sus posiciones, no necesariamente la exactitud de sus afirmaciones sobre hechos externos.
 
+## Claridad del texto
+
+Las 387 fichas (377 visibles por defecto y 10 históricas) se han revisado para que cada una se entienda por sí sola, también en modo ciego. Se explican siglas y términos técnicos y se indican detalles que la fuente no concreta. Es una revisión de redacción, no una nueva verificación de fuentes: se mantiene el corte de investigación del 11 de noviembre de 2026.
+
+Los identificadores, fuentes y tipos de evidencia se mantienen para conservar las respuestas guardadas. `research/editorial-review.json` guarda la redacción anterior y las huellas de los metadatos de cada ficha para comprobar la continuidad.
+
 ## Modo ciego
 
 Activa «Modo ciego» encima de los filtros para ocultar nombres, colores, atribuciones y enlaces a fuentes. Las fichas se mezclan y mantienen su orden al recargar. Las menciones explícitas a organizaciones y representantes se sustituyen en pantalla; el contenido de las políticas y su ámbito territorial se conservan, por lo que algunas pueden reconocerse. Tus propias notas pueden contener pistas que escribiste antes.
@@ -34,6 +40,7 @@ Reconstruir el HTML, desde esta carpeta:
 python3 scripts/build.py
 node scripts/test-core.js
 node scripts/test-blind.js
+python3 scripts/test-editorial.py
 ```
 
 El constructor comprueba IDs, temas y referencias. No se necesita instalar dependencias. `src/` contiene la interfaz y el cálculo; `index.html` incorpora todos los recursos. No edites el HTML generado si quieres conservar las modificaciones tras reconstruirlo.

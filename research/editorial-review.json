@@ -1,0 +1,2658 @@
+{
+  "revision": "plain-es-1",
+  "researchCutoff": "2026-11-11",
+  "scope": "Revisión de claridad de las 387 fichas: 377 visibles por defecto y 10 históricas. No es una actualización de fuentes ni una verificación nueva de los programas.",
+  "cards": [
+    {
+      "id": "pp-iva-vivienda",
+      "originalTitle": "IVA de primera vivienda",
+      "originalSummary": "Bajarlo al 4% para menores de 40 años; permitir pagos fraccionados.",
+      "originalQualification": "",
+      "metadataSha256": "f56a2390272a76e290c4977e9190c29b090662257c97f62bc8c395e5ed0a7023"
+    },
+    {
+      "id": "pp-irpf-joven",
+      "originalTitle": "IRPF juvenil gradual",
+      "originalSummary": "Entre 18–35 años: exención el primer año; pagar 25%, 50% y 75% del IRPF correspondiente en los tres siguientes.",
+      "originalQualification": "No son tipos marginales del IRPF. Los requisitos detallados deben cotejarse con el programa completo.",
+      "metadataSha256": "82581323441fd356acfe8a938f2c83fcb34ab20d9ede14d454520311a2d1fb5a"
+    },
+    {
+      "id": "pp-medicos",
+      "originalTitle": "Refuerzo de atención primaria",
+      "originalSummary": "Añadir al menos 4.500 médicos.",
+      "originalQualification": "",
+      "metadataSha256": "1fce6701380ee239f4cac833898cc134cdb6017c144b99ee0777a453fd748b56"
+    },
+    {
+      "id": "pp-constitucional",
+      "originalTitle": "Acceso al Tribunal Constitucional",
+      "originalSummary": "Excluir candidatos con cargos políticos en los cinco años anteriores.",
+      "originalQualification": "",
+      "metadataSha256": "e6994ff6be657b116b07cad12205e4007164a6958f41bab9fdd473f1d6b986c4"
+    },
+    {
+      "id": "pp-fiscal",
+      "originalTitle": "Mandato del fiscal general",
+      "originalSummary": "Mandato único de cinco años; informe vinculante del CGPJ y cese al ser procesado.",
+      "originalQualification": "",
+      "metadataSha256": "2dbfc430f450de37f7c2786addbffcfcf1a8c4c211cae8369e5021a454754ec6"
+    },
+    {
+      "id": "pp-presupuestos",
+      "originalTitle": "Elecciones por bloqueo presupuestario",
+      "originalSummary": "Disolver las Cortes tras una segunda prórroga presupuestaria consecutiva.",
+      "originalQualification": "",
+      "metadataSha256": "787df648604cc10a4939f4eb3d79698b304c8837753481e03b96bf7dfddaf7ab"
+    },
+    {
+      "id": "pp-licencias",
+      "originalTitle": "Licencias de construcción",
+      "originalSummary": "Resolverlas en tres meses; silencio administrativo positivo.",
+      "originalQualification": "",
+      "metadataSha256": "37f3cf1eb9179cef0be2f20d31a88f9854a303f4365c74a9a68f5e1c8fd80956"
+    },
+    {
+      "id": "pp-familia",
+      "originalTitle": "Deducción familiar reembolsable",
+      "originalSummary": "Unificarla, pagarla mensualmente y actualizar mínimos familiares con inflación.",
+      "originalQualification": "",
+      "metadataSha256": "009438fdb15ac7eedee61dc1f30449488f2121f11d4177e3272155e741b48c52"
+    },
+    {
+      "id": "pp-pau",
+      "originalTitle": "PAU común",
+      "originalSummary": "Acordar una prueba común con comunidades y universidades.",
+      "originalQualification": "",
+      "metadataSha256": "c6b2dcdb9d9033c51c1f0513ccbfca87ac7a6e0a8e9db1918a387503f6bc1cdc"
+    },
+    {
+      "id": "pp-presencia",
+      "originalTitle": "Presencia estatal territorial",
+      "originalSummary": "Revisar oficinas y plantillas; especial atención a País Vasco, Navarra y Cataluña.",
+      "originalQualification": "",
+      "metadataSha256": "018bcf017d5d688696123cf892612ed743af8cea9391b6c980c77ada93139764"
+    },
+    {
+      "id": "pp-activacion",
+      "originalTitle": "Renta de activación",
+      "originalSummary": "Unificar IMV y subsidios en una prestación orientada al empleo, compatible con trabajar desde el primer día.",
+      "originalQualification": "",
+      "metadataSha256": "aaeacc5c824bd70b50dd49633fd2f28e29a14d0890ba946f455fb8f5b5fff53d"
+    },
+    {
+      "id": "pp-absentismo",
+      "originalTitle": "Absentismo fraudulento",
+      "originalSummary": "Impulsar un plan para combatirlo.",
+      "originalQualification": "",
+      "metadataSha256": "9747eb2ea949d6df9aaa5d72e1e325d78f871d2f12c70ab42219344062167165"
+    },
+    {
+      "id": "pp-tarjeta",
+      "originalTitle": "Tarjeta sanitaria interoperable",
+      "originalSummary": "Reconocerla en cualquier parte de España.",
+      "originalQualification": "",
+      "metadataSha256": "dc8bc95415c71bb13c91f83b32072f3997cd701d7d32528d4465b60f2935a208"
+    },
+    {
+      "id": "pp-mercado",
+      "originalTitle": "Unidad de mercado",
+      "originalSummary": "Permitir crecer a una empresa por España sin solicitar nuevos permisos territoriales.",
+      "originalQualification": "",
+      "metadataSha256": "3438e25e04cd507ce92a9252999915a8a86f52d66281b742269bca1f99045e4a"
+    },
+    {
+      "id": "pp-prestaciones",
+      "originalTitle": "Acceso prioritario a prestaciones",
+      "originalSummary": "Dar prioridad a quienes contribuyen a sostener el país.",
+      "originalQualification": "Compromiso de la presentación; desarrollo y criterios concretos pendientes de cotejo con el texto completo.",
+      "metadataSha256": "65634fabe0505bbcba97f35286b166f73181b2b021dad4d76da9dd9d69179327"
+    },
+    {
+      "id": "pp-nacionalidad",
+      "originalTitle": "Requisitos de nacionalidad",
+      "originalSummary": "Exigir vínculo con la lengua y los valores nacionales.",
+      "originalQualification": "",
+      "metadataSha256": "68087fcb09a65d2391a28ff65f46ee0173c5ddc9f37991ac25ccd6bd4689064a"
+    },
+    {
+      "id": "pp-irpf-inflacion",
+      "originalTitle": "Deflactar el IRPF",
+      "originalSummary": "Actualizar la tarifa estatal según inflación.",
+      "originalQualification": "",
+      "metadataSha256": "5b97c0c5d855b7e67388545ed88cacda9291cb963c5107c77694e05ad6051b83"
+    },
+    {
+      "id": "pp-iva-alimentos",
+      "originalTitle": "IVA alimentario cero",
+      "originalSummary": "Aplicarlo a alimentos básicos, incluyendo carne, pescado y conservas.",
+      "originalQualification": "",
+      "metadataSha256": "a03d43ecb0140b6ec0d7ce448c7c9cb26bfc9180ff8a99677c01c0734d0a37a6"
+    },
+    {
+      "id": "pp-nuclear",
+      "originalTitle": "Continuidad nuclear",
+      "originalSummary": "Derogar el calendario de cierre y garantizar rentabilidad.",
+      "originalQualification": "",
+      "metadataSha256": "490b8c4ce21fed918ee18a46730e4b2093f7f4e02e685c707da8441f00a345d9"
+    },
+    {
+      "id": "pp-autonomos-iva",
+      "originalTitle": "Franquicia de IVA",
+      "originalSummary": "Eximir a autónomos con facturación inferior a 85.000 euros.",
+      "originalQualification": "",
+      "metadataSha256": "77eef6e8d2a2934c0bbe37dc0cb3844e0a8cb286def977077866220d3ea25fb2"
+    },
+    {
+      "id": "pp-autonomos-cuota",
+      "originalTitle": "Cuota inicial de autónomos",
+      "originalSummary": "Implantar tarifa cero para nuevos autónomos.",
+      "originalQualification": "",
+      "metadataSha256": "e73b734b80f24f8f9aa1c92b131400d1fd9e65736c98f0b19010dc5d2776c497"
+    },
+    {
+      "id": "pp-autonomos-padres",
+      "originalTitle": "Cotización tras maternidad y paternidad",
+      "originalSummary": "Eximir cuotas durante dos años.",
+      "originalQualification": "",
+      "metadataSha256": "3f8b907bf9dd2aab18dc1f914140c725e63b9ef58759986e762fe4460160e412"
+    },
+    {
+      "id": "pp-innovacion",
+      "originalTitle": "Incentivos a innovación",
+      "originalSummary": "Ampliar beneficios fiscales y formación en IA, robótica y biotecnología.",
+      "originalQualification": "",
+      "metadataSha256": "b1f9d5f589cb84b0979aae5eb0dee0f207578878d60bb70d4fb8cdd5fc5971aa"
+    },
+    {
+      "id": "pp-campo",
+      "originalTitle": "Sector agroalimentario estratégico",
+      "originalSummary": "Menos burocracia, relevo generacional y competencia equivalente frente a terceros países.",
+      "originalQualification": "",
+      "metadataSha256": "bb37475ce3c8b2e36340da1e64dc8fddc565dcbdc802737e860f605fc610dbf2"
+    },
+    {
+      "id": "pp-agua",
+      "originalTitle": "Plan nacional del agua",
+      "originalSummary": "Renovar presas y prevenir inundaciones; inversión potencial de 100.000 millones hasta 2035.",
+      "originalQualification": "",
+      "metadataSha256": "55512c4144bdc0e96d7a304fa5a726282173535b04671e96b77c6ca34cada93a"
+    },
+    {
+      "id": "pp-alquiler-zonas",
+      "originalTitle": "Zonas tensionadas",
+      "originalSummary": "Eliminar este mecanismo regulatorio del alquiler.",
+      "originalQualification": "",
+      "metadataSha256": "fd1cae2ecc66901a3a655c6e6180a412fe0fe8bda7caf7f5b7960332d05affa3"
+    },
+    {
+      "id": "pp-pensiones-ipc",
+      "originalTitle": "Pensiones públicas vinculadas al IPC",
+      "originalSummary": "Garantizar su viabilidad futura y revalorizarlas conforme al IPC.",
+      "originalQualification": "",
+      "metadataSha256": "12dae680965f4ede6fd2100ea9c020a57513e90c45e8b7271309c1ebe3b57a5e"
+    },
+    {
+      "id": "pp-especial",
+      "originalTitle": "Mantener educación especial",
+      "originalSummary": "Derogar la disposición adicional cuarta de la LOMLOE y preservar la escolarización en centros específicos.",
+      "originalQualification": "",
+      "metadataSha256": "57cadd45055ae4e4b6a28fcc835b4081d6530016dddcacf2f4099e5e9b1a27a2"
+    },
+    {
+      "id": "pp-eleccion-especial",
+      "originalTitle": "Elección familiar de centro",
+      "originalSummary": "Permitir a las familias elegir entre modelos de escolarización adecuados a las necesidades de sus hijos.",
+      "originalQualification": "",
+      "metadataSha256": "bfaeee6e02dffb9c690a1a696b856d4af051de20dd71b3200942870a7d1acce5"
+    },
+    {
+      "id": "pp-discapacidad-escolar",
+      "originalTitle": "Escolarización hasta los 21 años",
+      "originalSummary": "Ampliar al menos hasta esa edad la escolarización en centros de educación especial.",
+      "originalQualification": "",
+      "metadataSha256": "b770cc366d544da1cdcf59c67991b08b318ff73ec642120b01034791ec8e174c"
+    },
+    {
+      "id": "pp-visados",
+      "originalTitle": "Visado por puntos",
+      "originalSummary": "Valorar formación, experiencia, idioma e integración; vías por contrato en origen o búsqueda temporal de empleo.",
+      "originalQualification": "",
+      "metadataSha256": "136a5d22636e964cf80cc9fce8c7a9ddec9ea02fbc5fccc16f5c274c6a9d7039"
+    },
+    {
+      "id": "pp-regularizacion",
+      "originalTitle": "Regularización individualizada",
+      "originalSummary": "Sustituir regularizaciones generales por un régimen transitorio por puntos que valore trabajo, cotización e integración.",
+      "originalQualification": "",
+      "metadataSha256": "3b4d727b86ef4f08100101afe4700e69fa54bf95d5cb591a8de7a486735706b9"
+    },
+    {
+      "id": "pp-circular",
+      "originalTitle": "Migración temporal y circular",
+      "originalSummary": "Contratar para campañas estacionales con controles y retorno al finalizar.",
+      "originalQualification": "",
+      "metadataSha256": "168b71936cec17a284ed4da1668099182762d80dfacd4a343320a7b3ead8782f"
+    },
+    {
+      "id": "pp-cupos",
+      "originalTitle": "Cuotas por países y sectores",
+      "originalSummary": "Vincular los cupos a necesidades laborales y cooperación de origen en retornos y documentación.",
+      "originalQualification": "",
+      "metadataSha256": "231f74bb3716c71e027b17dc9384cffd819b9373593eca8f6bc83570e6f84d73"
+    },
+    {
+      "id": "pp-lenguas",
+      "originalTitle": "Castellano y lenguas cooficiales",
+      "originalSummary": "Garantizar castellano en toda España y lenguas cooficiales en sus territorios.",
+      "originalQualification": "",
+      "metadataSha256": "fe2a1bc481fa90d2003646f6331f3d4774a5726b178c17eaf551a3311a6a9c92"
+    },
+    {
+      "id": "pp-alianzas",
+      "originalTitle": "Alianzas europeas y atlánticas",
+      "originalSummary": "Reforzar alianzas con Europa y socios históricos, con España como vínculo con Hispanoamérica.",
+      "originalQualification": "",
+      "metadataSha256": "d2c2ede953358201f177efce8052b9d7113560a2a78054fd4ff80725d1d9884d"
+    },
+    {
+      "id": "pp-auditoria",
+      "originalTitle": "Auditar gasto estatal",
+      "originalSummary": "Revisar gasto y contratos en los primeros cien días.",
+      "originalQualification": "",
+      "metadataSha256": "8cdf1b9317b55fcd5292716359e22a7559f42c1fb1686766cec16868dc6935ce"
+    },
+    {
+      "id": "pp-aforamientos",
+      "originalTitle": "Reducir aforamientos",
+      "originalSummary": "Restringirlos y endurecer penas por malversación.",
+      "originalQualification": "",
+      "metadataSha256": "49be47d65b81b96a449e43b12d6699a8fbc998e487b160b888b282f41dff3cf5"
+    },
+    {
+      "id": "pp-indultos",
+      "originalTitle": "Indultos por corrupción",
+      "originalSummary": "Impedir indultar a condenados por corrupción.",
+      "originalQualification": "",
+      "metadataSha256": "6d7a4a844a599a7d0a0c1ba307107abba93cc3fdc742208a9be6a04fb657de0d"
+    },
+    {
+      "id": "pp-riesgo-policias",
+      "originalTitle": "Policía como profesión de riesgo",
+      "originalSummary": "Reconocer esa condición a Policía y Guardia Civil.",
+      "originalQualification": "",
+      "metadataSha256": "33bc5df5deba59506501d814e0bc9ce2c838788f640b3f2dd372e86a3a936bad"
+    },
+    {
+      "id": "pp-desalojo",
+      "originalTitle": "Desalojos por ocupación",
+      "originalSummary": "Prometer desalojo en 48 horas y medidas contra la multirreincidencia.",
+      "originalQualification": "La nota no desarrolla el procedimiento ni sus garantías.",
+      "metadataSha256": "2004a8e6d3df2e8473e37d3dba4aba3f62093d0bbbbcfddfd42ad8cd583f1540"
+    },
+    {
+      "id": "pp-construccion",
+      "originalTitle": "Un millón de viviendas",
+      "originalSummary": "Promover su construcción en la próxima legislatura con colaboración entre administraciones.",
+      "originalQualification": "",
+      "metadataSha256": "b165a77547e42173f1c6d9cb88997fc99094128cb7f768d5a43e1928907dc2b0"
+    },
+    {
+      "id": "pp-infraestructuras",
+      "originalTitle": "Inversión en infraestructuras",
+      "originalSummary": "Movilizar unos 300.000 millones de euros en quince años.",
+      "originalQualification": "Horizonte superior a una legislatura; inversión estimada, no gasto ya aprobado.",
+      "metadataSha256": "f211e448d0c1b1670a414bd346fddf8651b0f8b5e46674c2562db4661c9da61b"
+    },
+    {
+      "id": "pp-memoria",
+      "originalTitle": "Memoria democrática",
+      "originalSummary": "Derogar la Ley de Memoria Democrática.",
+      "originalQualification": "",
+      "metadataSha256": "253159c92a88a1652f4d4c2c033615b7ea24d8be5568a2f542f807596f5c48ed"
+    },
+    {
+      "id": "pp-terrorismo-listas",
+      "originalTitle": "Candidaturas y terrorismo",
+      "originalSummary": "Impedir que las listas incluyan personas condenadas por terrorismo.",
+      "originalQualification": "",
+      "metadataSha256": "ca2a3d1ea775995d483b650288c588d400e9cb87e8a08b0e9cd409ed5d955998"
+    },
+    {
+      "id": "pp-autodeterminacion",
+      "originalTitle": "Autodeterminación de género",
+      "originalSummary": "Cuestionar la autodeterminación recogida en la legislación.",
+      "originalQualification": "Documento de 2025; no se presenta como redacción del programa 29N.",
+      "metadataSha256": "c264dfac0b2493de4f793d59b3d63b058586a7b67a7686beeffadad87ab8ac5b"
+    },
+    {
+      "id": "pp-deporte",
+      "originalTitle": "Categorías deportivas femeninas",
+      "originalSummary": "Organizarlas conforme al sexo biológico.",
+      "originalQualification": "",
+      "metadataSha256": "d641a597a7bed4ec80d632a750c01910b3deec6930425b4fff04264d73cacf21"
+    },
+    {
+      "id": "pp-lgtbi-compromiso",
+      "originalTitle": "Compromiso sobre derechos LGTBI",
+      "originalSummary": "De los Santos afirma que no retrocederán y que continuará la lucha contra la violencia machista.",
+      "originalQualification": "Declaración general de Jaime de los Santos; debe leerse junto a las propuestas concretas sobre autodeterminación y deporte.",
+      "metadataSha256": "66be6faadecbc4af85b4d97ebe2a28513c74381747d9749fd2077cd743305b46"
+    },
+    {
+      "id": "pp-principio-1",
+      "originalTitle": "Economía de mercado con iniciativa privada y cohesión social.",
+      "metadataSha256": "965b302fce1ac03e2e43ec3ec26aa7d537697c72b0c7a88f4180aa262d9f492c"
+    },
+    {
+      "id": "pp-principio-2",
+      "originalTitle": "España soberana, unida y plural; Unión Europea fuerte.",
+      "metadataSha256": "965b302fce1ac03e2e43ec3ec26aa7d537697c72b0c7a88f4180aa262d9f492c"
+    },
+    {
+      "id": "pp-principio-3",
+      "originalTitle": "Democracia liberal, separación de poderes e igualdad ante la ley.",
+      "metadataSha256": "965b302fce1ac03e2e43ec3ec26aa7d537697c72b0c7a88f4180aa262d9f492c"
+    },
+    {
+      "id": "vox-prioridad",
+      "originalTitle": "Prioridad nacional",
+      "originalSummary": "Preferencia española en vivienda pública y servicios sociales.",
+      "originalQualification": "",
+      "metadataSha256": "4f1b789d2ec6e887a1ad8bdf8714c21f1606d852ea4768bc95bf43de4aaeba21"
+    },
+    {
+      "id": "vox-imv",
+      "originalTitle": "IMV reservado",
+      "originalSummary": "Reservarlo a españoles necesitados.",
+      "originalQualification": "",
+      "metadataSha256": "e5bd15ff069e59c9d4effc83a1479f43c72861540fdc41f5751c33bfe65b5444"
+    },
+    {
+      "id": "vox-sanidad-irregular",
+      "originalTitle": "Atención a personas irregulares",
+      "originalSummary": "Limitarla a urgencia vital.",
+      "originalQualification": "",
+      "metadataSha256": "c1eb32c0b6d72dddb4381de6ab387f18d20332cef6b55017c6d4c6d7beaef52d"
+    },
+    {
+      "id": "vox-alquiler-irregular",
+      "originalTitle": "Alquiler y situación irregular",
+      "originalSummary": "Prohibir arrendar a inmigrantes irregulares.",
+      "originalQualification": "",
+      "metadataSha256": "5e46ce92d3f947f739b4cd556efeb581aa222dd9eedaf47d4906ddbaa264b8ab"
+    },
+    {
+      "id": "vox-burka",
+      "originalTitle": "Burka y niqab",
+      "originalSummary": "Prohibirlos en espacios públicos.",
+      "originalQualification": "",
+      "metadataSha256": "62404063c2c3a87df7d4851aff8cc33cd9af2bfb5d4971bf71394431025ad5d4"
+    },
+    {
+      "id": "vox-regularizacion",
+      "originalTitle": "Regularización tras entrada irregular",
+      "originalSummary": "Impedirla y prohibir regularizaciones masivas.",
+      "originalQualification": "",
+      "metadataSha256": "c04156cca71c474eeef81528aca596259d5061862e06d49925e148feb3c52bef"
+    },
+    {
+      "id": "vox-expulsion",
+      "originalTitle": "Repatriación por irregularidad",
+      "originalSummary": "Repatriar a quienes permanezcan irregularmente.",
+      "originalQualification": "",
+      "metadataSha256": "c22771fa44f42804b923b573b3128ddb0226c996d6885b9d298c2c6df7cf6f33"
+    },
+    {
+      "id": "vox-delitos",
+      "originalTitle": "Expulsión por delincuencia",
+      "originalSummary": "Deportar extranjeros por delitos graves o leves reiterados.",
+      "originalQualification": "",
+      "metadataSha256": "7e8f9834537bfd45dc6014b84d0c00aef40603ff3d5ef8a6db3c50a6fc1c0650"
+    },
+    {
+      "id": "vox-subsidios",
+      "originalTitle": "Retorno de desempleados extranjeros",
+      "originalSummary": "Devolver a extranjeros sin trabajo o dependientes de subsidios.",
+      "originalQualification": "",
+      "metadataSha256": "208ab04ccbe4ce064b8a95728a9d7bad23c8ea94e46cc8da8003b567e0416154"
+    },
+    {
+      "id": "vox-menores",
+      "originalTitle": "Menores no acompañados",
+      "originalSummary": "Devolverlos a sus familias.",
+      "originalQualification": "",
+      "metadataSha256": "17dfd62505e82e49a39a79cc64ac12201c736e2e712cc8f2568eb0315c113f2c"
+    },
+    {
+      "id": "vox-mercosur",
+      "originalTitle": "Acuerdo Mercosur",
+      "originalSummary": "Suspenderlo por competencia considerada desigual.",
+      "originalQualification": "",
+      "metadataSha256": "7ce957804d28d6dc5739b5095578dadf9e7821d9885bd0d7e851e3b853538e88"
+    },
+    {
+      "id": "vox-cuencas",
+      "originalTitle": "Interconexión de cuencas",
+      "originalSummary": "Conectar cuencas y modernizar regadíos.",
+      "originalQualification": "",
+      "metadataSha256": "141317e8ee1c40a40b6ae6ea0a6a3020e1251f14fed801a0a4c73bc65ab59eda"
+    },
+    {
+      "id": "vox-listas-espera",
+      "originalTitle": "Listas de espera",
+      "originalSummary": "Plan nacional y tarjeta sanitaria única.",
+      "originalQualification": "",
+      "metadataSha256": "8d63a05310be42ec4fa7ca9e1671c7df51bc48be5cc5de0a51125c6d3478a38b"
+    },
+    {
+      "id": "vox-ia",
+      "originalTitle": "Inteligencia artificial",
+      "originalSummary": "Impulsar la participación española en su desarrollo.",
+      "originalQualification": "",
+      "metadataSha256": "36cd91b1392c7b261b944d2067d4e2c34efb0a8ee8a748a177e1fccc3aa19999"
+    },
+    {
+      "id": "vox-remesas",
+      "originalTitle": "Remesas al extranjero",
+      "originalSummary": "Crear un gravamen sobre ellas.",
+      "originalQualification": "",
+      "metadataSha256": "8b1353c8d11599b2faf735f4f9dbc8012fefed4f2bf220c7f50786c28de1fde1"
+    },
+    {
+      "id": "vox-pensiones-mixtas",
+      "originalTitle": "Pensiones mixtas",
+      "originalSummary": "Transitar a reparto y capitalización mediante un fondo público.",
+      "originalQualification": "Documento económico de 2025, todavía enlazado oficialmente; no manifiesto completo del 29N.",
+      "metadataSha256": "cd3bc868eea34679e4bcd193b12d153cbf3e918f3303f507741bc3c2321de61c"
+    },
+    {
+      "id": "vox-ahorro-jubilacion",
+      "originalTitle": "Ahorro para jubilación",
+      "originalSummary": "Eximirlo fiscalmente sin límite si se cobra tras jubilarse.",
+      "originalQualification": "",
+      "metadataSha256": "4868b738d2e581d7019882c887916e689e77151559616d3f1549b73506006f56"
+    },
+    {
+      "id": "vox-derogar-normas",
+      "originalTitle": "Reducción normativa",
+      "originalSummary": "Derogar tres normas por cada nueva.",
+      "originalQualification": "",
+      "metadataSha256": "fbab151a43376039454a0bf1259293f77796e815b3571a52deeb213982321cfa"
+    },
+    {
+      "id": "vox-recentralizar",
+      "originalTitle": "Eliminar el Estado autonómico",
+      "originalSummary": "Recuperar competencias sanitarias y educativas como objetivo final.",
+      "originalQualification": "",
+      "metadataSha256": "3e2737bf67a49860f9b1f6fe5d5c09127318b5b44f611d7ffb98807635918d2d"
+    },
+    {
+      "id": "vox-paris",
+      "originalTitle": "Acuerdo de París",
+      "originalSummary": "Retirar la adhesión española y abandonar el Pacto Verde.",
+      "originalQualification": "",
+      "metadataSha256": "fe8c1f389157c4bb14f95695f0aa49c3fb76511e0d4de1798153d8e37de91134"
+    },
+    {
+      "id": "vox-alquiler-regulacion",
+      "originalTitle": "Regulación de alquileres",
+      "originalSummary": "Derogar medidas intervencionistas.",
+      "originalQualification": "",
+      "metadataSha256": "81204d3e4e298d187cddcff93293c337dfff4f5e0d952da2413939ee68b4689d"
+    },
+    {
+      "id": "vox-ahorro-pension-vivienda",
+      "originalTitle": "Pensión para comprar vivienda",
+      "originalSummary": "Permitir anticipar parte de la pensión futura a jóvenes compradores.",
+      "originalQualification": "",
+      "metadataSha256": "12d028de6e92421ae96e5fcbec6bd7319c7d782a347e7700d14d5ae59db7ab18"
+    },
+    {
+      "id": "vox-subvenciones",
+      "originalTitle": "Financiación de organizaciones",
+      "originalSummary": "Suprimir subvenciones a partidos, sindicatos y patronales.",
+      "originalQualification": "",
+      "metadataSha256": "938d1519118dfe9c44eab748029568626955806e1c80292f957fc9ee4fa45a39"
+    },
+    {
+      "id": "vox-datos-administracion",
+      "originalTitle": "Datos administrativos únicos",
+      "originalSummary": "Evitar volver a pedir información ya aportada.",
+      "originalQualification": "",
+      "metadataSha256": "eaeb28093bbdda4300fa84ea76b73e748538b660b677c0b082f26b2597b34000"
+    },
+    {
+      "id": "vox-presupuesto-cero",
+      "originalTitle": "Presupuestos desde cero",
+      "originalSummary": "Revisar cada gasto para reducir gasto y déficit.",
+      "originalQualification": "",
+      "metadataSha256": "a208a6641ab94cd74ce42257b53e297cb8f49a2d13d9fef32ce5ad4f4d32af4d"
+    },
+    {
+      "id": "vox-irpf",
+      "originalTitle": "IRPF con dos tipos",
+      "originalSummary": "Mínimo exento de 22.000 euros; 15% hasta 70.000 y 25% por encima.",
+      "originalQualification": "Propuesta parlamentaria, no normativa vigente.",
+      "metadataSha256": "c64d0f0fc0fc66618d9949564f18e473c2c0a2d5bf3c2bcc8cee2c12aff27d0d"
+    },
+    {
+      "id": "vox-irpf-hijos",
+      "originalTitle": "Rebaja fiscal por hijos",
+      "originalSummary": "Restar cuatro puntos porcentuales al tipo aplicable por cada descendiente.",
+      "originalQualification": "Propuesta parlamentaria, no normativa vigente.",
+      "metadataSha256": "c12fdccfca35f3cfe37cceb64f50a1579247279499e1b624f706bab744609fcb"
+    },
+    {
+      "id": "vox-iva-general",
+      "originalTitle": "Reducir tipos de IVA",
+      "originalSummary": "General del 21% al 18%; reducido del 10% al 8%.",
+      "originalQualification": "Propuesta parlamentaria, no normativa vigente.",
+      "metadataSha256": "b8b78ad77e33630a8c907b093d4b1a2c46499ee95b662ab89600497654f0dadd"
+    },
+    {
+      "id": "vox-iva-alimentos",
+      "originalTitle": "IVA de alimentos básicos",
+      "originalSummary": "Tipo cero permanente, incluyendo carnes, pescados, aceites y pastas.",
+      "originalQualification": "Propuesta parlamentaria, no normativa vigente.",
+      "metadataSha256": "bcec711ff06c670c6e7d91cd17533965705f194ca1978049406f91908bbbd464"
+    },
+    {
+      "id": "vox-iva-suministros",
+      "originalTitle": "IVA de suministros domésticos",
+      "originalSummary": "Aplicar el 4% a luz, gas y agua.",
+      "originalQualification": "Propuesta parlamentaria, no normativa vigente.",
+      "metadataSha256": "c61b1dac4f97b1484e44c2b0f784b335281279f1e2465f20a4029a04b93a56a1"
+    },
+    {
+      "id": "vox-cuota-autonomos",
+      "originalTitle": "Autónomos con ingresos bajos",
+      "originalSummary": "Bonificar íntegramente la cuota si sus ingresos son inferiores al SMI.",
+      "originalQualification": "",
+      "metadataSha256": "0d2d4f1174738b7d8af0afad5bdaf166de54217947732a9a615de719bb74646c"
+    },
+    {
+      "id": "vox-auditoria",
+      "originalTitle": "Auditoría integral del gasto",
+      "originalSummary": "Examinar el gasto público para identificar partidas prescindibles.",
+      "originalQualification": "",
+      "metadataSha256": "48862b7d7abaee68275fca7ba24636389e7f433c8c3221ccb816eeeb919d7cef"
+    },
+    {
+      "id": "vox-impuestos-casa",
+      "originalTitle": "Primera vivienda sin impuestos",
+      "originalSummary": "José María Llanos propone suprimir todos los impuestos de la primera vivienda.",
+      "originalQualification": "Atribución autonómica valenciana; no equivale a un programa estatal completo.",
+      "metadataSha256": "26a725ac897770ee0407aa894d87913e4e187e3bcf371fd4ace7b612a697cc81"
+    },
+    {
+      "id": "vox-suelo",
+      "originalTitle": "Liberalizar suelo",
+      "originalSummary": "Llanos propone ampliar suelo para vivienda libre y pública y reducir trámites.",
+      "originalQualification": "Declaración de portavoz autonómico.",
+      "metadataSha256": "9c0f31dde912031c1c7f6ce37ff99b37dcbdfb24c84706b6a7c2c5821d467869"
+    },
+    {
+      "id": "vox-educacion-lengua",
+      "originalTitle": "Oposición a inmersión lingüística",
+      "originalSummary": "Cuestionar los modelos de inmersión de Cataluña y País Vasco.",
+      "originalQualification": "",
+      "metadataSha256": "473126711de7064c76800e719c821385e63e36b3fff5a3508ad602a9a4670db4"
+    },
+    {
+      "id": "vox-educacion-eleccion",
+      "originalTitle": "Libertad de elección educativa",
+      "originalSummary": "Reformar la enseñanza según mérito, elección familiar e igualdad de oportunidades.",
+      "originalQualification": "",
+      "metadataSha256": "d8f1eb6783ecb89f6df95df344bb1e98938d9151da5c7b8f761beae61efff736"
+    },
+    {
+      "id": "vox-cupo-trans",
+      "originalTitle": "Cupo laboral trans",
+      "originalSummary": "Rechazar la propuesta de reservar un cupo específico en empleo público.",
+      "originalQualification": "Voto NO comunicado por VOX; pendiente cotejo con acta oficial de la comisión.",
+      "metadataSha256": "456fd91ac2939c1c3fbff166e69a0abc13f7f12c73be0d2b0c8ed50fde07e979"
+    },
+    {
+      "id": "vox-aborto-constitucion",
+      "originalTitle": "Blindaje constitucional del aborto",
+      "originalSummary": "Oponerse a incorporarlo mediante reforma del artículo 43.",
+      "originalQualification": "Registra la postura de VOX, no una valoración jurídica sobre la reforma.",
+      "metadataSha256": "618824cd1f7847ed5e4980cb94b53fa4393708d67f48160809a4f2779bbd458d"
+    },
+    {
+      "id": "vox-misiones",
+      "originalTitle": "Control de misiones militares",
+      "originalSummary": "Exigir autorización parlamentaria y desglose del gasto de los despliegues.",
+      "originalQualification": "",
+      "metadataSha256": "31ae312c1184d304c8e958a96c4a38ea1d59e1ff3331ca28e7ed09a39588e038"
+    },
+    {
+      "id": "vox-israel",
+      "originalTitle": "Cooperación militar con Israel",
+      "originalSummary": "Asarta defiende mantener la cooperación estratégica y tecnológica y critica cancelar contratos.",
+      "originalQualification": "",
+      "metadataSha256": "f2375df9f740800455d786a7bad306f64e05d672bd74809d7b1ad6014d5b8271"
+    },
+    {
+      "id": "vox-nuclear",
+      "originalTitle": "Nuclear y redes eléctricas",
+      "originalSummary": "Figaredo defiende energía nuclear e inversión en redes para asegurar suministro industrial.",
+      "originalQualification": "",
+      "metadataSha256": "ceffe536c479736dec5d3ef9e9dfd16fd93a8b86ff77b7d3cb7ec51c4a2da117"
+    },
+    {
+      "id": "vox-sanidad-coordinada",
+      "originalTitle": "Coordinación sanitaria nacional",
+      "originalSummary": "El candidato en Castilla y León propone un sistema coordinado que iguale el acceso territorial.",
+      "originalQualification": "Declaración autonómica, no nuevo programa general.",
+      "metadataSha256": "99f7b7a4318a444dd13c6d1b2ec0d89c62cb793c2b194584744cb55cadcd31ec"
+    },
+    {
+      "id": "vox-principio-1",
+      "originalTitle": "Unidad nacional e igualdad de los españoles.",
+      "metadataSha256": "7934d3dbdcdd5c89700bbb963263c86c9cd673cb9c0a792370d98ade62aaded8"
+    },
+    {
+      "id": "vox-principio-2",
+      "originalTitle": "Defensa de la familia y de la vida.",
+      "metadataSha256": "7934d3dbdcdd5c89700bbb963263c86c9cd673cb9c0a792370d98ade62aaded8"
+    },
+    {
+      "id": "vox-principio-3",
+      "originalTitle": "Menor tamaño del Estado y menor intervención en la vida privada.",
+      "metadataSha256": "7934d3dbdcdd5c89700bbb963263c86c9cd673cb9c0a792370d98ade62aaded8"
+    },
+    {
+      "id": "psoe-001",
+      "originalTitle": "Vivienda protegida",
+      "originalSummary": "Sánchez plantea alcanzar un 6 % de vivienda protegida en 2030.",
+      "originalQualification": "El anuncio no precisa aquí calendario presupuestario ni instrumento de ejecución.",
+      "metadataSha256": "13902032fd62b5602c61cd06ac804f01873718e048a6e93ef384fb204e834430"
+    },
+    {
+      "id": "psoe-002",
+      "originalTitle": "Electricidad renovable",
+      "originalSummary": "Sánchez fija como objetivo un 80 % de generación eléctrica renovable en 2030.",
+      "originalQualification": "Cifra de este discurso; no sustituye las metas de otros planes energéticos.",
+      "metadataSha256": "530aed0ef9bfebb9211132475133584164c9d2dd1357155ce0d26112659e3ecd"
+    },
+    {
+      "id": "psoe-003",
+      "originalTitle": "Paridad en el poder",
+      "originalSummary": "Aspira a que las mujeres ocupen el 50 % del poder económico e institucional en 2030.",
+      "originalQualification": "Objetivo general; la nota no especifica nuevas cuotas o sanciones.",
+      "metadataSha256": "6d32e9c9fe6c425f927175f6906dee526ad292b5fdd49894f2f872da71f8f3b6"
+    },
+    {
+      "id": "psoe-004",
+      "originalTitle": "Subidas anuales del SMI",
+      "originalSummary": "Sánchez se compromete a seguir elevando el salario mínimo cada año de gobierno.",
+      "originalQualification": "No concreta aquí la cuantía anual.",
+      "metadataSha256": "e2546fd641e73f0ac1eacf85f63cb68f4fe67670aee59b39683401f8795daa53"
+    },
+    {
+      "id": "psoe-005",
+      "originalTitle": "Reforzar la sanidad pública",
+      "originalSummary": "Defiende ampliar los servicios sanitarios públicos.",
+      "originalQualification": "Orientación general, sin dotación ni objetivos asistenciales en esta nota.",
+      "metadataSha256": "4e210e4a25a95dcc829a2291b6c91148d1e97289bf840bac03803c31bce5838c"
+    },
+    {
+      "id": "psoe-006",
+      "originalTitle": "Educación pública",
+      "originalSummary": "Propone fortalecer la educación pública.",
+      "originalQualification": "No concreta aquí ratios, plazas o financiación.",
+      "metadataSha256": "52375bd5d58b49ea128893c17145e1fb322570c3ae5bedb5c6cd09c4ce098615"
+    },
+    {
+      "id": "psoe-007",
+      "originalTitle": "Sistema de dependencia",
+      "originalSummary": "Defiende reforzar la atención a la dependencia.",
+      "originalQualification": "Se clasifica con pensiones y cuidados; no es una nueva prestación detallada.",
+      "metadataSha256": "4f508c043f08eed86ffa115cabf5e739163d022788efbe44ca541018d7473e3b"
+    },
+    {
+      "id": "psoe-008",
+      "originalTitle": "Aborto en la Constitución",
+      "originalSummary": "Promete una reforma constitucional que proteja el derecho al aborto.",
+      "originalQualification": "Requeriría tramitar la reforma constitucional; no se presenta como norma ya aprobada.",
+      "metadataSha256": "9c2d809892b3239cb610119b65aa2740b7e60486db7b702906ca4ec73bdcd287"
+    },
+    {
+      "id": "psoe-009",
+      "originalTitle": "Muerte digna",
+      "originalSummary": "Sánchez se compromete a mantener el derecho a una muerte digna.",
+      "originalQualification": "La nota lo presenta como defensa de un derecho existente.",
+      "metadataSha256": "aef397b60e890c103616c90ab4c56b56e252ff478bf0d9cbcf3e90fac27d9b20"
+    },
+    {
+      "id": "psoe-010",
+      "originalTitle": "Pensiones vinculadas al IPC",
+      "originalSummary": "Propone garantizar constitucionalmente las pensiones y su actualización conforme al IPC.",
+      "originalQualification": "Compromiso condicionado a una nueva legislatura y reforma constitucional.",
+      "metadataSha256": "1682182129bfaf36dccd17f936a5c90116a8122f2b6fb6781bf569bc07afffcb"
+    },
+    {
+      "id": "psoe-011",
+      "originalTitle": "Objetivo de desempleo",
+      "originalSummary": "Sánchez plantea alcanzar una tasa de paro del 8 %.",
+      "originalQualification": "Objetivo, no resultado garantizado ni medida de contratación concreta.",
+      "metadataSha256": "ee5b765c45de58f6993857745476e28d7241aadb7753f8992aa7c8cdc7e1fc29"
+    },
+    {
+      "id": "psoe-012",
+      "originalTitle": "Reconocimiento de Palestina",
+      "originalSummary": "Sánchez reafirma la defensa del reconocimiento del Estado palestino.",
+      "originalQualification": "La nota reivindica una decisión anterior; no anuncia un reconocimiento nuevo.",
+      "metadataSha256": "6fe7d02928b710c6915856aa967a6f6dc40246e5ca34e706290b4b090de860a6"
+    },
+    {
+      "id": "psoe-013",
+      "originalTitle": "Más financiación autonómica",
+      "originalSummary": "Defiende una reforma con unos 21.000 millones adicionales y 3.000 millones más para el fondo de solidaridad.",
+      "originalQualification": "Cifras del PSOE. Propuesta sujeta a negociación y aprobación parlamentaria.",
+      "metadataSha256": "e93eedbf745078a6c881f8a0a3ee0880955383eee92e7bc29ca026d6ffed4c8d"
+    },
+    {
+      "id": "psoe-014",
+      "originalTitle": "Regularización extraordinaria",
+      "originalSummary": "Defiende regularizar a residentes previos a enero de 2026, con cinco meses continuados y sin antecedentes penales.",
+      "originalQualification": "Se evalúa su apoyo político; no es una guía para solicitar permisos.",
+      "metadataSha256": "af5762a3161058b3af2826df8138336d081e3ad8db15ef74b2a1c82aed1cc4e1"
+    },
+    {
+      "id": "psoe-015",
+      "originalTitle": "Integración y títulos",
+      "originalSummary": "Apoya el Plan de Integración 2026–2030, incluida inserción laboral y homologación de títulos.",
+      "originalQualification": "Anuncio de la ministra y dirigente socialista; no programa 29N.",
+      "metadataSha256": "a20ebf929b155bb6c6c081ef6c13ac90ad7ecb0d0a161c20cb72a13568a6a55a"
+    },
+    {
+      "id": "psoe-016",
+      "originalTitle": "Ayudas digitales para pymes",
+      "originalSummary": "Propone estudiar prorrogar Kit Digital y Kit Consulting desde 2026.",
+      "originalQualification": "Iniciativa parlamentaria previa a la campaña; no aprobación acreditada.",
+      "metadataSha256": "b9b14eb059f22422b5233eae98f20364eb73499fd78f8ea90bc9d4f06f6eacb8"
+    },
+    {
+      "id": "psoe-017",
+      "originalTitle": "Asesoramiento público sobre IA",
+      "originalSummary": "Plantea incorporar especialistas en IA a las oficinas Acelera Pyme.",
+      "originalQualification": "Proposición no de ley.",
+      "metadataSha256": "2f3bf2fe10310d86a0ea786fcb2460af21598dd3f21757b49cd3b33e85fc10fd"
+    },
+    {
+      "id": "psoe-018",
+      "originalTitle": "FP en inteligencia artificial",
+      "originalSummary": "Propone ampliar las plazas públicas de FP en IA, nube y análisis de datos, con las comunidades.",
+      "originalQualification": "Proposición no de ley.",
+      "metadataSha256": "a2d442b1f1cd074bc6a15ce1e2197704a1d291da70dce89719322cf129b3d570"
+    },
+    {
+      "id": "psoe-019",
+      "originalTitle": "IA y derechos fundamentales",
+      "originalSummary": "Propone materiales públicos para evaluar riesgos de IA y su impacto en derechos fundamentales.",
+      "originalQualification": "Proposición no de ley.",
+      "metadataSha256": "29d4ccc21f8ebd7ba01a10535bae1d8b4e75b357cf5a1bcda2779b384c0dbfb6"
+    },
+    {
+      "id": "psoe-020",
+      "originalTitle": "Transporte a demanda",
+      "originalSummary": "Propone extender el transporte a demanda en zonas despobladas para acceder a servicios esenciales.",
+      "originalQualification": "Moción anunciada; no se atribuye aquí un resultado de votación.",
+      "metadataSha256": "356c210b3373214cf8d66832c559ae569951c4f2dba49ed68855ea7dd78930a7"
+    },
+    {
+      "id": "psoe-021",
+      "originalTitle": "Servicios para fijar población",
+      "originalSummary": "Propone combinar vivienda, conectividad, servicios públicos, empleo y conciliación para atraer y mantener familias rurales.",
+      "originalQualification": "Paquete general sin cuantías en la nota.",
+      "metadataSha256": "68eac6841a7c103131609c07e41f70d46334f4845f03533ce78a472e529e58d7"
+    },
+    {
+      "id": "psoe-022",
+      "originalTitle": "Transición agraria financiada",
+      "originalSummary": "Defiende acompañamiento técnico y financiación para adaptar explotaciones a la transición ecológica.",
+      "originalQualification": "Se presenta como iniciativa, no como financiación concedida.",
+      "metadataSha256": "10a8484ad2ea3c4c0acdabdfa966bb36e7fd839656490dc8145203a49aaa5d56"
+    },
+    {
+      "id": "psoe-023",
+      "originalTitle": "Precios y costes agrarios",
+      "originalSummary": "Propone que los costes de producción sean la base de negociación de los contratos del sector primario.",
+      "originalQualification": "La nota no especifica un precio mínimo universal.",
+      "metadataSha256": "5d99019747aaaaa53fdd577fe2ab0f2f9b7278120f29135ffc51eab6cb5d9f45"
+    },
+    {
+      "id": "psoe-024",
+      "originalTitle": "Permanencia en la OTAN",
+      "originalSummary": "Sánchez defiende el compromiso con la OTAN y una alianza más europea.",
+      "originalQualification": "Posición del presidente del Gobierno, no capítulo de programa electoral.",
+      "metadataSha256": "dc383a24312ac103ea601173796a360544f9b5ac88b2fe6e5d305d5afd49790f"
+    },
+    {
+      "id": "psoe-025",
+      "originalTitle": "Gasto en defensa",
+      "originalSummary": "Sánchez defiende el esfuerzo del 2 % del PIB en defensa en 2026.",
+      "originalQualification": "Dato y posición declarados en julio; no promesa de porcentaje para toda la legislatura.",
+      "metadataSha256": "f575e1826b716fd509c615535359a188f80b84089cfa789b525e2b41c613bf4c"
+    },
+    {
+      "id": "psoe-026",
+      "originalTitle": "Apoyo a Ucrania",
+      "originalSummary": "Defiende continuar apoyando a Ucrania y la cooperación militar con aliados.",
+      "originalQualification": "Declaración de política gubernamental previa al 29N.",
+      "metadataSha256": "fa8268efe55c34a571925a2dc534b1f189b219d75e4c90a80b5f53571a2b2de6"
+    },
+    {
+      "id": "psoe-027",
+      "originalTitle": "Jornada de 36 horas",
+      "originalSummary": "Objetivo medio para 2030, sin reducción salarial.",
+      "originalQualification": "Resolución federal de 2024; no se atribuye al programa 29N.",
+      "metadataSha256": "a2cbebba11c8d69bf4b7101cbfe3818b4652be57b3b93ed412c35f11d8b38971"
+    },
+    {
+      "id": "psoe-028",
+      "originalTitle": "Beneficios compartidos",
+      "originalSummary": "Obligar a grandes empresas a compartir beneficios y gestión con trabajadores.",
+      "originalQualification": "Resolución federal de 2024; no se atribuye al programa 29N.",
+      "metadataSha256": "1592fd0a1346af15c003f02ef8a900985fc5d9000c1b7c674e78b24b4678baa9"
+    },
+    {
+      "id": "psoe-029",
+      "originalTitle": "IRPF de rentas altas",
+      "originalSummary": "Tipo marginal mínimo del 50 % desde 300.000 euros anuales.",
+      "originalQualification": "Resolución federal de 2024; no se atribuye al programa 29N.",
+      "metadataSha256": "905b971697d4f03447c7d75450f1b61b5a28bf79b2affac13bd766fac0cf1518"
+    },
+    {
+      "id": "psoe-030",
+      "originalTitle": "SMI constitucional",
+      "originalSummary": "Garantizar constitucionalmente un SMI superior al 60 % del salario medio.",
+      "originalQualification": "Resolución federal de 2024; no se atribuye al programa 29N.",
+      "metadataSha256": "c19b9f7b331b8f64a16ad30ccf5aefb3a20c94735fd5c4033b89df568de0ee9f"
+    },
+    {
+      "id": "psoe-031",
+      "originalTitle": "Participación ciudadana",
+      "originalSummary": "Crear un escaño ciudadano sin voto en ambas cámaras.",
+      "originalQualification": "Resolución federal de 2024; no se atribuye al programa 29N.",
+      "metadataSha256": "2e36ece673435526c46c0d75b4f5b67c2734bac9897f3d545d15facd05a86b76"
+    },
+    {
+      "id": "psoe-032",
+      "originalTitle": "Formación dual",
+      "originalSummary": "Extender progresivamente la formación dual a universidad y FP.",
+      "originalQualification": "Resolución federal de 2024; no se atribuye al programa 29N.",
+      "metadataSha256": "7ea1c1a4f993e6b385be4abad93f6738d7c7042e33f4ca2f4e3a7d86e139200d"
+    },
+    {
+      "id": "psoe-033",
+      "originalTitle": "Conversión turística",
+      "originalSummary": "Prohibir convertir residencias en alquiler turístico o temporal en zonas de alta demanda.",
+      "originalQualification": "Resolución federal de 2024; no se atribuye al programa 29N.",
+      "metadataSha256": "ec128df7e1b952dec0f91f46f8643ce7a61e42d6cfbdbe2ac771e41bda3e83c1"
+    },
+    {
+      "id": "psoe-034",
+      "originalTitle": "Prestaciones integradas",
+      "originalSummary": "Integrar prestaciones no contributivas en una ayuda única para simplificar trámites.",
+      "originalQualification": "Resolución federal de 2024; no se atribuye al programa 29N.",
+      "metadataSha256": "6730dad898ed2a960db41acdf5888d1482f0438631f3f41831588839ecbd6e04"
+    },
+    {
+      "id": "psoe-035",
+      "originalTitle": "Adaptación climática",
+      "originalSummary": "Crear un fondo de resiliencia para personas y territorios vulnerables.",
+      "originalQualification": "Resolución federal de 2024; no se atribuye al programa 29N.",
+      "metadataSha256": "d0ca25d5a42027b4454c8cae82c413d8a04e51762c7924f1b14bd3ebc70af409"
+    },
+    {
+      "id": "psoe-principio-1",
+      "originalTitle": "Redistribución y servicios públicos universales.",
+      "metadataSha256": "c14621bd73cb899098ffe700ff05a9c3442d9f099e79a7cf4a00a5adbb3cc5eb"
+    },
+    {
+      "id": "psoe-principio-2",
+      "originalTitle": "Igualdad feminista, diversidad y transición ecológica.",
+      "metadataSha256": "c14621bd73cb899098ffe700ff05a9c3442d9f099e79a7cf4a00a5adbb3cc5eb"
+    },
+    {
+      "id": "psoe-principio-3",
+      "originalTitle": "Integración europea y cooperación multilateral.",
+      "metadataSha256": "c14621bd73cb899098ffe700ff05a9c3442d9f099e79a7cf4a00a5adbb3cc5eb"
+    },
+    {
+      "id": "frente-amplio-001",
+      "originalTitle": "Expropiación a grandes empresas",
+      "originalSummary": "Propone expropiar vivienda corporativa por fases: propietarios de más de 1.000, después 700 y después 50 inmuebles.",
+      "originalQualification": "Excluye a propietarios familiares. La nota no concreta aquí justiprecios ni presupuesto de expropiación.",
+      "metadataSha256": "03e1f83063caf18dc03f7e6725240f61864f60dd9d7d08c98d13417b43de09e8"
+    },
+    {
+      "id": "frente-amplio-002",
+      "originalTitle": "Activos de SAREB",
+      "originalSummary": "Propone integrar obligatoriamente sus fincas urbanas y suelos residenciales en el parque público.",
+      "originalQualification": "Propuesta de adscripción de activos, no cifra de viviendas ya disponibles.",
+      "metadataSha256": "078db1be5b062c65d1eb647c97aa88d167b43433150cdecf0212f3973f289b28"
+    },
+    {
+      "id": "frente-amplio-003",
+      "originalTitle": "Impuesto sobre grandes patrimonios",
+      "originalSummary": "Propone un 2 % sobre patrimonio neto superior a un millón y un 3 % desde 50 millones.",
+      "originalQualification": "Descontaría lo abonado por Patrimonio y Grandes Fortunas. No grava salarios ni pensiones como tales.",
+      "metadataSha256": "ce2d7369e1c360fde0ca6bc4aa5735fd3a69ad8b86496b606c695fc4c4d5f6ee"
+    },
+    {
+      "id": "frente-amplio-004",
+      "originalTitle": "Tributación de grandes empresas",
+      "originalSummary": "Propone elevar el tipo efectivo de grandes empresas y banca revisando desgravaciones.",
+      "originalQualification": "La recaudación conjunta anunciada para tres impuestos es una estimación de la coalición.",
+      "metadataSha256": "9c51424bfe2fd2595cceb8c77899189899de93e5fee86569531995f9b73cd6f5"
+    },
+    {
+      "id": "frente-amplio-005",
+      "originalTitle": "Impuesto a la acumulación",
+      "originalSummary": "Plantea gravar al 10 % el valor de viviendas de empresas desde la primera y de particulares desde la cuarta.",
+      "originalQualification": "Umbral conjunto: 800.000 euros. Excepción: alquiler asequible y estable. La reducción de alquileres anunciada es una previsión del partido.",
+      "metadataSha256": "cd83761be10561dda2103d9ada41c4cb0695f76affd7b2f56a8e26ca2d55a4b2"
+    },
+    {
+      "id": "frente-amplio-006",
+      "originalTitle": "Pensión mínima igual al SMI",
+      "originalSummary": "Propone que ninguna pensión sea inferior al salario mínimo.",
+      "originalQualification": "Estima unos 10.000 millones anuales; propone más imposición sobre empresas y grandes patrimonios.",
+      "metadataSha256": "5a72891886f102332824428d43074c46400672e746c8e2d1c5509664217cbe03"
+    },
+    {
+      "id": "frente-amplio-007",
+      "originalTitle": "Jubilación a los 65",
+      "originalSummary": "Propone recuperar de forma efectiva la jubilación a los 65 años.",
+      "originalQualification": "Estima otros 10.000 millones anuales; la nota no detalla todas las condiciones contributivas.",
+      "metadataSha256": "879c3f98948106be191c0e0ea6f02b40ef4e0ac0bc449ca83ddd8f31998bbbdc"
+    },
+    {
+      "id": "frente-amplio-008",
+      "originalTitle": "Cotizaciones máximas",
+      "originalSummary": "Propone eliminar progresivamente el tope de cotización para financiar pensiones.",
+      "originalQualification": "Estimación del partido: 7.000–8.500 millones anuales. No evaluación independiente.",
+      "metadataSha256": "e69cfb7e95534118ba5536ffa6c45cb37b8986ec01a78d37fcfacf3f205bb527"
+    },
+    {
+      "id": "frente-amplio-009",
+      "originalTitle": "Empresas automatizadas",
+      "originalSummary": "Propone una aportación de empresas más automatizadas al Mecanismo de Equidad Intergeneracional.",
+      "originalQualification": "El partido estima 3.000–4.000 millones; no desarrolla aquí la base ni el tipo.",
+      "metadataSha256": "557476d3a60b8cb345698fc16afb5bdc406a576c3534df225055b775b0f19a5a"
+    },
+    {
+      "id": "frente-amplio-010",
+      "originalTitle": "Unificar Renfe y Adif",
+      "originalSummary": "Propone un gran operador público integrado de trenes e infraestructuras.",
+      "originalQualification": "Parte de su propuesta de Pacto de Estado por el Tren.",
+      "metadataSha256": "6204a90c19d7ebb5a5773e7f5150e576b0ab0363150d56a7e6fa0a031393f3e9"
+    },
+    {
+      "id": "frente-amplio-011",
+      "originalTitle": "Mantenimiento ferroviario",
+      "originalSummary": "Propone aumentar inversión y personal de mantenimiento para reforzar la seguridad del ferrocarril.",
+      "originalQualification": "No concreta una dotación total ni plantea detener los grandes proyectos pendientes.",
+      "metadataSha256": "aec6c706e6337ecec6e544d8340d5d2b39b3d0603f08ec82bb65accf5b05bdca"
+    },
+    {
+      "id": "frente-amplio-012",
+      "originalTitle": "Refuerzo de cercanías",
+      "originalSummary": "Propone más fiabilidad, frecuencia y seguridad en cercanías, además de alta velocidad.",
+      "originalQualification": "Sin metas de frecuencia en la nota.",
+      "metadataSha256": "358b341d468f4adce4847b8cbbcc28a982b2092fb25d1e447dbea4d6b0cab32c"
+    },
+    {
+      "id": "frente-amplio-013",
+      "originalTitle": "Fondos aeroportuarios al tren",
+      "originalSummary": "Propone trasladar inmediatamente a la red ferroviaria los casi 13.000 millones del plan aeroportuario DORA.",
+      "originalQualification": "Cantidad y reasignación planteadas por la coalición.",
+      "metadataSha256": "0676f8766670e2632a93e52e98976dc59c1cf20d6dad14d622a96fb986a3943d"
+    },
+    {
+      "id": "frente-amplio-014",
+      "originalTitle": "IA en campaña",
+      "originalSummary": "Colau propone un pacto contra la suplantación de identidad y los contenidos vejatorios generados con IA.",
+      "originalQualification": "Compromiso de conducta política; no es un proyecto de ley con sanciones.",
+      "metadataSha256": "489de3007fa390100a2d802e039376e2a53c1afc69a7f0118b573c7157b73051"
+    },
+    {
+      "id": "frente-amplio-015",
+      "originalTitle": "Protección frente a desahucios",
+      "originalSummary": "Sumar defiende protección hasta 2030.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio. La nota de septiembre acredita apoyo, no la vigencia jurídica actual de esos decretos.",
+      "metadataSha256": "fa6db4712207403ab725d178c5d2bd2c97a72ad0dd5a39b3908f4f824649905b"
+    },
+    {
+      "id": "frente-amplio-016",
+      "originalTitle": "Prórroga de alquileres",
+      "originalSummary": "Sumar defiende prórrogas de dos años y renovación automática de contratos.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio. La nota de septiembre acredita apoyo, no la vigencia jurídica actual de esos decretos.",
+      "metadataSha256": "bd2486b183f410adf712d77230c1b1eb849ff1d03e7c6ec29ea3c9a3350470bf"
+    },
+    {
+      "id": "frente-amplio-017",
+      "originalTitle": "Temporada y habitaciones",
+      "originalSummary": "Sumar defiende regular los alquileres de temporada y de habitaciones.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio. La nota de septiembre acredita apoyo, no la vigencia jurídica actual de esos decretos.",
+      "metadataSha256": "0b47b8a94be5cc3628a6f566ebaf3921d51612a2e31861d2a73524067cd23b24"
+    },
+    {
+      "id": "frente-amplio-018",
+      "originalTitle": "Compras de fondos",
+      "originalSummary": "Sumar defiende prohibir compras de fondos de inversión hasta 2028.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio. La nota de septiembre acredita apoyo, no la vigencia jurídica actual de esos decretos.",
+      "metadataSha256": "2428a3fd136a088f7446a7f671a9f18fb921500e92ebc655bc04fbf8f4c209f0"
+    },
+    {
+      "id": "frente-amplio-019",
+      "originalTitle": "Cierre nuclear",
+      "originalSummary": "Sumar rechaza prorrogar Almaraz y prioriza renovables y reconversión industrial territorial.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio.",
+      "metadataSha256": "e1200cbc9f535c9954dfd4308168bdd6f8473e93b16e448de1d458f0a7fc839d"
+    },
+    {
+      "id": "frente-amplio-020",
+      "originalTitle": "Regularización y documentación",
+      "originalSummary": "Sumar apoya la regularización y flexibilizar la acreditación documental de residencia y trabajo.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio.",
+      "metadataSha256": "3372871008a2c9d59dc9846739f97f4353446e1c7e6a69876c10bec63883051e"
+    },
+    {
+      "id": "frente-amplio-021",
+      "originalTitle": "Personas apátridas",
+      "originalSummary": "Sumar pidió incluir a personas apátridas en la regularización; reconoce que no se incorporó.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio.",
+      "metadataSha256": "0cda32250434d7b54c1a4d5dec7212b94f74b90bd89090b55fc9f143c4fef761"
+    },
+    {
+      "id": "frente-amplio-022",
+      "originalTitle": "Puertas giratorias",
+      "originalSummary": "Sumar propone diez años de incompatibilidad para expresidentes en empresas de sectores estratégicos.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio.",
+      "metadataSha256": "ff682b910d7881367f33df33967410c885e1d0affba2ee03968ea5d17f50980a"
+    },
+    {
+      "id": "frente-amplio-023",
+      "originalTitle": "Recursos de expresidentes",
+      "originalSummary": "Sumar propone retirar medios públicos y pensiones indemnizatorias a expresidentes que opten por actividad privada lucrativa.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio.",
+      "metadataSha256": "71f93170ea3a386616185c06a0d79fc16e890166efb12caba4b47c94d267c1df"
+    },
+    {
+      "id": "frente-amplio-024",
+      "originalTitle": "Derechos LGTBIQA+",
+      "originalSummary": "Sumar defiende los derechos adquiridos y un enfoque antirracista en las políticas LGTBIQA+.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio.",
+      "metadataSha256": "e754c1349e597c1e5ea3fb64039b9578979aa3e8a73284078ed82967c8af4d1d"
+    },
+    {
+      "id": "frente-amplio-025",
+      "originalTitle": "Protección constitucional del aborto",
+      "originalSummary": "Sumar defiende incorporar el aborto a la Constitución.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio.",
+      "metadataSha256": "b4982be6ddf59c547ddb191bbe4fb6376ad539aeeafa105ae4a7c73da995d2c6"
+    },
+    {
+      "id": "frente-amplio-026",
+      "originalTitle": "Escuchar a la infancia",
+      "originalSummary": "Sumar defiende garantizar audiencia adaptada a menores afectados por decisiones, sin umbral rígido de edad.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio.",
+      "metadataSha256": "bb0db18c98da7df85589f3319682e43bab8d2abd9321b0eff464b8d2e8750d3a"
+    },
+    {
+      "id": "frente-amplio-027",
+      "originalTitle": "Justicia especializada en infancia",
+      "originalSummary": "Sumar defiende turnos de oficio especializados en violencia contra menores y formación de profesionales.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio.",
+      "metadataSha256": "468261da2a2babb01d28bcfff93cc8a4d275472aff68365968413eca83a192a6"
+    },
+    {
+      "id": "frente-amplio-028",
+      "originalTitle": "Protección infantil pública",
+      "originalSummary": "Sumar propone priorizar gestión pública directa y limitar la externalización de servicios de protección infantil a excepciones.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio.",
+      "metadataSha256": "02cb38f0e58c0d7b41fb371341bd6e56a6ea652e4ccfdbfa2b170e900987c45b"
+    },
+    {
+      "id": "frente-amplio-029",
+      "originalTitle": "OTAN y acuerdos militares",
+      "originalSummary": "El equipo internacional de Sumar propone abandonar la estructura militar de la OTAN y denunciar el Tratado.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio.",
+      "metadataSha256": "684c34b23240d31fef551fda3dbeaf9e22c739f52a46a16c84494937b983f5ef"
+    },
+    {
+      "id": "frente-amplio-030",
+      "originalTitle": "Neutralidad y bases",
+      "originalSummary": "Propone renegociar acuerdos con EEUU y prohibir tropas extranjeras y armamento nuclear en territorio español.",
+      "originalQualification": "Posición de Movimiento Sumar, integrante de la coalición; no se presenta como compromiso conjunto del Frente Amplio.",
+      "metadataSha256": "5689a0bd4bd91bf1d07e23d1c3f64cf05b4bbfbffbcabe51f3619bfd53ad643b"
+    },
+    {
+      "id": "frente-amplio-031",
+      "originalTitle": "Menor jornada laboral",
+      "originalSummary": "IU reclama reducir la jornada laboral.",
+      "originalQualification": "Posición de Izquierda Unida, integrante del Frente Amplio. No sustituye al programa conjunto.",
+      "metadataSha256": "510ddce112dfc1ad989808f997ab568876f1abbaa8f62859a0200b29c07b9c67"
+    },
+    {
+      "id": "frente-amplio-032",
+      "originalTitle": "Salarios y SMI",
+      "originalSummary": "IU reclama elevar salarios y salario mínimo.",
+      "originalQualification": "Posición de Izquierda Unida, integrante del Frente Amplio. No sustituye al programa conjunto.",
+      "metadataSha256": "85468454a0fc04388e213f4b1784a24ef4a359cf13349fdf0bdd6f71c7eca486"
+    },
+    {
+      "id": "frente-amplio-033",
+      "originalTitle": "Sanidad pública",
+      "originalSummary": "IU defiende reforzar la sanidad desde lo público.",
+      "originalQualification": "Posición de Izquierda Unida, integrante del Frente Amplio. No sustituye al programa conjunto.",
+      "metadataSha256": "3612c6af0fee46c4a3d35d136db57595b6ca42dd751e5b8882b5ca7d75be47ae"
+    },
+    {
+      "id": "frente-amplio-034",
+      "originalTitle": "Educación pública",
+      "originalSummary": "IU defiende reforzar la educación pública.",
+      "originalQualification": "Posición de Izquierda Unida, integrante del Frente Amplio. No sustituye al programa conjunto.",
+      "metadataSha256": "0fd079b68eb3fe7a98bb9bb9783b331235254e8102d8003ebdedd9a589efc72f"
+    },
+    {
+      "id": "frente-amplio-035",
+      "originalTitle": "Precios básicos y energía",
+      "originalSummary": "IU reclama controlar precios de bienes básicos y energía.",
+      "originalQualification": "Posición de Izquierda Unida, integrante del Frente Amplio. No sustituye al programa conjunto.",
+      "metadataSha256": "6e9420b3bf2cbad25464cb7603e6198851a680364f13644b0b92e35e0c683567"
+    },
+    {
+      "id": "frente-amplio-principio-1",
+      "originalTitle": "Redistribución mediante fiscalidad y vivienda pública.",
+      "metadataSha256": "bc95e366d5244ad3637c858f41bd822b5fcf6e7249ffd78656f1adeb973d722d"
+    },
+    {
+      "id": "frente-amplio-principio-2",
+      "originalTitle": "Trabajo decente, ecologismo, feminismo y reconocimiento plurinacional en Movimiento Sumar.",
+      "metadataSha256": "f06e9f8bd2e2f894c4343c7e34b1c9634a0f9952fdeb87f3d18caee379bc50b5"
+    },
+    {
+      "id": "frente-amplio-principio-3",
+      "originalTitle": "Voluntad de reeditar un gobierno de coalición progresista.",
+      "metadataSha256": "35eb0ad251ad8e4f4d1d9ccb5dc88902efd9dd5744a3466f60f87bd102ab5b87"
+    },
+    {
+      "id": "podemos-001",
+      "originalTitle": "Compra especulativa",
+      "originalSummary": "Plantea impedir que se compre vivienda con fines especulativos.",
+      "originalQualification": "La página no define aquí jurídicamente especulación ni los sujetos afectados.",
+      "metadataSha256": "4315dfaa2c3dc37d3bb368b3e874bc81e690c790f89f38276704d913c886149b"
+    },
+    {
+      "id": "podemos-002",
+      "originalTitle": "Coste de vida",
+      "originalSummary": "Propone bajar precios y recuperar poder adquisitivo frente a beneficios empresariales elevados.",
+      "originalQualification": "No concreta en esta página los productos, mecanismos ni cuantías.",
+      "metadataSha256": "fe93a7bbbc7619a359e6cb379111b8e6e8fae85e543c37d71a1bc8a80adf91d0"
+    },
+    {
+      "id": "podemos-003",
+      "originalTitle": "Gasto militar",
+      "originalSummary": "Rechaza nuevos recursos para armas y propone destinarlos a servicios públicos.",
+      "originalQualification": "Orientación presupuestaria; la página no incluye memoria económica.",
+      "metadataSha256": "81942988d32a20b9d35f343d2b9424c48485f5e3496cc60e28e639b8412cdfc7"
+    },
+    {
+      "id": "podemos-004",
+      "originalTitle": "SMI de 1.800 euros",
+      "originalSummary": "Propone fijar por ley un salario mínimo de 1.800 euros.",
+      "originalQualification": "No precisa aquí el número de pagas ni calendario de aplicación.",
+      "metadataSha256": "65f951677d411c203b25590ad2bd1b62962ffe0d97caf05d13a85d777941979a"
+    },
+    {
+      "id": "podemos-005",
+      "originalTitle": "Semana de 30 horas",
+      "originalSummary": "Propone una jornada laboral de 30 horas semanales.",
+      "originalQualification": "La página no desarrolla excepciones, negociación sectorial ni transición.",
+      "metadataSha256": "52d10e918667323097b5201f7f511313838edb75b12607c106420ba594a05f47"
+    },
+    {
+      "id": "podemos-006",
+      "originalTitle": "Personal sanitario",
+      "originalSummary": "Propone más recursos públicos, profesionales y mejores salarios sanitarios.",
+      "originalQualification": "No cuantifica plantillas ni financiación.",
+      "metadataSha256": "2329945a78f3542b27f52235627c1a485a1da71f6e0031887745c5c3220ede68"
+    },
+    {
+      "id": "podemos-007",
+      "originalTitle": "Personal educativo",
+      "originalSummary": "Propone más recursos y profesionales mejor remunerados en educación pública.",
+      "originalQualification": "No concreta ratios ni plazas en esta página.",
+      "metadataSha256": "961592ea1d05c39a0066a2ae6e21c705a3463454d7d75a64386bbc7eb5a90fc3"
+    },
+    {
+      "id": "podemos-008",
+      "originalTitle": "Acción climática",
+      "originalSummary": "Defiende combatir el cambio climático y reforzar los cuidados.",
+      "originalQualification": "Orientación general sin nuevas metas cuantitativas.",
+      "metadataSha256": "b192d2ca133b1cbd1512525dbf695556b97bb2c2f7e01ff8ccd56791dd0d49c0"
+    },
+    {
+      "id": "podemos-009",
+      "originalTitle": "Violencia machista",
+      "originalSummary": "Defiende políticas para garantizar vidas libres de violencia machista.",
+      "originalQualification": "No presenta aquí una reforma normativa específica.",
+      "metadataSha256": "a15ac634cc27025a3483537341c3d25e592c61387da7786e66ef5a033912154e"
+    },
+    {
+      "id": "podemos-010",
+      "originalTitle": "Rebaja de alquileres",
+      "originalSummary": "Santana propone reducir los alquileres un 40 %.",
+      "originalQualification": "Intervención de Noemí Santana; no se atribuye aquí una ley aprobada ni un mecanismo completo.",
+      "metadataSha256": "73e374c97cbfeec4cc6f5fb11aafc550a3a19a4b721a68992318f4cbe76b3c1e"
+    },
+    {
+      "id": "podemos-011",
+      "originalTitle": "Hipotecas variables",
+      "originalSummary": "Propone limitar los intereses de las hipotecas variables.",
+      "originalQualification": "Intervención de Noemí Santana; no se atribuye aquí una ley aprobada ni un mecanismo completo.",
+      "metadataSha256": "7983c876756b8e629528883cc1aade4299b85c806bd3372715691375db343e83"
+    },
+    {
+      "id": "podemos-012",
+      "originalTitle": "Expropiación de vivienda",
+      "originalSummary": "Propone expropiar viviendas de bancos y fondos de inversión.",
+      "originalQualification": "Intervención de Noemí Santana; no se atribuye aquí una ley aprobada ni un mecanismo completo.",
+      "metadataSha256": "22cee92e6d09a6f929c3cf3241d013c91999eeb3a51329f28eb626569f0517a0"
+    },
+    {
+      "id": "podemos-013",
+      "originalTitle": "Compras de bancos y fondos",
+      "originalSummary": "Propone prohibirles comprar viviendas.",
+      "originalQualification": "Intervención de Noemí Santana; no se atribuye aquí una ley aprobada ni un mecanismo completo.",
+      "metadataSha256": "c80add6566fe7dabfc089017b7132d745d6a29f997fb9e4c24685236b8b393ed"
+    },
+    {
+      "id": "podemos-014",
+      "originalTitle": "Fiscalidad de plataformas",
+      "originalSummary": "Belarra propone aumentar impuestos a plataformas de redes sociales para financiar educación sexual obligatoria.",
+      "originalQualification": "Propuesta parlamentaria verbal, no tributo aprobado.",
+      "metadataSha256": "89ffe794dd2c15f363105b5bc2f42a712ff3e23601c4ea0609485c9609fffb1e"
+    },
+    {
+      "id": "podemos-015",
+      "originalTitle": "Red social pública",
+      "originalSummary": "Belarra propone una red social pública con algoritmo transparente.",
+      "originalQualification": "La intervención no desarrolla gobernanza ni presupuesto.",
+      "metadataSha256": "489e08bf4e27b273c8d561b08d66c366b39ddf817b8e09c1fb23cf8941a881ee"
+    },
+    {
+      "id": "podemos-016",
+      "originalTitle": "Regularización extraordinaria",
+      "originalSummary": "Belarra defiende regularizar a migrantes residentes y facilitar la prueba documental de los requisitos.",
+      "originalQualification": "Entrevista sobre el acuerdo inicial con el PSOE; no descripción completa del procedimiento finalmente aprobado.",
+      "metadataSha256": "7e443c5b791dadc6035e410c0daacc3176f13fa7c796945f37af5d9e030d8fc9"
+    },
+    {
+      "id": "podemos-017",
+      "originalTitle": "Competencias migratorias",
+      "originalSummary": "Belarra se muestra abierta a delegarlas a Cataluña con garantías de derechos y sin discriminación.",
+      "originalQualification": "Posición condicional; no apoyo incondicional a cualquier texto de transferencia.",
+      "metadataSha256": "1204f123f6f9f54c399c7cec75a0b20880a013b131fcb5c404626b1de2903420"
+    },
+    {
+      "id": "podemos-018",
+      "originalTitle": "Aborto público",
+      "originalSummary": "Garantizar aborto seguro, libre y gratuito en la sanidad pública europea.",
+      "originalQualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N.",
+      "metadataSha256": "19849cfb78d4273b9f237633d3804b429b9e46ef00b414dd9417499b9f4a4a21"
+    },
+    {
+      "id": "podemos-019",
+      "originalTitle": "Identidad de género",
+      "originalSummary": "Defender la autodeterminación de género y despatologizar a las personas trans.",
+      "originalQualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N.",
+      "metadataSha256": "c1b8b57d66d70d9b617e77e5aa8c1dbcfa8d779b8784e4e3541ab9907dfc558e"
+    },
+    {
+      "id": "podemos-020",
+      "originalTitle": "Centros de internamiento",
+      "originalSummary": "Cerrar centros de internamiento y detención de migrantes y refugiados.",
+      "originalQualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N.",
+      "metadataSha256": "4dcbbd07aca773724d34eb8eefbad7d29313c0c9a8f0b0caacd504f865cfa9f4"
+    },
+    {
+      "id": "podemos-021",
+      "originalTitle": "Renovables en 2040",
+      "originalSummary": "Reducir a la mitad la energía primaria fósil en 2030; renovables al 100 % en 2040.",
+      "originalQualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N.",
+      "metadataSha256": "3b9735d4a63f334cd4650daa91de4105b2976e5673f1d040e74144a0d77a5457"
+    },
+    {
+      "id": "podemos-022",
+      "originalTitle": "Abandono nuclear",
+      "originalSummary": "Planificar el abandono europeo de la energía nuclear de fisión.",
+      "originalQualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N.",
+      "metadataSha256": "b3534ca9e6adb6894fc7a2f555a6a67534478fe418d5fae4010ab10633f8bdf6"
+    },
+    {
+      "id": "podemos-023",
+      "originalTitle": "Ayudas agrarias condicionadas",
+      "originalSummary": "Vincular la PAC al respeto ambiental y laboral.",
+      "originalQualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N.",
+      "metadataSha256": "3fb6b6f4ff848d05a0eb563bfd0eb4e8bde019711da3aa66ead6bc8def900a05"
+    },
+    {
+      "id": "podemos-024",
+      "originalTitle": "Tratado Mercosur",
+      "originalSummary": "Paralizar la negociación comercial UE–Mercosur.",
+      "originalQualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N.",
+      "metadataSha256": "6f092f58617eda99c414a0b881fc1e5b633d03af12a71d9c105d6450ca24a614"
+    },
+    {
+      "id": "podemos-025",
+      "originalTitle": "Conectividad universal",
+      "originalSummary": "Garantizar internet asequible de 100 Mbps en cualquier núcleo habitado.",
+      "originalQualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N.",
+      "metadataSha256": "b14f3dbd9d3fe4b7e02abbdb5a8444d38d7fbfe0967befca5964a45e8b5e8f85"
+    },
+    {
+      "id": "podemos-026",
+      "originalTitle": "Cobertura sanitaria ampliada",
+      "originalSummary": "Promover cobertura pública dental, oftalmológica, auditiva y de fisioterapia.",
+      "originalQualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N.",
+      "metadataSha256": "a82ea377a247db6b7db9eecf95763609ee37149a65741401b8362fe07b3a5932"
+    },
+    {
+      "id": "podemos-027",
+      "originalTitle": "Permisos de cuidados",
+      "originalSummary": "Objetivo de 36 semanas remuneradas e intransferibles; doble para familias monomarentales.",
+      "originalQualification": "Propuesta para las europeas de 2024; no confirmada como compromiso específico del 29N.",
+      "metadataSha256": "4ab2445ede03db31766d1b3175a6522de3ec19b9fca2c27723428a2e4f977478"
+    },
+    {
+      "id": "podemos-principio-1",
+      "originalTitle": "Vivienda como derecho, redistribución y menor tiempo de trabajo.",
+      "metadataSha256": "938f0f9b77e496a4513b367aefb08a9c597a4cac13aea46525ddd1cecf6d3841"
+    },
+    {
+      "id": "podemos-principio-2",
+      "originalTitle": "Pacifismo y prioridad presupuestaria de los servicios públicos.",
+      "metadataSha256": "938f0f9b77e496a4513b367aefb08a9c597a4cac13aea46525ddd1cecf6d3841"
+    },
+    {
+      "id": "podemos-principio-3",
+      "originalTitle": "Feminismo y defensa de derechos LGTBIQ+.",
+      "metadataSha256": "7b33705c01f22791276ba5125928a5e74edc3e86d3150ba09fc76a464c175249"
+    },
+    {
+      "id": "erc-001",
+      "originalTitle": "Fiscalidad residencial",
+      "originalSummary": "Reducir IVA e ITP para vivienda habitual; elevarlos para otros usos.",
+      "originalQualification": "Anuncio de campaña; no norma aprobada.",
+      "metadataSha256": "61afd6eb28b35586c999166fd656e8a59a12c0b7987fc1814fba0f2bdf24cff4"
+    },
+    {
+      "id": "erc-002",
+      "originalTitle": "Alquiler turístico",
+      "originalSummary": "Aplicar un IVA del 21% al alquiler turístico.",
+      "originalQualification": "Anuncio de campaña; no norma aprobada.",
+      "metadataSha256": "1723ddc032c0b5ff74325dbd0b03e23d8febbb1879887f5c2085cfba9a67946f"
+    },
+    {
+      "id": "erc-003",
+      "originalTitle": "Recargo local",
+      "originalSummary": "Permitir recargos del IBI a usos turísticos, segundas residencias y viviendas vacías en zonas tensionadas.",
+      "originalQualification": "Anuncio de campaña; no norma aprobada.",
+      "metadataSha256": "18898a31eb4dcc284c48416752a98c7feac6a5ac79e40a32ca9305845e7622b4"
+    },
+    {
+      "id": "erc-004",
+      "originalTitle": "Primera vivienda",
+      "originalSummary": "Ofrecer ayudas e incentivos fiscales progresivos para adquirir la primera vivienda.",
+      "originalQualification": "Anuncio de campaña; no norma aprobada.",
+      "metadataSha256": "feb11667238f27d299fedd2fedf4f6281b15cda6f69ab9ef7960839596741df6"
+    },
+    {
+      "id": "erc-005",
+      "originalTitle": "Rehabilitación e incentivos",
+      "originalSummary": "Bonificar fiscalmente rehabilitación, vivienda protegida, paneles solares y eficiencia energética.",
+      "originalQualification": "Anuncio de campaña; no norma aprobada.",
+      "metadataSha256": "f2df31385e6478a7c2d1cf9190954097ebb6d1674c07a32e1a8d9f6203b9f3d0"
+    },
+    {
+      "id": "erc-006",
+      "originalTitle": "Protección de inquilinos",
+      "originalSummary": "Reforzar derechos del alquiler y evitar desahucios de personas vulnerables.",
+      "originalQualification": "Anuncio de campaña; no norma aprobada.",
+      "metadataSha256": "17f16190be9ea09a73085a5dd6c8fafff658da653be6198d4721af5d77700309"
+    },
+    {
+      "id": "erc-007",
+      "originalTitle": "Alquiler temporal",
+      "originalSummary": "Reforzar su regulación respetando las competencias catalanas.",
+      "originalQualification": "Anuncio de campaña; no norma aprobada.",
+      "metadataSha256": "b0f05f81e4a7e57ee4c342b72cf32b64fd91a964dfd136dd8a796962210f507f"
+    },
+    {
+      "id": "erc-008",
+      "originalTitle": "SOCIMI",
+      "originalSummary": "Eliminar su ventaja en Sociedades y exigir alquileres de al menos siete años, excluyendo turismo y temporada.",
+      "originalQualification": "Anuncio de campaña; no norma aprobada.",
+      "metadataSha256": "0b50dc6cbc29ae6eebc56f888bf773b45ff3c9437e513c3f1bb468270ceb6df0"
+    },
+    {
+      "id": "erc-009",
+      "originalTitle": "Financiación catalana",
+      "originalSummary": "Defender el nuevo modelo de financiación y la condonación parcial de la deuda del FLA.",
+      "originalQualification": "Posición negociadora de julio; verificar después el estado legislativo de cada acuerdo.",
+      "metadataSha256": "008b5ab46133990b9018fad4aa7e21672d9a1b24a533d31b5f265010aec2c3c2"
+    },
+    {
+      "id": "erc-010",
+      "originalTitle": "Recaudación del IRPF",
+      "originalSummary": "Reclamar que se resuelva el traspaso de la recaudación del IRPF a Cataluña.",
+      "originalQualification": "",
+      "metadataSha256": "258d3bced267fd05859b626a6f799c0ce7f30c51298e79cf57b785d46e340d47"
+    },
+    {
+      "id": "erc-011",
+      "originalTitle": "Financiación sanitaria",
+      "originalSummary": "Defender un fondo extraordinario de 250 millones para la sanidad catalana.",
+      "originalQualification": "Ámbito autonómico; ejecución no auditada.",
+      "metadataSha256": "61abb5581b81554ac668a76780329b84b2d5550c0f30c5a71e3f68ebfd25aeca"
+    },
+    {
+      "id": "erc-012",
+      "originalTitle": "Programa Regenera",
+      "originalSummary": "Impulsar rehabilitación con 160 millones anuales y una línea financiera adicional de 50 millones.",
+      "originalQualification": "Ámbito autonómico; ejecución no auditada.",
+      "metadataSha256": "df312eec03294af6ab7e60733e640538bf6b3179fe788028ffab2ad9c4d64dbf"
+    },
+    {
+      "id": "erc-013",
+      "originalTitle": "Plan de pueblos",
+      "originalSummary": "Defender 400 millones para rehabilitación, adaptación climática y actividad de pequeños municipios.",
+      "originalQualification": "Ámbito autonómico; ejecución no auditada.",
+      "metadataSha256": "672b54ed9f1172051be20762e6a728b6a811075c88744858ce5631501dde7da2"
+    },
+    {
+      "id": "erc-014",
+      "originalTitle": "Catalán digital",
+      "originalSummary": "Apoyar iniciativas que amplíen el uso del catalán en redes sociales.",
+      "originalQualification": "Ámbito autonómico; ejecución no auditada.",
+      "metadataSha256": "7aa1b23780c696c75857d6d9de9e3c89d3e94f9b8d0317b740637d4b84ea1b6a"
+    },
+    {
+      "id": "erc-015",
+      "originalTitle": "Administración tributaria",
+      "originalSummary": "Reforzar la Agencia Tributaria Catalana con 527 millones en tres años.",
+      "originalQualification": "Ámbito autonómico; ejecución no auditada.",
+      "metadataSha256": "143f581d230ca870ef272a3ac53fd5bb06df856e4e604e236300339e69ea93c8"
+    },
+    {
+      "id": "erc-016",
+      "originalTitle": "Plantillas y ratios",
+      "originalSummary": "Ampliar plantillas docentes y reducir ratios para reforzar la educación pública inclusiva.",
+      "originalQualification": "Ámbito autonómico catalán.",
+      "metadataSha256": "08473dfd1720f10bea23d7b016be4c35d6ec7e0eac12142175b63b1c3c942dd1"
+    },
+    {
+      "id": "erc-017",
+      "originalTitle": "Regularización",
+      "originalSummary": "Apoyar la regularización extraordinaria para reconocer derechos laborales y sociales.",
+      "originalQualification": "",
+      "metadataSha256": "4cdccde48f81029ccd972ad186355d43f08d3e954ff51ebc2fcb35b2a78e27df"
+    },
+    {
+      "id": "erc-018",
+      "originalTitle": "Arraigo y catalán",
+      "originalSummary": "Reconocer el aprendizaje del catalán como vía voluntaria de arraigo, sin convertirlo en requisito excluyente.",
+      "originalQualification": "",
+      "metadataSha256": "ee1db4ac8cabdf6722f032945c10813bef5ba690f46c1d981ee3f39710cf1f29"
+    },
+    {
+      "id": "erc-019",
+      "originalTitle": "Expedientes pendientes",
+      "originalSummary": "Revisar exclusiones de la regularización que afecten a personas con solicitudes ordinarias todavía pendientes.",
+      "originalQualification": "",
+      "metadataSha256": "2cd58cbc44c7d3760fc67ec60aaa6a2ea0debdaec08210a8bd13a1544b2de9e7"
+    },
+    {
+      "id": "erc-020",
+      "originalTitle": "Jornada de 37,5 horas",
+      "originalSummary": "Defender la reducción desde 40 a 37,5 horas semanales.",
+      "originalQualification": "Posición publicada en septiembre de 2025; no confirmación específica del programa 2026.",
+      "metadataSha256": "25d6d0f5ed87515383208884517a1d60bb0fd712f4675344919b08d5ad785e16"
+    },
+    {
+      "id": "erc-021",
+      "originalTitle": "Relaciones laborales catalanas",
+      "originalSummary": "Defender un marco catalán de relaciones laborales y la economía social y solidaria.",
+      "originalQualification": "",
+      "metadataSha256": "c559573c6c259fa7842657e6da2dc26f2343f7bb77c895493e0c521731d0caca"
+    },
+    {
+      "id": "erc-022",
+      "originalTitle": "Pensiones y autonomía",
+      "originalSummary": "Defender pensiones suficientes, autonomía personal y respuesta a la soledad no deseada.",
+      "originalQualification": "Principios generales sin cuantía ni calendario concreto en esta fuente.",
+      "metadataSha256": "245c0f8be33042f8b69c275b1bf82098601b6d79d2e07f99ad3e7ccb521c9f3a"
+    },
+    {
+      "id": "erc-023",
+      "originalTitle": "Fiscalidad ante la crisis",
+      "originalSummary": "Bajar IRPF a rentas bajas, elevar la contribución de las altas y estudiar un gravamen extraordinario energético.",
+      "originalQualification": "Medidas coyunturales propuestas en marzo de 2026; no todo el paquete fue incorporado al decreto.",
+      "metadataSha256": "1d948910b49432cb0d7c6c8c4dab416da6d41e6b022fe776e26a8710bf5c24b8"
+    },
+    {
+      "id": "erc-024",
+      "originalTitle": "Ayudas y despidos",
+      "originalSummary": "Prohibir despidos en empresas receptoras de ayudas públicas durante la crisis.",
+      "originalQualification": "Medidas coyunturales propuestas en marzo de 2026; no todo el paquete fue incorporado al decreto.",
+      "metadataSha256": "6cbb231628d44afaf224ee0f1d4599fbe08d470667c02096abeb5297764fdcc4"
+    },
+    {
+      "id": "erc-025",
+      "originalTitle": "Precios básicos",
+      "originalSummary": "Reforzar el control público y de la CNMC sobre productos básicos y combustibles.",
+      "originalQualification": "Medidas coyunturales propuestas en marzo de 2026; no todo el paquete fue incorporado al decreto.",
+      "metadataSha256": "38f14a7a35a4f381517a51c19dabc4f21aa89f4a1e9a2a3552c61fdc9cd40fd9"
+    },
+    {
+      "id": "erc-026",
+      "originalTitle": "Protección energética",
+      "originalSummary": "Apoyar el bono social, el autoconsumo y las renovables.",
+      "originalQualification": "",
+      "metadataSha256": "03455e10e70b68134e4f8095300df784e1a41b2131a72b0e29ddf5080242dfea"
+    },
+    {
+      "id": "erc-027",
+      "originalTitle": "Guerra en Irán",
+      "originalSummary": "Inés Granollers condena los ataques de Estados Unidos e Israel y defiende una política antibelicista.",
+      "originalQualification": "",
+      "metadataSha256": "9baa727a64ec99506099cccaa47ad2a6f19bb276b8c3b139cdbeff1f5ebcaad4"
+    },
+    {
+      "id": "erc-028",
+      "originalTitle": "Palestina",
+      "originalSummary": "Reclamar medidas en defensa de los derechos palestinos y del derecho internacional.",
+      "originalQualification": "",
+      "metadataSha256": "b7e681b5dd16f18ef0dd9822728b06c8b0ddd158b75714423483c041621bc49b"
+    },
+    {
+      "id": "erc-029",
+      "originalTitle": "Salud bucodental",
+      "originalSummary": "Defender la ampliación de la cobertura pública bucodental para jóvenes.",
+      "originalQualification": "La página sectorial enlaza la propuesta; no detalla su financiación.",
+      "metadataSha256": "9adbe2f0fff9ee981a797290420d60c325e79c1ca3ab5ad7d01f1c71cdcfe1f8"
+    },
+    {
+      "id": "erc-030",
+      "originalTitle": "Igualdad y diversidad",
+      "originalSummary": "Garantizar igualdad salarial y derechos sexuales, reproductivos y LGTBIQ+.",
+      "originalQualification": "Ponencia estratégica de marzo de 2025; no compromiso electoral 29N verificado.",
+      "metadataSha256": "f210b1ca5e4f1e95287bf91a3f535ae15100d52165f8a0f162a4ca3da4117322"
+    },
+    {
+      "id": "erc-031",
+      "originalTitle": "Seguridad preventiva",
+      "originalSummary": "Priorizar proximidad, prevención, mediación y reinserción penal.",
+      "originalQualification": "Ponencia estratégica de marzo de 2025; no compromiso electoral 29N verificado.",
+      "metadataSha256": "15548dc51dff020fce5aa2606fe29e5cf0d9e4c13f0fee71006babf5322ec933"
+    },
+    {
+      "id": "erc-032",
+      "originalTitle": "Soberanía digital",
+      "originalSummary": "Reforzar infraestructura digital y datos bajo capacidad pública catalana.",
+      "originalQualification": "Ponencia estratégica de marzo de 2025; no compromiso electoral 29N verificado.",
+      "metadataSha256": "5781dd4836e10f6d4488b5763b3fe8acca5e85fa06c8edfca68d98f9b5137cc9"
+    },
+    {
+      "id": "erc-033",
+      "originalTitle": "Reforma electoral",
+      "originalSummary": "Impulsar una ley electoral catalana con listas desbloqueadas.",
+      "originalQualification": "Ponencia estratégica de marzo de 2025; no compromiso electoral 29N verificado.",
+      "metadataSha256": "af27942ac404572e81adadddc7acf01f8d0c4edc011616b081222bb136ab3da6"
+    },
+    {
+      "id": "erc-034",
+      "originalTitle": "OTAN",
+      "originalSummary": "Favorecer una salida de los Estados europeos de la OTAN.",
+      "originalQualification": "Ponencia estratégica de marzo de 2025; no compromiso electoral 29N verificado.",
+      "metadataSha256": "e61136123a2847343a2b07419a781497ecbf3c351f394167c97f48a50d539751"
+    },
+    {
+      "id": "erc-principio-1",
+      "originalTitle": "Independencia y construcción nacional desde posiciones de izquierda.",
+      "metadataSha256": "ebac30316f2f7eb5ea3ee616a3c99ba05ac3c4d68a70cc86a5634844a7232a8c"
+    },
+    {
+      "id": "erc-principio-2",
+      "originalTitle": "Feminismo, derechos LGTBIQ+ y servicios públicos.",
+      "metadataSha256": "ebac30316f2f7eb5ea3ee616a3c99ba05ac3c4d68a70cc86a5634844a7232a8c"
+    },
+    {
+      "id": "erc-principio-3",
+      "originalTitle": "Pacifismo y autonomía europea.",
+      "metadataSha256": "ebac30316f2f7eb5ea3ee616a3c99ba05ac3c4d68a70cc86a5634844a7232a8c"
+    },
+    {
+      "id": "junts-001",
+      "originalTitle": "IRPF",
+      "originalSummary": "Reducir la carga del IRPF de rentas medias y trabajadoras.",
+      "originalQualification": "Página oficial sin fecha; no identificada como programa del 29N.",
+      "metadataSha256": "311783d49888c22742ea69fe596c1133fa3a50cd55e9af93cd7af3d2ab3a90b6"
+    },
+    {
+      "id": "junts-002",
+      "originalTitle": "Sucesiones",
+      "originalSummary": "Eliminar sucesiones entre padres e hijos para la vivienda familiar.",
+      "originalQualification": "Página oficial sin fecha; no identificada como programa del 29N.",
+      "metadataSha256": "d94c805c3d048aa78b8e7e186b2d649e3cb8504dfccb3aef3f924fc5bc2cd748"
+    },
+    {
+      "id": "junts-003",
+      "originalTitle": "Deducciones residenciales",
+      "originalSummary": "Recuperar desgravaciones por alquiler e hipoteca de vivienda habitual.",
+      "originalQualification": "Página oficial sin fecha; no identificada como programa del 29N.",
+      "metadataSha256": "9be0bf3aa5944b3be5d85cc19acd2cf057e3975d3eaab33705f1571c9af54c7d"
+    },
+    {
+      "id": "junts-004",
+      "originalTitle": "Pymes que reinvierten",
+      "originalSummary": "Revisar Sociedades para favorecer a pymes que reinvierten.",
+      "originalQualification": "Página oficial sin fecha; no identificada como programa del 29N.",
+      "metadataSha256": "66282b5bfcc71c92a798b0d69478d17d14d4d55b190f83e8f8a37c557f920bbc"
+    },
+    {
+      "id": "junts-005",
+      "originalTitle": "Fiscalidad de pensiones",
+      "originalSummary": "Reducir su carga tributaria.",
+      "originalQualification": "Página oficial sin fecha; no identificada como programa del 29N.",
+      "metadataSha256": "fa0823704b8f1f0fd600db11cd9369bde26a301e6fd9a54860f6e67b47693a5b"
+    },
+    {
+      "id": "junts-006",
+      "originalTitle": "Derechos de autónomos",
+      "originalSummary": "Equiparar derechos de conciliación y trabajo intermitente con los asalariados.",
+      "originalQualification": "Página oficial sin fecha; no identificada como programa del 29N.",
+      "metadataSha256": "380688d2215d381564524dc4a58c0236c75c557d41383202e210f7ff0ac3de10"
+    },
+    {
+      "id": "junts-007",
+      "originalTitle": "Cuotas de autónomos",
+      "originalSummary": "Revisar cuotas y promover una fiscalidad más progresiva del trabajo autónomo.",
+      "originalQualification": "Página oficial sin fecha; no identificada como programa del 29N.",
+      "metadataSha256": "780af31a6aa72d1d56228f62b93e81da7cdd172e850868d8009649cefbd8b6ad"
+    },
+    {
+      "id": "junts-008",
+      "originalTitle": "Listas de espera",
+      "originalSummary": "Plan extraordinario con más personal, capacidad asistencial y menos burocracia.",
+      "originalQualification": "Ámbito principalmente catalán; no auditoría de resultados.",
+      "metadataSha256": "c4009b64b9f758630adee25c1e813323b89cf50808d11e8173c121f10f7b141c"
+    },
+    {
+      "id": "junts-009",
+      "originalTitle": "Transparencia sanitaria",
+      "originalSummary": "Publicar datos actualizados sobre tiempos de espera.",
+      "originalQualification": "Ámbito principalmente catalán; no auditoría de resultados.",
+      "metadataSha256": "74d5953fbf217e0376b9bd382792c005e494ca82b3d84aee44936acddfc8d294"
+    },
+    {
+      "id": "junts-010",
+      "originalTitle": "Distrito universitario propio",
+      "originalSummary": "Sustituir el distrito único estatal por uno catalán para el acceso universitario.",
+      "originalQualification": "Ámbito principalmente catalán; no auditoría de resultados.",
+      "metadataSha256": "d8c639b7c497ed38c3fdeca9fe9196aab96494cbe9619cf0546ad7192ff0b5ad"
+    },
+    {
+      "id": "junts-011",
+      "originalTitle": "ELA",
+      "originalSummary": "Defender atención continuada y ayudas de dependencia para personas con ELA.",
+      "originalQualification": "Ámbito principalmente catalán; no auditoría de resultados.",
+      "metadataSha256": "369399ea1a7feed1031d16d358cbc12961a17e440ec5810c35ce308cb0b52c18"
+    },
+    {
+      "id": "junts-012",
+      "originalTitle": "Recursos escolares",
+      "originalSummary": "Reducir ratios y ampliar docentes y profesionales de apoyo.",
+      "originalQualification": "Ámbito autonómico catalán.",
+      "metadataSha256": "8936f9e37b713709a3dbc70c1fffe5865a9ffe6a43c082fcc0fca7a25af899fa"
+    },
+    {
+      "id": "junts-013",
+      "originalTitle": "Financiación educativa",
+      "originalSummary": "Elevar progresivamente la inversión hasta el objetivo del 6% del PIB.",
+      "originalQualification": "Ámbito autonómico catalán.",
+      "metadataSha256": "e67b726d33b307725e33f25f125f71a335fed54005c2885895d7fbb4e7be4e06"
+    },
+    {
+      "id": "junts-014",
+      "originalTitle": "Salarios docentes",
+      "originalSummary": "Acordar mejoras salariales plurianuales con calendario y cifras verificables.",
+      "originalQualification": "Ámbito autonómico catalán.",
+      "metadataSha256": "410f86d79c4e3e0a00b22c0e1aaa0377a86f495e37bca57c5b50e154d9d3da00"
+    },
+    {
+      "id": "junts-015",
+      "originalTitle": "Acuerdo educativo",
+      "originalSummary": "Promover un acuerdo de país con participación de la comunidad educativa.",
+      "originalQualification": "Ámbito autonómico catalán.",
+      "metadataSha256": "237b660bccde1e7b2c2d670aa30190c74d6c3d5516c24d9eb7c29bdea8dd3d95"
+    },
+    {
+      "id": "junts-016",
+      "originalTitle": "Competencias migratorias",
+      "originalSummary": "Reclamar gestión integral catalana de autorizaciones de residencia y trabajo, acogida e integración.",
+      "originalQualification": "Propuesta de transferencia competencial, no competencia plenamente transferida.",
+      "metadataSha256": "b17e7b5ee559ed25c4db452a10f1edafb72fa89dc264c9e61695cff96482f772"
+    },
+    {
+      "id": "junts-017",
+      "originalTitle": "Integración y obligaciones",
+      "originalSummary": "Vincular la integración al respeto de normas democráticas, convivencia, lengua y cultura catalanas.",
+      "originalQualification": "",
+      "metadataSha256": "7e486d9e879be96d6afd4ff1b42df2fe01eaf3051f91501491d650f619bdadd7"
+    },
+    {
+      "id": "junts-018",
+      "originalTitle": "Oficialidad europea del catalán",
+      "originalSummary": "Negociar su reconocimiento como lengua oficial de la Unión Europea.",
+      "originalQualification": "",
+      "metadataSha256": "ddcd0eb960cf7f8e4c236744aafbe41b58575fe2bc2c1b0984c429c5ad9f7887"
+    },
+    {
+      "id": "junts-019",
+      "originalTitle": "Inmersión lingüística",
+      "originalSummary": "Defender la enseñanza mediante el modelo de inmersión en catalán.",
+      "originalQualification": "",
+      "metadataSha256": "7d39d4d00f2aaed7a1ae99416a520ec45115476c3b3959d304feaa918fe3f1b4"
+    },
+    {
+      "id": "junts-020",
+      "originalTitle": "Atención en catalán",
+      "originalSummary": "Garantizar su uso en justicia, sanidad y atención empresarial al público.",
+      "originalQualification": "",
+      "metadataSha256": "13adc87a47f4cfbeb8afade33ef0e7b1792bdde50e1c48b6128e8d13dfb86183"
+    },
+    {
+      "id": "junts-021",
+      "originalTitle": "Independencia",
+      "originalSummary": "Mantener la independencia catalana como objetivo político.",
+      "originalQualification": "",
+      "metadataSha256": "a59f4ec02fe607739cb85a5aa93226d49c94b69b7d773d33293d4643e6349cd6"
+    },
+    {
+      "id": "junts-022",
+      "originalTitle": "Amnistía",
+      "originalSummary": "Defender la amnistía de causas vinculadas al proceso independentista.",
+      "originalQualification": "La valoración política del partido se distingue de la interpretación judicial.",
+      "metadataSha256": "8d9ecf54edd862f292b5ffc784dcbd021398c8a73462aa5ab08ff97af682178e"
+    },
+    {
+      "id": "junts-023",
+      "originalTitle": "Transparencia",
+      "originalSummary": "Hacer accesibles y comprensibles cuentas, decisiones y procesos institucionales.",
+      "originalQualification": "",
+      "metadataSha256": "b9fdef4e5412c023cf5424e901a865ae0d7d46ff4714869c47fe377d2d17102b"
+    },
+    {
+      "id": "junts-024",
+      "originalTitle": "Transformación digital",
+      "originalSummary": "Apoyar innovación y transformación digital de la economía.",
+      "originalQualification": "",
+      "metadataSha256": "ac5416d9c967ef38cf9dffd144eb5af990029f6da37d188ba0a0f9a294a601b4"
+    },
+    {
+      "id": "junts-025",
+      "originalTitle": "Transición energética",
+      "originalSummary": "Avanzar hacia energías renovables y proteger biodiversidad y espacios naturales.",
+      "originalQualification": "Objetivo general sin calendario concreto en esta página.",
+      "metadataSha256": "3eeaf27845f8e43da114892323f08256091227c1f4bc89a3fca4104a1fb9e83d"
+    },
+    {
+      "id": "junts-026",
+      "originalTitle": "Relevo agrario",
+      "originalSummary": "Favorecer formación, relevo generacional y presencia de mujeres en el sector primario.",
+      "originalQualification": "",
+      "metadataSha256": "a2344718699d92f072e75832e754cdf58186c9e162888b7ec43135fbb04e3d7c"
+    },
+    {
+      "id": "junts-027",
+      "originalTitle": "Producción sostenible",
+      "originalSummary": "Compatibilizar viabilidad económica y ambiental en agricultura, ganadería, silvicultura y pesca.",
+      "originalQualification": "",
+      "metadataSha256": "b5255c12c86737f491f0b61d2c84ea720e49df5bdd0e075cc36b19ab44fd4ba5"
+    },
+    {
+      "id": "junts-028",
+      "originalTitle": "Temporada y habitaciones",
+      "originalSummary": "Regular esos alquileres para prevenir fraude e intensificar inspecciones.",
+      "originalQualification": "Propuesta catalana de diciembre de 2024; no compromiso 29N verificado.",
+      "metadataSha256": "3f049191dfc99cf5a493c2cc10e33b9e205b7effac6ccbf7247c82d0f05832e4"
+    },
+    {
+      "id": "junts-029",
+      "originalTitle": "Incentivos al alquiler",
+      "originalSummary": "Permitir incentivos locales a propietarios que alquilen conforme al índice de referencia catalán.",
+      "originalQualification": "Propuesta de diciembre de 2024.",
+      "metadataSha256": "848801ddc5fec45c5c3ba35633af50a414acd94d7403c10c0c6f32b8957f4964"
+    },
+    {
+      "id": "junts-030",
+      "originalTitle": "Recursos policiales",
+      "originalSummary": "Reclamar más Mossos, medios y coordinación entre cuerpos.",
+      "originalQualification": "",
+      "metadataSha256": "f5743f8e3d698f52a16ffa3e14f04808bb72e571287d6cb937df5082b0a357f8"
+    },
+    {
+      "id": "junts-031",
+      "originalTitle": "Multirreincidencia",
+      "originalSummary": "Endurecer las penas aplicables a delitos reiterados.",
+      "originalQualification": "Ponencia estratégica de 2024.",
+      "metadataSha256": "5b458f0487a87e8d9fe054c3888ba8185d0db8ac59dffaea197a8a71a11a424e"
+    },
+    {
+      "id": "junts-032",
+      "originalTitle": "Violencia y discriminación",
+      "originalSummary": "Mejorar atención policial y denuncias ante violencia machista y LGTBIfobia.",
+      "originalQualification": "Ponencia estratégica de 2024.",
+      "metadataSha256": "3acc666eaeea7bf424ab6490593761df83ecb93918af3617a24e0af78f458f14"
+    },
+    {
+      "id": "junts-033",
+      "originalTitle": "Emergencias accesibles",
+      "originalSummary": "Formar a policías y servicios de emergencia para atender distintos tipos de discapacidad.",
+      "originalQualification": "Ponencia estratégica de 2024.",
+      "metadataSha256": "fdca01bfb4b71f98bc86a70d03c45cff03389411c939bb149be9d1daefcba3c4"
+    },
+    {
+      "id": "junts-034",
+      "originalTitle": "IRPF e inflación",
+      "originalSummary": "Deflactar tramos catalanes, elevar el mínimo exento y reducir tipos iniciales.",
+      "originalQualification": "Propuesta autonómica coyuntural de marzo de 2026.",
+      "metadataSha256": "53f0608c3e7e679abd3f73522be9ec0ba502c4046240d53b153b78493777ec1b"
+    },
+    {
+      "id": "junts-principio-1",
+      "originalTitle": "Independencia de Cataluña y defensa de sus instituciones y competencias.",
+      "metadataSha256": "9aabb7ba7abf84bfea4a12ea2f374ad2945a792e9b225b37f271590f6b927442"
+    },
+    {
+      "id": "junts-principio-2",
+      "originalTitle": "Menor presión fiscal sobre rentas medias, autónomos y pymes.",
+      "metadataSha256": "bedacaf63b3e16a010ecded6442ee3210ce75774e5a0e5fe0ee63f762a8894a6"
+    },
+    {
+      "id": "junts-principio-3",
+      "originalTitle": "Promoción del catalán como lengua de cohesión e integración.",
+      "metadataSha256": "d596136339190700485f27eb732ad0314db5f4ac1fd53a233c8b8060da2ad212"
+    },
+    {
+      "id": "ehbildu-001",
+      "originalTitle": "Prórroga de alquileres",
+      "originalSummary": "Recuperar la prórroga automática de los contratos de alquiler.",
+      "originalQualification": "Anuncio de campaña; el instrumento normativo detallado no figura en esta noticia.",
+      "metadataSha256": "2d199add0793d4d40c7e1f6a302cbbcb9b327a4bb75347b8167ffc32a610135b"
+    },
+    {
+      "id": "ehbildu-002",
+      "originalTitle": "Compra especulativa",
+      "originalSummary": "Impulsar medidas para poner fin a la compra especulativa de viviendas.",
+      "originalQualification": "Anuncio de campaña; el instrumento normativo detallado no figura en esta noticia.",
+      "metadataSha256": "12d5ac5b4e4dfd14ddd97ceffaa250e43130b3ee208d6963aa91c38ecb484cce"
+    },
+    {
+      "id": "ehbildu-003",
+      "originalTitle": "Costes de la inflación",
+      "originalSummary": "Hacer que grandes empresas energéticas, petroleras y alimentarias absorban aumentos de costes durante crisis.",
+      "originalQualification": "Anuncio de campaña; el instrumento normativo detallado no figura en esta noticia.",
+      "metadataSha256": "30fab2e480c52a1615cb712179262db842c5b3001a5ba6067d63a12c09cc20ec"
+    },
+    {
+      "id": "ehbildu-004",
+      "originalTitle": "Acuerdos parlamentarios",
+      "originalSummary": "Utilizar su representación para impulsar una mayoría y un gobierno progresistas.",
+      "originalQualification": "Anuncio de campaña; el instrumento normativo detallado no figura en esta noticia.",
+      "metadataSha256": "36484f43091c66a130350d8b63151b0c007bc9863a38184836bfa31be86ec876"
+    },
+    {
+      "id": "ehbildu-005",
+      "originalTitle": "Vivienda vacía",
+      "originalSummary": "Movilizar 25.000 viviendas vacías en diez años.",
+      "originalQualification": "Plan sectorial para Hego Euskal Herria; no programa 29N.",
+      "metadataSha256": "1bb7b9c9e7eeb8161eed71fc383c4f821796a1bb1fd1ff3fd961c90f1f231ff6"
+    },
+    {
+      "id": "ehbildu-006",
+      "originalTitle": "Alquiler obligatorio",
+      "originalSummary": "Aplicarlo en zonas de alta demanda si fracasan otras medidas sobre viviendas vacías.",
+      "originalQualification": "Plan sectorial para Hego Euskal Herria; no programa 29N.",
+      "metadataSha256": "6177e9360c69b90e2e11a56aabbe9a2834be5d35267dcc93abfe081357fcf04a"
+    },
+    {
+      "id": "ehbildu-007",
+      "originalTitle": "Licencias turísticas",
+      "originalSummary": "Limitar licencias a cinco años, con renovación municipal y posibilidad de suspensión en zonas saturadas.",
+      "originalQualification": "Plan sectorial para Hego Euskal Herria; no programa 29N.",
+      "metadataSha256": "0d12825f1b20946b352b84ddf87c58749bf35057b3cc30116de8fc5a8066f35f"
+    },
+    {
+      "id": "ehbildu-008",
+      "originalTitle": "Uso residencial",
+      "originalSummary": "Recuperar 8.000 viviendas turísticas para residencia.",
+      "originalQualification": "Plan sectorial para Hego Euskal Herria; no programa 29N.",
+      "metadataSha256": "a39d5d4ed73c38852e85b22527df0dddd5a79aaece2fbe30a6ccc87c25d38b8e"
+    },
+    {
+      "id": "ehbildu-009",
+      "originalTitle": "Vivienda rural",
+      "originalSummary": "Financiar promoción pública y rehabilitación en áreas despobladas.",
+      "originalQualification": "Plan sectorial para Hego Euskal Herria; no programa 29N.",
+      "metadataSha256": "8f2da66a92531a0f3ca0608abf83fe872c73851bcb49e8a6a6e55468c1a4c91d"
+    },
+    {
+      "id": "ehbildu-010",
+      "originalTitle": "Alternativa habitacional",
+      "originalSummary": "Promover moratorias de desahucio sin alternativa residencial.",
+      "originalQualification": "Plan sectorial para Hego Euskal Herria; no programa 29N.",
+      "metadataSha256": "5acccda3fe633c81ea4002131658f533f4ed5863697a61231c29afc61ca39ca2"
+    },
+    {
+      "id": "ehbildu-011",
+      "originalTitle": "Rehabilitación integral",
+      "originalSummary": "Priorizar eficiencia energética y accesibilidad en planes de barrio.",
+      "originalQualification": "Plan sectorial para Hego Euskal Herria; no programa 29N.",
+      "metadataSha256": "f80e76b72727810feb93b5d405536f75e3a7d44a5ef2ac7b287f8b3fbccb5cfe"
+    },
+    {
+      "id": "ehbildu-012",
+      "originalTitle": "Atención primaria",
+      "originalSummary": "Dotarla de presupuesto propio y autonomía organizativa.",
+      "originalQualification": "Propuesta para el sistema sanitario vasco.",
+      "metadataSha256": "3a4263427671d546e2d9d42e41bcc354544ad1e7d7bfccfbbd801fa685a9f603"
+    },
+    {
+      "id": "ehbildu-013",
+      "originalTitle": "Plantilla sanitaria",
+      "originalSummary": "Aumentar al menos un 10% la plantilla de primaria.",
+      "originalQualification": "Propuesta para el sistema sanitario vasco.",
+      "metadataSha256": "32abcbf8a12dc38c1bf9e329c86c96124920408708fd664ff8aeecd775379570"
+    },
+    {
+      "id": "ehbildu-014",
+      "originalTitle": "Enfermería",
+      "originalSummary": "Prever dos profesionales de enfermería por cupo.",
+      "originalQualification": "Propuesta para el sistema sanitario vasco.",
+      "metadataSha256": "a6a7f0a5c1f8b11eba5e9cc1e95b4f36dfd0c15304107549913008d4f4431e5b"
+    },
+    {
+      "id": "ehbildu-015",
+      "originalTitle": "Contratación estable",
+      "originalSummary": "Ofrecer contratos duraderos con formación e investigación dentro de la jornada.",
+      "originalQualification": "Propuesta para el sistema sanitario vasco.",
+      "metadataSha256": "a85860d8b554ee51802f523f4a9c10807afe9f202cace07248642523e63f0830"
+    },
+    {
+      "id": "ehbildu-016",
+      "originalTitle": "Participación laboral",
+      "originalSummary": "Favorecer que las plantillas participen en decisiones y capital de las empresas.",
+      "originalQualification": "Documento sectorial; no programa estatal de 2026.",
+      "metadataSha256": "ad3d40304c08683de53651b5ac1ad0510ed38052d3134742c194346e6fcaf1cc"
+    },
+    {
+      "id": "ehbildu-017",
+      "originalTitle": "Financiación pública",
+      "originalSummary": "Reforzar instrumentos financieros públicos y un fondo para empresas estratégicas arraigadas en Euskadi.",
+      "originalQualification": "Documento sectorial; no programa estatal de 2026.",
+      "metadataSha256": "868202e0c9ffb15c8cb8b2e04574b06988bd1e81f2dc6deb4c2ec78d66144d9d"
+    },
+    {
+      "id": "ehbildu-018",
+      "originalTitle": "Descarbonización industrial",
+      "originalSummary": "Impulsar la transformación productiva para reducir emisiones industriales.",
+      "originalQualification": "Documento sectorial; no programa estatal de 2026.",
+      "metadataSha256": "35579fe7324c101316c002b8aae0c5c4e763657e86cb4cb154e280b51b7b4098"
+    },
+    {
+      "id": "ehbildu-019",
+      "originalTitle": "Innovación empresarial",
+      "originalSummary": "Apoyar colaboración tecnológica entre pymes y centros de investigación.",
+      "originalQualification": "Documento sectorial; no programa estatal de 2026.",
+      "metadataSha256": "3f41c95b083968a8c3f233bebe6e4278da3a9e01418f08e9cd853336eb0381fe"
+    },
+    {
+      "id": "ehbildu-020",
+      "originalTitle": "Mínimo ligado al SMI",
+      "originalSummary": "Avanzar hacia una pensión mínima equivalente al salario mínimo.",
+      "originalQualification": "Posición navarra; las deducciones fiscales territoriales no equivalen a una pensión estatal universal.",
+      "metadataSha256": "2c59b9b707b32d93428f4418b7918dee61f3cb2f621b9b6369bad30c578ee6d9"
+    },
+    {
+      "id": "ehbildu-021",
+      "originalTitle": "Complemento navarro",
+      "originalSummary": "Defender una renta anual mínima de 16.660 euros mediante pensión y deducciones fiscales.",
+      "originalQualification": "Acuerdo navarro pendiente de aprobación definitiva al publicarse; 1.190 euros en 14 pagas.",
+      "metadataSha256": "0c6fb24f0a8c3b478cc508dfa0ca956841b8591cce5e8dddad6474212bcb21f0"
+    },
+    {
+      "id": "ehbildu-022",
+      "originalTitle": "Fiscalidad renovable",
+      "originalSummary": "Promover tributación territorial de instalaciones eólicas y fotovoltaicas.",
+      "originalQualification": "Propuesta legislativa navarra.",
+      "metadataSha256": "2b051b785a0d589ab16e41980fa09f6c00bbf245d1a47802a1f1042f267f99c1"
+    },
+    {
+      "id": "ehbildu-023",
+      "originalTitle": "Cuidados públicos",
+      "originalSummary": "Defender cobertura de cuidados pública, universal y gratuita.",
+      "originalQualification": "",
+      "metadataSha256": "fc730fde2bed3ad016b22cdff5aee56731e1620c4c672565f6da91f236172f65"
+    },
+    {
+      "id": "ehbildu-024",
+      "originalTitle": "Acceso al aborto",
+      "originalSummary": "Proteger a las mujeres frente al acoso junto a centros que realizan interrupciones del embarazo.",
+      "originalQualification": "Iniciativa de impulso al Gobierno, no legislación por sí misma.",
+      "metadataSha256": "bca36060d483a58611150b850cd41ed84ba540e68e1038511a3727f84b5511bb"
+    },
+    {
+      "id": "ehbildu-025",
+      "originalTitle": "Escalada militar",
+      "originalSummary": "Oponerse a la escalada militar y priorizar soluciones pacíficas conforme al derecho internacional.",
+      "originalQualification": "",
+      "metadataSha256": "8d30298df6999f26650d7e327eb29a308fa0d33586dcf5eee57e6d5e7462588d"
+    },
+    {
+      "id": "ehbildu-026",
+      "originalTitle": "OTAN",
+      "originalSummary": "Expresar oposición política al militarismo y a la OTAN.",
+      "originalQualification": "La declaración no establece un calendario operativo de retirada.",
+      "metadataSha256": "a657f357d68aad68aeab17f40d9c64972632bc992c59a3ac3890091c321f8237"
+    },
+    {
+      "id": "ehbildu-027",
+      "originalTitle": "Euskera gratuito",
+      "originalSummary": "Proponer gratuidad hasta B1 en el siguiente curso y hasta B2 en 2027–2028, sin adelantar matrícula.",
+      "originalQualification": "Ámbito de la Comunidad Autónoma Vasca; propuesta presentada en marzo de 2026.",
+      "metadataSha256": "80b13072cb490a25294f40b6bb7ab55465ead8e39a72719cd9dcae1407b1606f"
+    },
+    {
+      "id": "ehbildu-028",
+      "originalTitle": "Lenguas y empleo público",
+      "originalSummary": "Exigir las dos lenguas oficiales como regla, con aplazamientos definidos mediante un índice de progresividad.",
+      "originalQualification": "Ámbito vasco.",
+      "metadataSha256": "2e6026dfd383f311c03707489f27c8442b3a0fda237edca65d5f5d47197f30d3"
+    },
+    {
+      "id": "ehbildu-029",
+      "originalTitle": "Acuerdo educativo",
+      "originalSummary": "Retomar el pacto educativo mediante una mesa presidida por el lehendakari.",
+      "originalQualification": "Ámbito autonómico vasco.",
+      "metadataSha256": "1d2f51e02564f3640f8075c7e70e9b210285bcc3cc9dd21fc099528a2731466e"
+    },
+    {
+      "id": "ehbildu-030",
+      "originalTitle": "Apoyo a regularización",
+      "originalSummary": "Adaptar servicios municipales y horarios para facilitar información y trámites a personas migrantes.",
+      "originalQualification": "Ejemplo municipal; no propuesta de admisión migratoria estatal.",
+      "metadataSha256": "25196b7d3c5c30d1d9c96b707ef85b9b805871ef4078aa978409536bc557f71b"
+    },
+    {
+      "id": "ehbildu-031",
+      "originalTitle": "Seguridad y libertades",
+      "originalSummary": "Reformar sanciones por desobediencia y faltas de respeto, y sustituir las pelotas de goma.",
+      "originalQualification": "Posición documentada de 2024; ejecución posterior no auditada.",
+      "metadataSha256": "5b7366f23f388a3e1e1167e55bd574b702b0fee2dde1a863847dbd016b20ecdf"
+    },
+    {
+      "id": "ehbildu-032",
+      "originalTitle": "Garantías en frontera",
+      "originalSummary": "Evaluar solicitudes de protección antes de una eventual expulsión.",
+      "originalQualification": "No se certifica que la reforma prometida se haya ejecutado.",
+      "metadataSha256": "dd53e50b1aed60e6e4a91f33b0de2d09063590480e101e8e34c2a9c230686d7a"
+    },
+    {
+      "id": "ehbildu-033",
+      "originalTitle": "Soberanía vasca",
+      "originalSummary": "Construir un Estado que reúna los siete territorios históricos vascos.",
+      "originalQualification": "",
+      "metadataSha256": "82e4f21054c748007a0f8e630ec230c587ae78a0862f76b86e95565004db14c6"
+    },
+    {
+      "id": "ehbildu-034",
+      "originalTitle": "Control público",
+      "originalSummary": "Reducir duplicidades institucionales y transparentar el uso de fondos públicos.",
+      "originalQualification": "",
+      "metadataSha256": "c3ba340cc71d926b081b34f9bb2381dc7a79b5e2565b7b44fffb4e43726d9539"
+    },
+    {
+      "id": "ehbildu-035",
+      "originalTitle": "Modelo energético",
+      "originalSummary": "Impulsar renovables públicas, ahorro energético y abandono de centrales nucleares y térmicas.",
+      "originalQualification": "Principio estratégico, sin calendario de cierre concretado aquí.",
+      "metadataSha256": "8d4fb79f572539eff91bf72b8fab5b181b30266e6322d8477e1e8920ea5918da"
+    },
+    {
+      "id": "ehbildu-principio-1",
+      "originalTitle": "Construcción de un Estado vasco y soberanía de Euskal Herria.",
+      "metadataSha256": "afc9efa3b1068b50916ad75e604605e291b3159bf0a50de905f40cf7ecd5ab9e"
+    },
+    {
+      "id": "ehbildu-principio-2",
+      "originalTitle": "Feminismo transversal y economía social y solidaria.",
+      "metadataSha256": "afc9efa3b1068b50916ad75e604605e291b3159bf0a50de905f40cf7ecd5ab9e"
+    },
+    {
+      "id": "ehbildu-principio-3",
+      "originalTitle": "Transición ecológica con protagonismo público y ciudadano.",
+      "metadataSha256": "afc9efa3b1068b50916ad75e604605e291b3159bf0a50de905f40cf7ecd5ab9e"
+    },
+    {
+      "id": "pnv-001",
+      "originalTitle": "Salario mínimo vasco",
+      "originalSummary": "Reclamar competencia plena para fijarlo por encima del estatal mediante diálogo social.",
+      "originalQualification": "En un nuevo estatus político para Euskadi.",
+      "metadataSha256": "b342d99d0c1fe9833ba8fae1975f962f513d7c75904cc9733d182a70f5b34b51"
+    },
+    {
+      "id": "pnv-002",
+      "originalTitle": "Protección por desempleo",
+      "originalSummary": "Ampliar la cobertura hasta 36 meses vinculándola a mejorar la empleabilidad.",
+      "originalQualification": "",
+      "metadataSha256": "00af50e1794f545208cd3986034b94e7a7108f5672fa82ab14d231a85f3c2f6d"
+    },
+    {
+      "id": "pnv-003",
+      "originalTitle": "Modernización de pymes",
+      "originalSummary": "Apoyar digitalización, inteligencia artificial y procesos más eficientes.",
+      "originalQualification": "",
+      "metadataSha256": "5ed5b0786f213dd7c39fdcc1c9c65d313ee24ff5ceb96196c6b0b22c64d82a27"
+    },
+    {
+      "id": "pnv-004",
+      "originalTitle": "Autonomía educativa",
+      "originalSummary": "Preservar las competencias vascas y su sistema propio de becas.",
+      "originalQualification": "",
+      "metadataSha256": "00c5ce3a2f2317c3a88799b575192e26cad2a64502830419a92366a63b92fcb6"
+    },
+    {
+      "id": "pnv-005",
+      "originalTitle": "Jubilación anticipada",
+      "originalSummary": "Eliminar penalizaciones con más de 40 años cotizados.",
+      "originalQualification": "",
+      "metadataSha256": "114fafd3b98290220716cdb3657e1ad500e6c21f1e1174df445dac3c9f72ed32"
+    },
+    {
+      "id": "pnv-006",
+      "originalTitle": "Cannabis medicinal",
+      "originalSummary": "Favorecer su regulación con garantías sanitarias y de seguridad.",
+      "originalQualification": "",
+      "metadataSha256": "04fecf607ea19978dfdd889edef104a6509d3bb455e041d2990329e18f8eb90c"
+    },
+    {
+      "id": "pnv-007",
+      "originalTitle": "Electrodependencia",
+      "originalSummary": "Proteger de cortes eléctricos a quienes dependen de equipos médicos.",
+      "originalQualification": "",
+      "metadataSha256": "519eeee310f66aa61dfdb2ee4ac339430f127dfe4117390391d89ac017bfd626"
+    },
+    {
+      "id": "pnv-008",
+      "originalTitle": "Alquiler temporal",
+      "originalSummary": "Evitar su uso fraudulento para eludir garantías residenciales.",
+      "originalQualification": "",
+      "metadataSha256": "d43f624eb39e5aaf26ef754321d00bd3a3d1b649803c4e7ae9caa47dc79e2093"
+    },
+    {
+      "id": "pnv-009",
+      "originalTitle": "Redes y energía",
+      "originalSummary": "Invertir en redes y renovables para reducir costes energéticos.",
+      "originalQualification": "",
+      "metadataSha256": "0e068458842d7c2d32e5227c504ffdd08b419e6bb449ce5bbef5af36f3796504"
+    },
+    {
+      "id": "pnv-010",
+      "originalTitle": "Autónomos",
+      "originalSummary": "Mejorar protección ante cierres involuntarios y facilitar financiación.",
+      "originalQualification": "",
+      "metadataSha256": "9ce1309d70abe34321fdb7f41c0c4246be29d2da803f204189b0b4b2c91057f2"
+    },
+    {
+      "id": "pnv-011",
+      "originalTitle": "Ferrocarril",
+      "originalSummary": "Exigir calendarios verificables de la Y vasca y el Corredor Atlántico.",
+      "originalQualification": "",
+      "metadataSha256": "8e33137b693f7ce09d197398ad0026b60638ec763552748c7cf9fb7a7f6ddcb1"
+    },
+    {
+      "id": "pnv-012",
+      "originalTitle": "Campo y pesca",
+      "originalSummary": "Defender precios ligados a costes y relevo generacional.",
+      "originalQualification": "",
+      "metadataSha256": "81107a56bf6c60c1e3749cb2a40061ddc0062c5521c0788d78e3fae52d427feb"
+    },
+    {
+      "id": "pnv-013",
+      "originalTitle": "IVA esencial",
+      "originalSummary": "Revisar IVA de bienes básicos dentro del marco europeo.",
+      "originalQualification": "",
+      "metadataSha256": "88c0f0677e127df0644a0764a1bc250e12cb43044e4100e2d33c7089979f0171"
+    },
+    {
+      "id": "pnv-014",
+      "originalTitle": "Fiscalidad foral",
+      "originalSummary": "Ampliar capacidad normativa en IVA e impuestos especiales respetando Europa.",
+      "originalQualification": "",
+      "metadataSha256": "c3336d3f823424895b5a2ff8b5fbb8d31ac816acb1c21dd5144d0997bb15ad26"
+    },
+    {
+      "id": "pnv-015",
+      "originalTitle": "Ertzaintza",
+      "originalSummary": "Ampliar medios y cooperación policial europea directa.",
+      "originalQualification": "",
+      "metadataSha256": "9cabe1885c01f86d0d604c5098d1d80b33d6d9cf4c3d0c37736cc763295e11eb"
+    },
+    {
+      "id": "pnv-016",
+      "originalTitle": "Multirreincidencia",
+      "originalSummary": "Reforzar respuestas judiciales rápidas, eficaces y proporcionadas.",
+      "originalQualification": "",
+      "metadataSha256": "8e85ed45ba663896185745b6daf57ccb162701f09b91fbce7cebc6ee8b367076"
+    },
+    {
+      "id": "pnv-017",
+      "originalTitle": "Libertades públicas",
+      "originalSummary": "Reformar seguridad ciudadana y revisar delitos que restringen expresión.",
+      "originalQualification": "",
+      "metadataSha256": "3f58a7ad2f2eced6471c761eaae1337071256ddc22d822a08dca95a3a6ea510d"
+    },
+    {
+      "id": "pnv-018",
+      "originalTitle": "Violencia machista",
+      "originalSummary": "Reforzar atención a víctimas y recursos judiciales especializados.",
+      "originalQualification": "",
+      "metadataSha256": "c3f87bbad9ba8c865b16a8612cc8648a65c301fddf945c43ef6e7e24eae8c068"
+    },
+    {
+      "id": "pnv-019",
+      "originalTitle": "Derechos LGTBIQ+",
+      "originalSummary": "Combatir discriminación y delitos de odio.",
+      "originalQualification": "",
+      "metadataSha256": "f051b9851e464c5e2cf0985bd25e4da734f317e2b8ad61955667d7edc3c6863b"
+    },
+    {
+      "id": "pnv-020",
+      "originalTitle": "Gestión migratoria",
+      "originalSummary": "Ampliar competencias vascas y agilizar permisos y reconocimiento de titulaciones.",
+      "originalQualification": "",
+      "metadataSha256": "5ffaa5814693ff2229610c41e36d61b503892c9d12f2ef302d5c27a68259ffab"
+    },
+    {
+      "id": "pnv-021",
+      "originalTitle": "Actualización anual",
+      "originalSummary": "Revalorizar pensiones con el IPC.",
+      "originalQualification": "",
+      "metadataSha256": "a35baf8c1e7f6c607a6ba02d7d014e1d464a3ab986534870d948fe8813eb9178"
+    },
+    {
+      "id": "pnv-022",
+      "originalTitle": "Oferta residencial",
+      "originalSummary": "Construir, rehabilitar y movilizar viviendas vacías con garantías para pequeños propietarios.",
+      "originalQualification": "",
+      "metadataSha256": "e464391bfc48e5d81e0e4ba3c3ec94504f38e234f0963e11225ffa1b2334e9a0"
+    },
+    {
+      "id": "pnv-023",
+      "originalTitle": "Formación y empleo",
+      "originalSummary": "Reforzar formación conectada con oportunidades laborales.",
+      "originalQualification": "",
+      "metadataSha256": "3607403b4d118e17383df30af22c9aabcd44207cee6c99a74797df03f3abcebf"
+    },
+    {
+      "id": "pnv-024",
+      "originalTitle": "Arraigo industrial",
+      "originalSummary": "Defender centros de decisión empresariales en Euskadi.",
+      "originalQualification": "",
+      "metadataSha256": "f3d92bfaf71d4c3714a64bf6afe56f66be54615a4b3409cfe541ac4d29f46129"
+    },
+    {
+      "id": "pnv-025",
+      "originalTitle": "Personal sanitario",
+      "originalSummary": "Adecuar formación de especialistas a las necesidades vascas.",
+      "originalQualification": "",
+      "metadataSha256": "46b3a68ecf6b5d5df32abc8629f3c3e0622776ab8b77f6b9b21d87476035f726"
+    },
+    {
+      "id": "pnv-026",
+      "originalTitle": "Cuidados",
+      "originalSummary": "Mejorar apoyo económico y servicios de respiro familiar.",
+      "originalQualification": "",
+      "metadataSha256": "e6f181df066c52a00378700419f1b41193767f2676abbed9a07077b1c3d0f0a6"
+    },
+    {
+      "id": "pnv-027",
+      "originalTitle": "Amianto",
+      "originalSummary": "Acelerar la reparación de sus víctimas.",
+      "originalQualification": "",
+      "metadataSha256": "dd8d3f7a60108ef1e365000a0e64e6dd59a10f20b1de6d7ed376100eab126a14"
+    },
+    {
+      "id": "pnv-028",
+      "originalTitle": "Estatuto de Gernika",
+      "originalSummary": "Completar transferencias pendientes y defender competencias vascas.",
+      "originalQualification": "",
+      "metadataSha256": "f1318ecce47843d3f9d07f0f7cffe1dd25f91857ff870b86beda26b1a8c47cb7"
+    },
+    {
+      "id": "pnv-029",
+      "originalTitle": "Concierto Económico",
+      "originalSummary": "Preservar la capacidad fiscal y financiera de Euskadi.",
+      "originalQualification": "",
+      "metadataSha256": "94404799f53fc0b37dbf60574e4546c6679a5c2cb230278a6c14b6a6cc520619"
+    },
+    {
+      "id": "pnv-030",
+      "originalTitle": "Nuevo pacto",
+      "originalSummary": "Defender reconocimiento nacional y bilateralidad con el Estado.",
+      "originalQualification": "",
+      "metadataSha256": "c3bd606d6101bda115883a4e3ecfabcfffb59ae35fe6a7542f9e1f024aa87e41"
+    },
+    {
+      "id": "pnv-031",
+      "originalTitle": "Representación europea",
+      "originalSummary": "Reclamar voz propia vasca en las instituciones europeas.",
+      "originalQualification": "",
+      "metadataSha256": "987853b3e122858428eaf4c1aa6c7bd48b7379db1861a18c73a399f1c5d4cee2"
+    },
+    {
+      "id": "pnv-032",
+      "originalTitle": "Memoria y transparencia",
+      "originalSummary": "Esclarecer vulneraciones de derechos humanos y reforzar rendición de cuentas.",
+      "originalQualification": "",
+      "metadataSha256": "3d2eb0ec914e5759458131c7147d7dc430d6782e01bf08f847cbc8a1672bf0ba"
+    },
+    {
+      "id": "pnv-033",
+      "originalTitle": "Pactos de gobierno",
+      "originalSummary": "No facilitar gobiernos que dependan de Vox.",
+      "originalQualification": "",
+      "metadataSha256": "88f2ba2f34dba3240fc919ce08b3d9072e10144613dfae854c9cb8218f2a2761"
+    },
+    {
+      "id": "pnv-034",
+      "originalTitle": "Seguridad europea",
+      "originalSummary": "Agirregoitia defiende reforzar Europa dentro de la OTAN y reducir la dependencia de Estados Unidos.",
+      "originalQualification": "",
+      "metadataSha256": "d89289b6f8bafd87d8578c11f7fb61b15bf6962a45ce36bbe0cde8f4c111543f"
+    },
+    {
+      "id": "pnv-035",
+      "originalTitle": "Artistas e IA",
+      "originalSummary": "Reclamar medidas de protección para profesionales culturales ante la inteligencia artificial.",
+      "originalQualification": "",
+      "metadataSha256": "ef99f6ac94772dcf1526fa2e8c152247230490e8a300760ca057b1333aba2bc8"
+    },
+    {
+      "id": "pnv-036",
+      "originalTitle": "Participación en empresas",
+      "originalSummary": "Incentivar fiscalmente la compra de participaciones por las plantillas, condicionada a mantenerlas tres años.",
+      "originalQualification": "Acuerdo fiscal foral; en grandes empresas se orienta a obtener control de la sociedad.",
+      "metadataSha256": "33662d879258d70685ec88f880a9b93ebe522435e64e3231e629720906b1e9d7"
+    },
+    {
+      "id": "pnv-principio-1",
+      "originalTitle": "Autogobierno vasco y acuerdos bilaterales exigibles.",
+      "metadataSha256": "f4a2c851b43370a0934216493d07aa1396c202b2c77f4e75a88f5e2bfda50939"
+    },
+    {
+      "id": "pnv-principio-2",
+      "originalTitle": "Actividad económica vinculada al bienestar social.",
+      "metadataSha256": "f4a2c851b43370a0934216493d07aa1396c202b2c77f4e75a88f5e2bfda50939"
+    },
+    {
+      "id": "bng-001",
+      "originalTitle": "Concierto gallego",
+      "originalSummary": "Recaudar todos los impuestos mediante una Hacienda gallega.",
+      "originalQualification": "",
+      "metadataSha256": "7b649ddd47a68c293331266dba71e33d2855a1f0fd6aea274a9fccb12fde7bef"
+    },
+    {
+      "id": "bng-002",
+      "originalTitle": "Policía gallega",
+      "originalSummary": "Transferir seguridad pública, policía judicial y tráfico.",
+      "originalQualification": "",
+      "metadataSha256": "eab870540d2f0eeab90c732d79699c36033523a52c57839cc35789ae56ee4e9b"
+    },
+    {
+      "id": "bng-003",
+      "originalTitle": "Educación laica",
+      "originalSummary": "Excluir Religión del currículo escolar.",
+      "originalQualification": "",
+      "metadataSha256": "84b98c593c85b083b6eab9366b0deb0b44fe47ef86d407258a00e6e8603897fe"
+    },
+    {
+      "id": "bng-004",
+      "originalTitle": "Financiación educativa",
+      "originalSummary": "Dedicar al menos el 7% del PIB.",
+      "originalQualification": "",
+      "metadataSha256": "ada5eaff0fbda2a47589a35979deb83cd6e6aeace14fdb894b111be963614fac"
+    },
+    {
+      "id": "bng-005",
+      "originalTitle": "Regularización",
+      "originalSummary": "Facilitar regularización administrativa y reforzar inspección laboral.",
+      "originalQualification": "",
+      "metadataSha256": "7374fe1014bcbca115b264d3f296cb4e1452a3513eedcef2e72e4c36c28764c7"
+    },
+    {
+      "id": "bng-006",
+      "originalTitle": "Centros de internamiento",
+      "originalSummary": "Cerrar los CIE y terminar las devoluciones en caliente.",
+      "originalQualification": "",
+      "metadataSha256": "eaec841e7c24fefbe9b6cb7a7d9242c6f97e8139324fdfb8646dec7be442a1b2"
+    },
+    {
+      "id": "bng-007",
+      "originalTitle": "OTAN",
+      "originalSummary": "Salir de la alianza y defender su disolución.",
+      "originalQualification": "",
+      "metadataSha256": "ecfc0b172c93d57f860ce9392fb3d92d54acf9d9a70e8f13d7f29d9c17baf27b"
+    },
+    {
+      "id": "bng-008",
+      "originalTitle": "Ucrania",
+      "originalSummary": "Cesar envíos de armas; negociar la paz y reforzar ayuda humanitaria.",
+      "originalQualification": "",
+      "metadataSha256": "6194a6b691ed1777f081f64a1503e8f2f837ae55c963fdcdbb128fa6ad041ab6"
+    },
+    {
+      "id": "bng-009",
+      "originalTitle": "Prostitución",
+      "originalSummary": "Perseguir proxenetas y clientes, sin criminalizar mujeres; ofrecer alternativas.",
+      "originalQualification": "",
+      "metadataSha256": "fe5042960ea83a0ae9254bdf9a1f1270fd957f6abc68a26ab5e85af666497a90"
+    },
+    {
+      "id": "bng-010",
+      "originalTitle": "Lengua y nacionalidad",
+      "originalSummary": "Aceptar conocimiento del gallego para nacionalidad, independientemente del castellano.",
+      "originalQualification": "",
+      "metadataSha256": "d37ceca9be0892d54d6880ffc75ad6fb41de3e194e6088e89365e710e7eba7af"
+    },
+    {
+      "id": "bng-011",
+      "originalTitle": "Inversión pública",
+      "originalSummary": "Destinar el 3% del presupuesto estatal a alquiler público permanente.",
+      "originalQualification": "",
+      "metadataSha256": "7ba580a034350bb0b83d3138f6fca8aa461c9235778a85314b10d6b8cdb8f15a"
+    },
+    {
+      "id": "bng-012",
+      "originalTitle": "Jornada",
+      "originalSummary": "Avanzar a 35 horas semanales sin reducción salarial.",
+      "originalQualification": "",
+      "metadataSha256": "c041609142d3283f0edc92c23f96a692e6af2743bae161ad2da7b80dd6965d5d"
+    },
+    {
+      "id": "bng-013",
+      "originalTitle": "Jubilación",
+      "originalSummary": "Recuperar edad ordinaria de 65 años y cómputo de diez años.",
+      "originalQualification": "",
+      "metadataSha256": "fb65c06053d8424bd99dd591e56ef31a575f24892bd4f3c0c045ac4950dc0934"
+    },
+    {
+      "id": "bng-014",
+      "originalTitle": "Pensiones mínimas",
+      "originalSummary": "Elevarlas al 60% del salario medio.",
+      "originalQualification": "",
+      "metadataSha256": "6c2ef2b88d04a720d0b7c125fd40856f3aed9caa661d79ea7b7ca3374e0b96cc"
+    },
+    {
+      "id": "bng-015",
+      "originalTitle": "Dependencia",
+      "originalSummary": "Exigir financiación estatal del 50% del SAAD.",
+      "originalQualification": "",
+      "metadataSha256": "1954b68c6e1b3b1393f175c11140054192b0541ca9787add4f1ad60cf1323d76"
+    },
+    {
+      "id": "bng-016",
+      "originalTitle": "Fiscalidad",
+      "originalSummary": "Reducir carga sobre trabajo y aumentar la del capital y grandes fortunas.",
+      "originalQualification": "",
+      "metadataSha256": "cc1be2c4867c8e2c3f303d8a95b22b6ca5cf7466bb8990f529c827852221c55f"
+    },
+    {
+      "id": "bng-017",
+      "originalTitle": "Investigación",
+      "originalSummary": "Alcanzar el 3% del PIB en I+D+i en 2030.",
+      "originalQualification": "",
+      "metadataSha256": "665197141f0d2cdf236d0da3ef23a57738c31b9974e429df21041b280597d08f"
+    },
+    {
+      "id": "bng-018",
+      "originalTitle": "Electricidad",
+      "originalSummary": "Implantar tarifa gallega y recuperar concesiones hidráulicas al vencer.",
+      "originalQualification": "",
+      "metadataSha256": "26812a1ca386749cb971e134bab5c57931b7aff9d6538bfab9cc727d81ec9030"
+    },
+    {
+      "id": "bng-019",
+      "originalTitle": "Eólica marina",
+      "originalSummary": "Declarar la costa gallega no apta para parques.",
+      "originalQualification": "",
+      "metadataSha256": "5d3844d73f1d19d8a6b6b9c727c116021e190a7b60a34c6e0740e9c7449062ef"
+    },
+    {
+      "id": "bng-020",
+      "originalTitle": "AP-9",
+      "originalSummary": "Hacerla pública, gallega y sin peajes.",
+      "originalQualification": "",
+      "metadataSha256": "250e7f9869872052ddd9f5131ea5c877505e0b1fa0cea65d2521ff31df3c4dfc"
+    },
+    {
+      "id": "bng-021",
+      "originalTitle": "Voto juvenil",
+      "originalSummary": "Reconocer sufragio desde los 16 años.",
+      "originalQualification": "",
+      "metadataSha256": "6df34e3b476a9e0bdcb65902a66dff9f169681feedb1671db59896a297dcc093"
+    },
+    {
+      "id": "bng-022",
+      "originalTitle": "Protesta",
+      "originalSummary": "Derogar la Ley de Seguridad Ciudadana.",
+      "originalQualification": "",
+      "metadataSha256": "7a71c9edf66d0d56b85b782017c39e78ab3c3880b294df91e83fc9406a55a12b"
+    },
+    {
+      "id": "bng-023",
+      "originalTitle": "Compra pública de viviendas vacías",
+      "originalSummary": "Pontón propone comprar vivienda ya construida y vacía para destinarla a alquiler social.",
+      "originalQualification": "",
+      "metadataSha256": "b9d7a2c93cb8275d57c4022891f9abd9b9b33b7e195fe6b3fb08469185c7a234"
+    },
+    {
+      "id": "bng-024",
+      "originalTitle": "Topes al alquiler",
+      "originalSummary": "Rego propone limitar los precios de los alquileres por ley.",
+      "originalQualification": "",
+      "metadataSha256": "821caf692eb96264932f530ed7b8b4584e110532d0441a529b60a8e7e98604e3"
+    },
+    {
+      "id": "bng-025",
+      "originalTitle": "Hipotecas",
+      "originalSummary": "Rego plantea topar también los precios de las hipotecas; la comunicación no precisa el mecanismo.",
+      "originalQualification": "",
+      "metadataSha256": "7d345ccc95b926fc95990cead08bb16ab35bce5c234925a953bf7b91171c1cca"
+    },
+    {
+      "id": "bng-026",
+      "originalTitle": "Inmuebles estatales",
+      "originalSummary": "Transferir a Galicia los activos de Sareb y Defensa para ampliar vivienda accesible.",
+      "originalQualification": "",
+      "metadataSha256": "a53ed4d4c28ceded50da78a1df5c00f31bddbafda4a28a1c1f054be8952ca00b"
+    },
+    {
+      "id": "bng-027",
+      "originalTitle": "Viviendas turísticas",
+      "originalSummary": "Intervenir frente al uso turístico para recuperar oferta residencial; sin umbrales concretados en esta fuente.",
+      "originalQualification": "",
+      "metadataSha256": "bd3bdf17d3570090954aef0565228e9c67121c9d1604e95c000b7f0a8577a924"
+    },
+    {
+      "id": "bng-028",
+      "originalTitle": "Salario mínimo",
+      "originalSummary": "Elevar el SMI al 60% del salario medio.",
+      "originalQualification": "",
+      "metadataSha256": "fe5a1448a5b17b57333e27698903395748349ee5d5080d429cf37a284b9e5b2f"
+    },
+    {
+      "id": "bng-029",
+      "originalTitle": "Reformas laborales",
+      "originalSummary": "Derogar íntegramente las reformas que considera regresivas, incluyendo el abaratamiento del despido.",
+      "originalQualification": "",
+      "metadataSha256": "58b032a1562865ff9472811351cc62b3bbbc031d639e814d89340f93e9cf09e5"
+    },
+    {
+      "id": "bng-030",
+      "originalTitle": "Bajas médicas",
+      "originalSummary": "Mantener la protección por enfermedad y oponerse a que empresas, mediante mutuas, decidan la reincorporación.",
+      "originalQualification": "",
+      "metadataSha256": "91659930951fe61a8d6ea9a72f2f6916a7aefb05cb61492817fad9c1dbb08257"
+    },
+    {
+      "id": "bng-031",
+      "originalTitle": "Precios energéticos",
+      "originalSummary": "Carme da Silva defiende topar los precios de energía para hogares.",
+      "originalQualification": "",
+      "metadataSha256": "186fff449e57a635f1ba86774c4531f3abafe0b0874cc6044fab438f7f984924"
+    },
+    {
+      "id": "bng-032",
+      "originalTitle": "Cadena alimentaria",
+      "originalSummary": "Intervenir para garantizar remuneración digna de productores y alimentos asequibles.",
+      "originalQualification": "",
+      "metadataSha256": "a50f31554fac7ddabdaf2e920f0710a250a0bc1e02ca150b849f37ff0b92da8e"
+    },
+    {
+      "id": "bng-principio-1",
+      "originalTitle": "Soberanía nacional de Galicia y autodeterminación de los pueblos.",
+      "metadataSha256": "4aa85e7225a91905792cd3f64f5c59ef2da6853677cc7310dc171241e5e6e6b2"
+    },
+    {
+      "id": "bng-principio-2",
+      "originalTitle": "Transformación social y eliminación de la dominación de clase y género.",
+      "metadataSha256": "4aa85e7225a91905792cd3f64f5c59ef2da6853677cc7310dc171241e5e6e6b2"
+    },
+    {
+      "id": "bng-principio-3",
+      "originalTitle": "Participación política también en movimientos sociales, culturales y sindicales.",
+      "metadataSha256": "4aa85e7225a91905792cd3f64f5c59ef2da6853677cc7310dc171241e5e6e6b2"
+    }
+  ]
+}

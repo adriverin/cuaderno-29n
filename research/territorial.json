@@ -443,19 +443,19 @@
       "description": "Independentismo catalán de izquierdas y republicanismo. Se distinguen sus compromisos estratégicos de las propuestas anunciadas durante 2026.",
       "ideals": [
         {
-          "text": "Independencia y construcción nacional desde posiciones de izquierda.",
+          "text": "Defender la independencia de Cataluña y construir sus instituciones nacionales desde posiciones de izquierda.",
           "sourceIds": [
             "erc-congreso"
           ]
         },
         {
-          "text": "Feminismo, derechos LGTBIQ+ y servicios públicos.",
+          "text": "Defender la igualdad entre mujeres y hombres, los derechos de las diversidades sexuales y de género y los servicios públicos.",
           "sourceIds": [
             "erc-congreso"
           ]
         },
         {
-          "text": "Pacifismo y autonomía europea.",
+          "text": "Priorizar la paz y una Europa con capacidad propia para decidir en asuntos internacionales.",
           "sourceIds": [
             "erc-congreso"
           ]
@@ -472,8 +472,8 @@
         {
           "id": "erc-001",
           "topic": "vivienda",
-          "title": "Fiscalidad residencial",
-          "summary": "Reducir IVA e ITP para vivienda habitual; elevarlos para otros usos.",
+          "title": "Cobrar menos impuestos por la vivienda habitual y más por otros usos",
+          "summary": "Reducir el IVA y el impuesto de transmisiones patrimoniales, que gravan distintas compras de vivienda, cuando se adquiera una vivienda habitual. Aumentarlos para otros usos de los inmuebles.",
           "kind": "statement",
           "sourceIds": [
             "erc-casa"
@@ -485,8 +485,8 @@
         {
           "id": "erc-002",
           "topic": "vivienda",
-          "title": "Alquiler turístico",
-          "summary": "Aplicar un IVA del 21% al alquiler turístico.",
+          "title": "Aplicar un IVA del 21 % a los alquileres turísticos",
+          "summary": "Aplicar un impuesto sobre el valor añadido (IVA) del 21 % al alquiler de viviendas para uso turístico. Es un anuncio de campaña, no una descripción de una norma ya aprobada.",
           "kind": "statement",
           "sourceIds": [
             "erc-casa"
@@ -498,8 +498,8 @@
         {
           "id": "erc-003",
           "topic": "vivienda",
-          "title": "Recargo local",
-          "summary": "Permitir recargos del IBI a usos turísticos, segundas residencias y viviendas vacías en zonas tensionadas.",
+          "title": "Permitir un impuesto municipal mayor para ciertos usos de vivienda",
+          "summary": "Permitir a los ayuntamientos añadir recargos al IBI, el impuesto sobre inmuebles, para viviendas turísticas, segundas residencias y viviendas vacías en zonas con problemas de acceso a la vivienda.",
           "kind": "statement",
           "sourceIds": [
             "erc-casa"
@@ -511,8 +511,8 @@
         {
           "id": "erc-004",
           "topic": "vivienda",
-          "title": "Primera vivienda",
-          "summary": "Ofrecer ayudas e incentivos fiscales progresivos para adquirir la primera vivienda.",
+          "title": "Dar ayudas para comprar la primera vivienda según los recursos de cada persona",
+          "summary": "Ofrecer ayudas y descuentos fiscales para adquirir la primera vivienda con criterios progresivos. Esto significa que el apoyo se graduaría según la situación económica, en lugar de ser igual para todo el mundo.",
           "kind": "statement",
           "sourceIds": [
             "erc-casa"
@@ -524,8 +524,8 @@
         {
           "id": "erc-005",
           "topic": "clima",
-          "title": "Rehabilitación e incentivos",
-          "summary": "Bonificar fiscalmente rehabilitación, vivienda protegida, paneles solares y eficiencia energética.",
+          "title": "Ofrecer descuentos fiscales para rehabilitar viviendas y ahorrar energía",
+          "summary": "Reducir la carga de impuestos en actuaciones de rehabilitación, vivienda protegida, instalación de paneles solares y mejoras de eficiencia energética. La ficha no concreta los porcentajes de descuento.",
           "kind": "statement",
           "sourceIds": [
             "erc-casa"
@@ -537,8 +537,8 @@
         {
           "id": "erc-006",
           "topic": "vivienda",
-          "title": "Protección de inquilinos",
-          "summary": "Reforzar derechos del alquiler y evitar desahucios de personas vulnerables.",
+          "title": "Reforzar los derechos de inquilinos y evitar desahucios de personas vulnerables",
+          "summary": "Mejorar las protecciones de quienes viven de alquiler y evitar que personas en situación vulnerable pierdan su vivienda por un desahucio. La propuesta no desarrolla aquí todos los requisitos de protección.",
           "kind": "statement",
           "sourceIds": [
             "erc-casa"
@@ -550,8 +550,8 @@
         {
           "id": "erc-007",
           "topic": "vivienda",
-          "title": "Alquiler temporal",
-          "summary": "Reforzar su regulación respetando las competencias catalanas.",
+          "title": "Regular mejor los alquileres temporales respetando las competencias catalanas",
+          "summary": "Reforzar las reglas aplicables a los alquileres de temporada, contratados para una estancia temporal. Hacerlo respetando las competencias de Cataluña para legislar o gestionar en esta materia.",
           "kind": "statement",
           "sourceIds": [
             "erc-casa"
@@ -563,8 +563,8 @@
         {
           "id": "erc-008",
           "topic": "vivienda",
-          "title": "SOCIMI",
-          "summary": "Eliminar su ventaja en Sociedades y exigir alquileres de al menos siete años, excluyendo turismo y temporada.",
+          "title": "Quitar ventajas fiscales a las SOCIMI y exigir alquileres de siete años",
+          "summary": "Eliminar la ventaja en el impuesto de sociedades de las SOCIMI, empresas dedicadas a invertir en inmuebles para alquilarlos. Exigir contratos de al menos siete años y excluir de ese esquema el alquiler turístico y de temporada.",
           "kind": "statement",
           "sourceIds": [
             "erc-casa"
@@ -576,8 +576,8 @@
         {
           "id": "erc-009",
           "topic": "territorio",
-          "title": "Financiación catalana",
-          "summary": "Defender el nuevo modelo de financiación y la condonación parcial de la deuda del FLA.",
+          "title": "Reformar la financiación de Cataluña y perdonar parte de su deuda con el Estado",
+          "summary": "Defender un nuevo modelo de financiación y la condonación parcial de la deuda catalana con el Fondo de Liquidez Autonómico, el mecanismo estatal de préstamos a comunidades. Condonar significa perdonar parte de la devolución.",
           "kind": "statement",
           "sourceIds": [
             "erc-fiscal"
@@ -589,8 +589,8 @@
         {
           "id": "erc-010",
           "topic": "territorio",
-          "title": "Recaudación del IRPF",
-          "summary": "Reclamar que se resuelva el traspaso de la recaudación del IRPF a Cataluña.",
+          "title": "Hacer que Cataluña recaude el impuesto sobre la renta",
+          "summary": "Reclamar que se resuelva el traspaso a Cataluña de la recaudación del IRPF, el impuesto sobre los ingresos de las personas. La ficha recoge la petición, no acredita que la transferencia esté completada.",
           "kind": "statement",
           "sourceIds": [
             "erc-irpf"
@@ -602,86 +602,86 @@
         {
           "id": "erc-011",
           "topic": "sanidad",
-          "title": "Financiación sanitaria",
-          "summary": "Defender un fondo extraordinario de 250 millones para la sanidad catalana.",
+          "title": "Destinar 250 millones extraordinarios a la sanidad catalana",
+          "summary": "Defender un fondo adicional de 250 millones de euros para la sanidad de Cataluña. La ficha recoge la propuesta y no verifica cuánto se ha gastado realmente.",
           "kind": "official_position",
           "sourceIds": [
             "erc-budget"
           ],
           "locator": "Medidas presupuestarias",
           "date": "2026-06-04",
-          "qualification": "Ámbito autonómico; ejecución no auditada."
+          "qualification": "Propuesta para Cataluña. Este cuaderno no comprueba cuánto se ha aplicado o gastado."
         },
         {
           "id": "erc-012",
           "topic": "vivienda",
-          "title": "Programa Regenera",
-          "summary": "Impulsar rehabilitación con 160 millones anuales y una línea financiera adicional de 50 millones.",
+          "title": "Financiar rehabilitación de viviendas con el programa Regenera",
+          "summary": "Impulsar mejoras y rehabilitación con 160 millones de euros anuales y una línea adicional de financiación de 50 millones. La propuesta tiene ámbito catalán y su ejecución no se ha auditado en este cuaderno.",
           "kind": "official_position",
           "sourceIds": [
             "erc-budget"
           ],
           "locator": "Medidas presupuestarias",
           "date": "2026-06-04",
-          "qualification": "Ámbito autonómico; ejecución no auditada."
+          "qualification": "Propuesta para Cataluña. Este cuaderno no comprueba cuánto se ha aplicado o gastado."
         },
         {
           "id": "erc-013",
           "topic": "rural",
-          "title": "Plan de pueblos",
-          "summary": "Defender 400 millones para rehabilitación, adaptación climática y actividad de pequeños municipios.",
+          "title": "Dedicar 400 millones a mejorar pequeños municipios",
+          "summary": "Defender 400 millones de euros para rehabilitación, adaptación al cambio climático y actividad económica en pequeños municipios de Cataluña. La ficha no verifica el grado de ejecución.",
           "kind": "official_position",
           "sourceIds": [
             "erc-budget"
           ],
           "locator": "Medidas presupuestarias",
           "date": "2026-06-04",
-          "qualification": "Ámbito autonómico; ejecución no auditada."
+          "qualification": "Propuesta para Cataluña. Este cuaderno no comprueba cuánto se ha aplicado o gastado."
         },
         {
           "id": "erc-014",
           "topic": "tecnologia",
-          "title": "Catalán digital",
-          "summary": "Apoyar iniciativas que amplíen el uso del catalán en redes sociales.",
+          "title": "Ampliar la presencia del catalán en las redes sociales",
+          "summary": "Apoyar iniciativas que permitan utilizar y encontrar más contenidos en catalán en redes sociales. La ficha no acredita los resultados de esas iniciativas.",
           "kind": "official_position",
           "sourceIds": [
             "erc-budget"
           ],
           "locator": "Medidas presupuestarias",
           "date": "2026-06-04",
-          "qualification": "Ámbito autonómico; ejecución no auditada."
+          "qualification": "Propuesta para Cataluña. Este cuaderno no comprueba cuánto se ha aplicado o gastado."
         },
         {
           "id": "erc-015",
           "topic": "territorio",
-          "title": "Administración tributaria",
-          "summary": "Reforzar la Agencia Tributaria Catalana con 527 millones en tres años.",
+          "title": "Reforzar la Agencia Tributaria Catalana con 527 millones en tres años",
+          "summary": "Destinar 527 millones de euros durante tres años a fortalecer el organismo que gestiona impuestos en Cataluña. La ficha no verifica cuánto se ha ejecutado de esa financiación.",
           "kind": "official_position",
           "sourceIds": [
             "erc-budget"
           ],
           "locator": "Medidas presupuestarias",
           "date": "2026-06-04",
-          "qualification": "Ámbito autonómico; ejecución no auditada."
+          "qualification": "Propuesta para Cataluña. Este cuaderno no comprueba cuánto se ha aplicado o gastado."
         },
         {
           "id": "erc-016",
           "topic": "educacion",
-          "title": "Plantillas y ratios",
-          "summary": "Ampliar plantillas docentes y reducir ratios para reforzar la educación pública inclusiva.",
+          "title": "Contratar más docentes y reducir el número de alumnos por aula",
+          "summary": "Ampliar las plantillas y reducir las ratios, es decir, el número de alumnos por docente o grupo, para reforzar la enseñanza pública inclusiva en Cataluña. La ficha no fija aquí un número final de alumnos.",
           "kind": "official_position",
           "sourceIds": [
             "erc-educa"
           ],
           "locator": "Apoyo a la movilización docente",
           "date": "2026-02-11",
-          "qualification": "Ámbito autonómico catalán."
+          "qualification": "La propuesta se refiere a las competencias y servicios de Cataluña."
         },
         {
           "id": "erc-017",
           "topic": "inmigracion",
-          "title": "Regularización",
-          "summary": "Apoyar la regularización extraordinaria para reconocer derechos laborales y sociales.",
+          "title": "Apoyar la regularización para reconocer derechos laborales y sociales",
+          "summary": "Respaldar una regularización extraordinaria que permita a personas migrantes sin permiso obtener una situación legal y acceder con mayor protección a derechos laborales y sociales.",
           "kind": "statement",
           "sourceIds": [
             "erc-migra"
@@ -693,8 +693,8 @@
         {
           "id": "erc-018",
           "topic": "inmigracion",
-          "title": "Arraigo y catalán",
-          "summary": "Reconocer el aprendizaje del catalán como vía voluntaria de arraigo, sin convertirlo en requisito excluyente.",
+          "title": "Contar el aprendizaje del catalán como prueba voluntaria de integración",
+          "summary": "Reconocer que aprender catalán puede acreditar arraigo, es decir, vínculos con la sociedad de acogida. Hacerlo de forma voluntaria, sin excluir a una persona solo por no utilizar esa vía.",
           "kind": "statement",
           "sourceIds": [
             "erc-migra"
@@ -706,8 +706,8 @@
         {
           "id": "erc-019",
           "topic": "inmigracion",
-          "title": "Expedientes pendientes",
-          "summary": "Revisar exclusiones de la regularización que afecten a personas con solicitudes ordinarias todavía pendientes.",
+          "title": "Revisar exclusiones de la regularización cuando hay otra solicitud pendiente",
+          "summary": "Reexaminar los casos de personas que quedan fuera de la regularización extraordinaria por tener todavía sin resolver una solicitud por la vía ordinaria.",
           "kind": "official_position",
           "sourceIds": [
             "erc-migra2"
@@ -719,8 +719,8 @@
         {
           "id": "erc-020",
           "topic": "empleo",
-          "title": "Jornada de 37,5 horas",
-          "summary": "Defender la reducción desde 40 a 37,5 horas semanales.",
+          "title": "Reducir la jornada de 40 a 37,5 horas semanales",
+          "summary": "Defender que la duración semanal del trabajo pase de 40 a 37,5 horas. La posición se publicó en septiembre de 2025 y no se ha confirmado aquí como compromiso del programa de 2026.",
           "kind": "statement",
           "sourceIds": [
             "erc-jornada"
@@ -732,8 +732,8 @@
         {
           "id": "erc-021",
           "topic": "empleo",
-          "title": "Relaciones laborales catalanas",
-          "summary": "Defender un marco catalán de relaciones laborales y la economía social y solidaria.",
+          "title": "Dar a Cataluña un marco propio para las relaciones laborales",
+          "summary": "Defender reglas e instituciones catalanas para las relaciones entre empresas y trabajadores. Apoyar también la economía social y solidaria, como organizaciones que priorizan fines sociales y participación colectiva.",
           "kind": "official_position",
           "sourceIds": [
             "erc-trabajo"
@@ -745,8 +745,8 @@
         {
           "id": "erc-022",
           "topic": "pensiones",
-          "title": "Pensiones y autonomía",
-          "summary": "Defender pensiones suficientes, autonomía personal y respuesta a la soledad no deseada.",
+          "title": "Garantizar pensiones suficientes y apoyo para vivir con autonomía",
+          "summary": "Defender pensiones que permitan vivir dignamente, apoyo a la autonomía personal y medidas contra la soledad no deseada. La fuente expresa principios generales y no fija importes ni plazos.",
           "kind": "official_position",
           "sourceIds": [
             "erc-mayores"
@@ -758,8 +758,8 @@
         {
           "id": "erc-023",
           "topic": "economia",
-          "title": "Fiscalidad ante la crisis",
-          "summary": "Bajar IRPF a rentas bajas, elevar la contribución de las altas y estudiar un gravamen extraordinario energético.",
+          "title": "Bajar impuestos a rentas bajas y aumentar la aportación de las altas durante la crisis",
+          "summary": "Proponer una rebaja del impuesto sobre la renta para ingresos bajos y una mayor contribución de los altos. Estudiar también un impuesto extraordinario a las energéticas. El paquete se planteó en marzo de 2026 y no se incorporó íntegro al decreto.",
           "kind": "official_position",
           "sourceIds": [
             "erc-iran"
@@ -771,8 +771,8 @@
         {
           "id": "erc-024",
           "topic": "empleo",
-          "title": "Ayudas y despidos",
-          "summary": "Prohibir despidos en empresas receptoras de ayudas públicas durante la crisis.",
+          "title": "Impedir despidos en empresas que reciben ayudas públicas durante la crisis",
+          "summary": "Condicionar las ayudas públicas a que las empresas beneficiarias no despidan durante la crisis. La propuesta formó parte de un paquete de marzo de 2026; no se acredita aquí que todo él se aprobara.",
           "kind": "official_position",
           "sourceIds": [
             "erc-iran"
@@ -784,8 +784,8 @@
         {
           "id": "erc-025",
           "topic": "economia",
-          "title": "Precios básicos",
-          "summary": "Reforzar el control público y de la CNMC sobre productos básicos y combustibles.",
+          "title": "Reforzar la vigilancia pública de precios de productos básicos y combustibles",
+          "summary": "Dar más capacidad de control a las autoridades y a la Comisión Nacional de los Mercados y la Competencia para vigilar estos mercados. La ficha no fija precios máximos concretos.",
           "kind": "official_position",
           "sourceIds": [
             "erc-iran"
@@ -797,8 +797,8 @@
         {
           "id": "erc-026",
           "topic": "clima",
-          "title": "Protección energética",
-          "summary": "Apoyar el bono social, el autoconsumo y las renovables.",
+          "title": "Apoyar descuentos de electricidad y producción renovable para consumo propio",
+          "summary": "Respaldar el bono social, un descuento en la factura eléctrica para quienes cumplen sus requisitos. Impulsar también el autoconsumo, como generar electricidad con paneles propios, y las energías renovables.",
           "kind": "official_position",
           "sourceIds": [
             "erc-energia"
@@ -810,8 +810,8 @@
         {
           "id": "erc-027",
           "topic": "exterior",
-          "title": "Guerra en Irán",
-          "summary": "Inés Granollers condena los ataques de Estados Unidos e Israel y defiende una política antibelicista.",
+          "title": "Condenar los ataques a Irán y oponerse a la guerra",
+          "summary": "Condenar los ataques de Estados Unidos e Israel contra Irán y defender una política contraria a la guerra. La ficha recoge una declaración de su representante, no un plan detallado de actuación.",
           "kind": "statement",
           "sourceIds": [
             "erc-energia"
@@ -823,8 +823,8 @@
         {
           "id": "erc-028",
           "topic": "exterior",
-          "title": "Palestina",
-          "summary": "Reclamar medidas en defensa de los derechos palestinos y del derecho internacional.",
+          "title": "Defender los derechos palestinos y el derecho internacional",
+          "summary": "Reclamar actuaciones en defensa de los derechos de la población palestina y del cumplimiento de las normas internacionales. La ficha no concreta aquí un paquete de sanciones o medidas.",
           "kind": "statement",
           "sourceIds": [
             "erc-palestina"
@@ -836,8 +836,8 @@
         {
           "id": "erc-029",
           "topic": "sanidad",
-          "title": "Salud bucodental",
-          "summary": "Defender la ampliación de la cobertura pública bucodental para jóvenes.",
+          "title": "Ampliar la atención dental pública para jóvenes",
+          "summary": "Defender que los servicios públicos cubran más atención a la salud de la boca y los dientes de los jóvenes. La fuente enlaza la propuesta, pero no detalla cómo se financiaría.",
           "kind": "official_position",
           "sourceIds": [
             "erc-salud"
@@ -849,67 +849,67 @@
         {
           "id": "erc-030",
           "topic": "igualdad",
-          "title": "Igualdad y diversidad",
-          "summary": "Garantizar igualdad salarial y derechos sexuales, reproductivos y LGTBIQ+.",
+          "title": "Garantizar igualdad salarial y derechos sexuales y de género",
+          "summary": "Defender la igualdad de salarios y los derechos sexuales, reproductivos y de las personas LGTBIQ+. Es una posición estratégica de 2025, no un compromiso específico del programa del 29N verificado.",
           "kind": "official_position",
           "sourceIds": [
             "erc-congreso"
           ],
           "locator": "p. 37",
           "date": "2025-03",
-          "qualification": "Ponencia estratégica de marzo de 2025; no compromiso electoral 29N verificado."
+          "qualification": "Posición de un documento de orientación política de marzo de 2025. No se ha verificado como compromiso del programa del 29N."
         },
         {
           "id": "erc-031",
           "topic": "seguridad",
-          "title": "Seguridad preventiva",
-          "summary": "Priorizar proximidad, prevención, mediación y reinserción penal.",
+          "title": "Priorizar una seguridad basada en prevención, cercanía y reinserción",
+          "summary": "Dar más peso a prevenir problemas, a la policía de proximidad y a la mediación en conflictos. Favorecer que quienes cumplen una pena puedan reintegrarse en la sociedad.",
           "kind": "official_position",
           "sourceIds": [
             "erc-congreso"
           ],
           "locator": "pp. 64–65",
           "date": "2025-03",
-          "qualification": "Ponencia estratégica de marzo de 2025; no compromiso electoral 29N verificado."
+          "qualification": "Posición de un documento de orientación política de marzo de 2025. No se ha verificado como compromiso del programa del 29N."
         },
         {
           "id": "erc-032",
           "topic": "tecnologia",
-          "title": "Soberanía digital",
-          "summary": "Reforzar infraestructura digital y datos bajo capacidad pública catalana.",
+          "title": "Dar a Cataluña más control público sobre sus infraestructuras y datos digitales",
+          "summary": "Reforzar la capacidad pública catalana para decidir sobre infraestructuras digitales y datos. La propuesta pertenece a un documento estratégico de 2025 y no concreta aquí inversiones o plazos.",
           "kind": "official_position",
           "sourceIds": [
             "erc-congreso"
           ],
           "locator": "pp. 53–54",
           "date": "2025-03",
-          "qualification": "Ponencia estratégica de marzo de 2025; no compromiso electoral 29N verificado."
+          "qualification": "Posición de un documento de orientación política de marzo de 2025. No se ha verificado como compromiso del programa del 29N."
         },
         {
           "id": "erc-033",
           "topic": "instituciones",
-          "title": "Reforma electoral",
-          "summary": "Impulsar una ley electoral catalana con listas desbloqueadas.",
+          "title": "Permitir elegir candidatos dentro de las listas en elecciones catalanas",
+          "summary": "Impulsar una ley electoral catalana con listas desbloqueadas: dar al votante capacidad de elegir o alterar el orden de candidatos de una lista. La ficha no detalla el sistema de voto concreto.",
           "kind": "official_position",
           "sourceIds": [
             "erc-congreso"
           ],
           "locator": "p. 75",
           "date": "2025-03",
-          "qualification": "Ponencia estratégica de marzo de 2025; no compromiso electoral 29N verificado."
+          "qualification": "Posición de un documento de orientación política de marzo de 2025. No se ha verificado como compromiso del programa del 29N."
         },
         {
           "id": "erc-034",
           "topic": "exterior",
-          "title": "OTAN",
-          "summary": "Favorecer una salida de los Estados europeos de la OTAN.",
+          "title": "Favorecer que los Estados europeos salgan de la OTAN",
+          "summary": "Defender la salida de los países europeos de la alianza militar atlántica. Es una posición estratégica de 2025 y no un calendario de retirada verificado para el 29N.",
           "kind": "official_position",
           "sourceIds": [
             "erc-congreso"
           ],
           "locator": "p. 11",
           "date": "2025-03",
-          "qualification": "Ponencia estratégica de marzo de 2025; no compromiso electoral 29N verificado."
+          "qualification": "Posición de un documento de orientación política de marzo de 2025. No se ha verificado como compromiso del programa del 29N."
         }
       ],
       "gaps": [
@@ -944,19 +944,19 @@
       "description": "Independentismo catalán, defensa del autogobierno y apoyo a la actividad empresarial. Se muestran posiciones temáticas y propuestas concretas con su ámbito institucional.",
       "ideals": [
         {
-          "text": "Independencia de Cataluña y defensa de sus instituciones y competencias.",
+          "text": "Defender la independencia de Cataluña y las competencias de sus instituciones.",
           "sourceIds": [
             "junts-nacio"
           ]
         },
         {
-          "text": "Menor presión fiscal sobre rentas medias, autónomos y pymes.",
+          "text": "Reducir la carga de impuestos de las rentas medias, los autónomos y las pequeñas y medianas empresas.",
           "sourceIds": [
             "junts-tax"
           ]
         },
         {
-          "text": "Promoción del catalán como lengua de cohesión e integración.",
+          "text": "Promover el catalán como lengua compartida que facilite la convivencia y la integración.",
           "sourceIds": [
             "junts-lang"
           ]
@@ -973,8 +973,8 @@
         {
           "id": "junts-001",
           "topic": "economia",
-          "title": "IRPF",
-          "summary": "Reducir la carga del IRPF de rentas medias y trabajadoras.",
+          "title": "Reducir el impuesto sobre la renta de trabajadores y rentas medias",
+          "summary": "Bajar la carga del IRPF, el impuesto sobre los ingresos personales, para trabajadores y personas con rentas medias. La página citada no concreta aquí nuevos tipos ni límites de ingresos.",
           "kind": "official_position",
           "sourceIds": [
             "junts-tax"
@@ -986,8 +986,8 @@
         {
           "id": "junts-002",
           "topic": "economia",
-          "title": "Sucesiones",
-          "summary": "Eliminar sucesiones entre padres e hijos para la vivienda familiar.",
+          "title": "Eliminar el impuesto al heredar la vivienda familiar de padres a hijos",
+          "summary": "Suprimir el impuesto de sucesiones cuando la vivienda familiar pase por herencia entre padres e hijos. La propuesta no equivale a eliminar todos los impuestos de todas las herencias.",
           "kind": "official_position",
           "sourceIds": [
             "junts-tax"
@@ -999,8 +999,8 @@
         {
           "id": "junts-003",
           "topic": "vivienda",
-          "title": "Deducciones residenciales",
-          "summary": "Recuperar desgravaciones por alquiler e hipoteca de vivienda habitual.",
+          "title": "Recuperar deducciones por alquiler e hipoteca de la vivienda habitual",
+          "summary": "Restablecer descuentos en los impuestos por pagar el alquiler o la hipoteca de la casa en la que se reside habitualmente. La ficha no concreta las cuantías ni todos los requisitos.",
           "kind": "official_position",
           "sourceIds": [
             "junts-tax"
@@ -1012,8 +1012,8 @@
         {
           "id": "junts-004",
           "topic": "economia",
-          "title": "Pymes que reinvierten",
-          "summary": "Revisar Sociedades para favorecer a pymes que reinvierten.",
+          "title": "Favorecer fiscalmente a pequeñas empresas que reinvierten sus beneficios",
+          "summary": "Revisar el impuesto de sociedades, que grava los beneficios empresariales, para dar un trato más favorable a pequeñas y medianas empresas que reinviertan lo ganado en su actividad.",
           "kind": "official_position",
           "sourceIds": [
             "junts-tax"
@@ -1025,8 +1025,8 @@
         {
           "id": "junts-005",
           "topic": "pensiones",
-          "title": "Fiscalidad de pensiones",
-          "summary": "Reducir su carga tributaria.",
+          "title": "Reducir los impuestos que se pagan por las pensiones",
+          "summary": "Disminuir la carga fiscal sobre los ingresos procedentes de pensiones. La página de origen no fija aquí una rebaja concreta ni los importes de pensión a los que se aplicaría.",
           "kind": "official_position",
           "sourceIds": [
             "junts-tax"
@@ -1038,8 +1038,8 @@
         {
           "id": "junts-006",
           "topic": "empleo",
-          "title": "Derechos de autónomos",
-          "summary": "Equiparar derechos de conciliación y trabajo intermitente con los asalariados.",
+          "title": "Dar a autónomos derechos de conciliación comparables a los de asalariados",
+          "summary": "Acercar los derechos de quienes trabajan por cuenta propia a los de los empleados, especialmente para conciliar trabajo y vida familiar y para situaciones de trabajo intermitente, con períodos de actividad y de inactividad.",
           "kind": "official_position",
           "sourceIds": [
             "junts-tax"
@@ -1051,8 +1051,8 @@
         {
           "id": "junts-007",
           "topic": "economia",
-          "title": "Cuotas de autónomos",
-          "summary": "Revisar cuotas y promover una fiscalidad más progresiva del trabajo autónomo.",
+          "title": "Revisar cuotas e impuestos de los autónomos según sus recursos",
+          "summary": "Revisar las cuotas de Seguridad Social y hacer más progresiva la fiscalidad del trabajo autónomo. Una fiscalidad progresiva exige una mayor aportación relativa a quienes tienen más capacidad económica.",
           "kind": "official_position",
           "sourceIds": [
             "junts-tax"
@@ -1064,112 +1064,112 @@
         {
           "id": "junts-008",
           "topic": "sanidad",
-          "title": "Listas de espera",
-          "summary": "Plan extraordinario con más personal, capacidad asistencial y menos burocracia.",
+          "title": "Reducir las listas de espera con más personal y menos burocracia",
+          "summary": "Plantear un plan extraordinario para la sanidad catalana que aumente profesionales y capacidad de atención y reduzca trámites. La ficha no audita sus resultados.",
           "kind": "official_position",
           "sourceIds": [
             "junts-health"
           ],
           "locator": "Propuestas sanitarias",
           "date": null,
-          "qualification": "Ámbito principalmente catalán; no auditoría de resultados."
+          "qualification": "Propuesta centrada en Cataluña. Este cuaderno no verifica sus resultados."
         },
         {
           "id": "junts-009",
           "topic": "sanidad",
-          "title": "Transparencia sanitaria",
-          "summary": "Publicar datos actualizados sobre tiempos de espera.",
+          "title": "Publicar información actualizada de las esperas sanitarias",
+          "summary": "Hacer públicos datos al día sobre cuánto esperan los pacientes para recibir atención en la sanidad catalana. La ficha recoge la propuesta, no verifica el cumplimiento de la publicación.",
           "kind": "official_position",
           "sourceIds": [
             "junts-health"
           ],
           "locator": "Propuestas sanitarias",
           "date": null,
-          "qualification": "Ámbito principalmente catalán; no auditoría de resultados."
+          "qualification": "Propuesta centrada en Cataluña. Este cuaderno no verifica sus resultados."
         },
         {
           "id": "junts-010",
           "topic": "educacion",
-          "title": "Distrito universitario propio",
-          "summary": "Sustituir el distrito único estatal por uno catalán para el acceso universitario.",
+          "title": "Crear un sistema catalán propio de acceso a la universidad",
+          "summary": "Sustituir el distrito universitario único estatal por un distrito catalán. Esto supone organizar desde un ámbito propio catalán el sistema de acceso a las universidades.",
           "kind": "official_position",
           "sourceIds": [
             "junts-health"
           ],
           "locator": "Propuestas sanitarias",
           "date": null,
-          "qualification": "Ámbito principalmente catalán; no auditoría de resultados."
+          "qualification": "Propuesta centrada en Cataluña. Este cuaderno no verifica sus resultados."
         },
         {
           "id": "junts-011",
           "topic": "sanidad",
-          "title": "ELA",
-          "summary": "Defender atención continuada y ayudas de dependencia para personas con ELA.",
+          "title": "Dar atención continuada y ayudas de dependencia a personas con ELA",
+          "summary": "Garantizar continuidad en la atención y apoyo de dependencia a quienes tienen esclerosis lateral amiotrófica, o ELA, una enfermedad que afecta progresivamente al control de los músculos.",
           "kind": "official_position",
           "sourceIds": [
             "junts-health"
           ],
           "locator": "Propuestas sanitarias",
           "date": null,
-          "qualification": "Ámbito principalmente catalán; no auditoría de resultados."
+          "qualification": "Propuesta centrada en Cataluña. Este cuaderno no verifica sus resultados."
         },
         {
           "id": "junts-012",
           "topic": "educacion",
-          "title": "Recursos escolares",
-          "summary": "Reducir ratios y ampliar docentes y profesionales de apoyo.",
+          "title": "Reducir alumnos por aula y contratar más personal de apoyo",
+          "summary": "Disminuir las ratios escolares, es decir, el número de alumnos por docente o grupo, y ampliar profesores y profesionales de apoyo en Cataluña.",
           "kind": "official_position",
           "sourceIds": [
             "junts-edu"
           ],
           "locator": "Propuestas educativas",
           "date": null,
-          "qualification": "Ámbito autonómico catalán."
+          "qualification": "La propuesta se refiere a las competencias y servicios de Cataluña."
         },
         {
           "id": "junts-013",
           "topic": "educacion",
-          "title": "Financiación educativa",
-          "summary": "Elevar progresivamente la inversión hasta el objetivo del 6% del PIB.",
+          "title": "Aumentar la inversión educativa hasta el 6 % de la economía",
+          "summary": "Elevar progresivamente el gasto en educación en Cataluña hasta el objetivo del 6 % del PIB. El PIB es el valor de la producción económica de un territorio; no es el porcentaje del presupuesto público.",
           "kind": "official_position",
           "sourceIds": [
             "junts-edu"
           ],
           "locator": "Propuestas educativas",
           "date": null,
-          "qualification": "Ámbito autonómico catalán."
+          "qualification": "La propuesta se refiere a las competencias y servicios de Cataluña."
         },
         {
           "id": "junts-014",
           "topic": "educacion",
-          "title": "Salarios docentes",
-          "summary": "Acordar mejoras salariales plurianuales con calendario y cifras verificables.",
+          "title": "Pactar subidas de sueldo para docentes con plazos y cifras claras",
+          "summary": "Acordar mejoras salariales para el profesorado durante varios años, indicando cuánto subirían los sueldos y en qué fechas. La propuesta tiene ámbito educativo catalán.",
           "kind": "official_position",
           "sourceIds": [
             "junts-edu"
           ],
           "locator": "Propuestas educativas",
           "date": null,
-          "qualification": "Ámbito autonómico catalán."
+          "qualification": "La propuesta se refiere a las competencias y servicios de Cataluña."
         },
         {
           "id": "junts-015",
           "topic": "educacion",
-          "title": "Acuerdo educativo",
-          "summary": "Promover un acuerdo de país con participación de la comunidad educativa.",
+          "title": "Acordar las prioridades educativas con la comunidad escolar",
+          "summary": "Promover un acuerdo amplio en Cataluña con participación de quienes forman parte del sistema educativo. La ficha no concreta aquí cambios legales o de presupuesto.",
           "kind": "official_position",
           "sourceIds": [
             "junts-edu"
           ],
           "locator": "Propuestas educativas",
           "date": null,
-          "qualification": "Ámbito autonómico catalán."
+          "qualification": "La propuesta se refiere a las competencias y servicios de Cataluña."
         },
         {
           "id": "junts-016",
           "topic": "inmigracion",
-          "title": "Competencias migratorias",
-          "summary": "Reclamar gestión integral catalana de autorizaciones de residencia y trabajo, acogida e integración.",
+          "title": "Transferir a Cataluña la gestión de permisos y acogida de migrantes",
+          "summary": "Reclamar la gestión catalana de autorizaciones de residencia y trabajo, acogida e integración. La ficha recoge una petición de competencias; no acredita que ya estén transferidas por completo.",
           "kind": "official_position",
           "sourceIds": [
             "junts-migra"
@@ -1181,8 +1181,8 @@
         {
           "id": "junts-017",
           "topic": "inmigracion",
-          "title": "Integración y obligaciones",
-          "summary": "Vincular la integración al respeto de normas democráticas, convivencia, lengua y cultura catalanas.",
+          "title": "Vincular la integración al respeto de la convivencia y la lengua catalana",
+          "summary": "Defender que la integración incluya el respeto de las normas democráticas, la convivencia y la lengua y cultura catalanas. La ficha no concreta sanciones ni requisitos administrativos específicos.",
           "kind": "official_position",
           "sourceIds": [
             "junts-migra"
@@ -1194,8 +1194,8 @@
         {
           "id": "junts-018",
           "topic": "territorio",
-          "title": "Oficialidad europea del catalán",
-          "summary": "Negociar su reconocimiento como lengua oficial de la Unión Europea.",
+          "title": "Conseguir que el catalán sea lengua oficial de la Unión Europea",
+          "summary": "Negociar el reconocimiento del catalán como idioma oficial en las instituciones de la Unión Europea. La propuesta no equivale a afirmar que ese reconocimiento ya esté aprobado.",
           "kind": "official_position",
           "sourceIds": [
             "junts-lang"
@@ -1207,8 +1207,8 @@
         {
           "id": "junts-019",
           "topic": "educacion",
-          "title": "Inmersión lingüística",
-          "summary": "Defender la enseñanza mediante el modelo de inmersión en catalán.",
+          "title": "Mantener el catalán como lengua principal de enseñanza",
+          "summary": "Defender el modelo de inmersión lingüística en catalán: utilizar esa lengua como medio principal para impartir las materias escolares.",
           "kind": "official_position",
           "sourceIds": [
             "junts-lang"
@@ -1220,8 +1220,8 @@
         {
           "id": "junts-020",
           "topic": "territorio",
-          "title": "Atención en catalán",
-          "summary": "Garantizar su uso en justicia, sanidad y atención empresarial al público.",
+          "title": "Garantizar que se pueda recibir atención en catalán",
+          "summary": "Asegurar el uso del catalán en la justicia, la sanidad y la atención al público por parte de las empresas. La ficha no desarrolla todos los mecanismos de exigencia o sanción.",
           "kind": "official_position",
           "sourceIds": [
             "junts-lang"
@@ -1233,8 +1233,8 @@
         {
           "id": "junts-021",
           "topic": "territorio",
-          "title": "Independencia",
-          "summary": "Mantener la independencia catalana como objetivo político.",
+          "title": "Mantener la independencia de Cataluña como objetivo",
+          "summary": "Defender que Cataluña se convierta en un Estado independiente. La ficha expresa el objetivo político y no fija aquí un calendario ni el procedimiento para alcanzarlo.",
           "kind": "official_position",
           "sourceIds": [
             "junts-nacio"
@@ -1246,8 +1246,8 @@
         {
           "id": "junts-022",
           "topic": "instituciones",
-          "title": "Amnistía",
-          "summary": "Defender la amnistía de causas vinculadas al proceso independentista.",
+          "title": "Defender la amnistía para causas relacionadas con el independentismo",
+          "summary": "Respaldar la amnistía en las causas vinculadas al proceso independentista. Una amnistía elimina responsabilidad legal en los supuestos que cubre; la posición política no determina cómo la aplican los tribunales.",
           "kind": "official_position",
           "sourceIds": [
             "junts-nacio"
@@ -1259,8 +1259,8 @@
         {
           "id": "junts-023",
           "topic": "instituciones",
-          "title": "Transparencia",
-          "summary": "Hacer accesibles y comprensibles cuentas, decisiones y procesos institucionales.",
+          "title": "Hacer comprensibles las cuentas y decisiones de las instituciones",
+          "summary": "Publicar de forma accesible información sobre el dinero público, las decisiones y los procedimientos institucionales. La finalidad declarada es que la ciudadanía pueda entender y controlar la actuación pública.",
           "kind": "official_position",
           "sourceIds": [
             "junts-general"
@@ -1272,8 +1272,8 @@
         {
           "id": "junts-024",
           "topic": "tecnologia",
-          "title": "Transformación digital",
-          "summary": "Apoyar innovación y transformación digital de la economía.",
+          "title": "Ayudar a las empresas a innovar y utilizar tecnología digital",
+          "summary": "Apoyar la incorporación de nuevas tecnologías y la transformación digital de la economía. La ficha no concreta aquí ayudas, requisitos o importes.",
           "kind": "official_position",
           "sourceIds": [
             "junts-general"
@@ -1285,8 +1285,8 @@
         {
           "id": "junts-025",
           "topic": "clima",
-          "title": "Transición energética",
-          "summary": "Avanzar hacia energías renovables y proteger biodiversidad y espacios naturales.",
+          "title": "Impulsar renovables y proteger especies y espacios naturales",
+          "summary": "Avanzar hacia fuentes renovables de energía y proteger la biodiversidad y los espacios naturales. La página expresa un objetivo general sin un calendario concreto.",
           "kind": "official_position",
           "sourceIds": [
             "junts-general"
@@ -1298,8 +1298,8 @@
         {
           "id": "junts-026",
           "topic": "rural",
-          "title": "Relevo agrario",
-          "summary": "Favorecer formación, relevo generacional y presencia de mujeres en el sector primario.",
+          "title": "Facilitar que jóvenes y mujeres se incorporen al campo y la pesca",
+          "summary": "Favorecer la formación y el relevo generacional en el sector primario, que incluye agricultura, ganadería, actividad forestal y pesca. Promover también una mayor presencia de mujeres.",
           "kind": "official_position",
           "sourceIds": [
             "junts-rural"
@@ -1311,8 +1311,8 @@
         {
           "id": "junts-027",
           "topic": "rural",
-          "title": "Producción sostenible",
-          "summary": "Compatibilizar viabilidad económica y ambiental en agricultura, ganadería, silvicultura y pesca.",
+          "title": "Hacer compatibles la rentabilidad y la sostenibilidad del sector primario",
+          "summary": "Defender que agricultura, ganadería, gestión de bosques y pesca sean económicamente viables y respeten el medio ambiente. La ficha no fija nuevas obligaciones ni ayudas concretas.",
           "kind": "official_position",
           "sourceIds": [
             "junts-rural"
@@ -1324,8 +1324,8 @@
         {
           "id": "junts-028",
           "topic": "vivienda",
-          "title": "Temporada y habitaciones",
-          "summary": "Regular esos alquileres para prevenir fraude e intensificar inspecciones.",
+          "title": "Regular los alquileres de temporada y por habitaciones y aumentar inspecciones",
+          "summary": "Establecer controles para evitar que estos contratos se utilicen de manera fraudulenta y aumentar las inspecciones. Es una propuesta catalana de diciembre de 2024, no un compromiso del 29N verificado.",
           "kind": "official_position",
           "sourceIds": [
             "junts-housing"
@@ -1337,8 +1337,8 @@
         {
           "id": "junts-029",
           "topic": "vivienda",
-          "title": "Incentivos al alquiler",
-          "summary": "Permitir incentivos locales a propietarios que alquilen conforme al índice de referencia catalán.",
+          "title": "Dar incentivos municipales a alquileres ajustados al índice catalán",
+          "summary": "Permitir que los ayuntamientos ofrezcan ventajas a propietarios que alquilen conforme al índice de precios de referencia de Cataluña. La propuesta procede de diciembre de 2024.",
           "kind": "official_position",
           "sourceIds": [
             "junts-housing"
@@ -1350,8 +1350,8 @@
         {
           "id": "junts-030",
           "topic": "seguridad",
-          "title": "Recursos policiales",
-          "summary": "Reclamar más Mossos, medios y coordinación entre cuerpos.",
+          "title": "Aumentar los Mossos y mejorar los medios y la coordinación policial",
+          "summary": "Reclamar más agentes de los Mossos d'Esquadra, la policía de Cataluña, más recursos y mejor coordinación entre los distintos cuerpos de policía.",
           "kind": "statement",
           "sourceIds": [
             "junts-security"
@@ -1363,47 +1363,47 @@
         {
           "id": "junts-031",
           "topic": "seguridad",
-          "title": "Multirreincidencia",
-          "summary": "Endurecer las penas aplicables a delitos reiterados.",
+          "title": "Endurecer penas cuando una persona comete delitos repetidamente",
+          "summary": "Aumentar las penas por delitos reiterados, lo que se conoce como multirreincidencia. La posición procede de una ponencia estratégica de 2024.",
           "kind": "official_position",
           "sourceIds": [
             "junts-ponencia"
           ],
           "locator": "p. 194, medida 14",
           "date": "2024-10",
-          "qualification": "Ponencia estratégica de 2024."
+          "qualification": "Posición recogida en un documento de orientación política de 2024."
         },
         {
           "id": "junts-032",
           "topic": "igualdad",
-          "title": "Violencia y discriminación",
-          "summary": "Mejorar atención policial y denuncias ante violencia machista y LGTBIfobia.",
+          "title": "Mejorar la atención policial ante violencia machista y ataques LGTBI",
+          "summary": "Reforzar la atención a las víctimas y la posibilidad de denunciar violencia machista y agresiones o discriminación por orientación sexual o identidad de género. La posición procede de 2024.",
           "kind": "official_position",
           "sourceIds": [
             "junts-ponencia"
           ],
           "locator": "p. 194, medidas 17–18",
           "date": "2024-10",
-          "qualification": "Ponencia estratégica de 2024."
+          "qualification": "Posición recogida en un documento de orientación política de 2024."
         },
         {
           "id": "junts-033",
           "topic": "seguridad",
-          "title": "Emergencias accesibles",
-          "summary": "Formar a policías y servicios de emergencia para atender distintos tipos de discapacidad.",
+          "title": "Formar a policías y emergencias para atender a personas con discapacidad",
+          "summary": "Preparar a los cuerpos policiales y servicios de emergencia para atender de forma adecuada necesidades vinculadas a distintos tipos de discapacidad.",
           "kind": "official_position",
           "sourceIds": [
             "junts-ponencia"
           ],
           "locator": "p. 194, medida 16",
           "date": "2024-10",
-          "qualification": "Ponencia estratégica de 2024."
+          "qualification": "Posición recogida en un documento de orientación política de 2024."
         },
         {
           "id": "junts-034",
           "topic": "economia",
-          "title": "IRPF e inflación",
-          "summary": "Deflactar tramos catalanes, elevar el mínimo exento y reducir tipos iniciales.",
+          "title": "Ajustar el IRPF catalán a la inflación y reducir los tipos iniciales",
+          "summary": "Ajustar los tramos del impuesto sobre la renta (IRPF) en Cataluña a la subida de precios. Aumentar el mínimo de ingresos por el que no se paga y bajar los porcentajes de los primeros tramos. Es una propuesta autonómica de marzo de 2026.",
           "kind": "official_position",
           "sourceIds": [
             "junts-crisis"
@@ -1447,19 +1447,19 @@
       "description": "Soberanismo vasco de izquierdas, feminismo y transformación ecológica. Combina posiciones estatales con propuestas para Euskadi y Navarra, identificadas por separado.",
       "ideals": [
         {
-          "text": "Construcción de un Estado vasco y soberanía de Euskal Herria.",
+          "text": "Defender la creación de un Estado vasco y la capacidad de Euskal Herria para decidir su futuro político.",
           "sourceIds": [
             "bildu-statutes"
           ]
         },
         {
-          "text": "Feminismo transversal y economía social y solidaria.",
+          "text": "Aplicar la igualdad entre mujeres y hombres a todas las políticas y apoyar una economía que priorice fines sociales y cooperación.",
           "sourceIds": [
             "bildu-statutes"
           ]
         },
         {
-          "text": "Transición ecológica con protagonismo público y ciudadano.",
+          "text": "Cambiar hacia una economía más sostenible con un papel destacado de las instituciones públicas y la ciudadanía.",
           "sourceIds": [
             "bildu-statutes"
           ]
@@ -1476,8 +1476,8 @@
         {
           "id": "ehbildu-001",
           "topic": "vivienda",
-          "title": "Prórroga de alquileres",
-          "summary": "Recuperar la prórroga automática de los contratos de alquiler.",
+          "title": "Recuperar la renovación automática de los contratos de alquiler",
+          "summary": "Volver a permitir que los contratos de alquiler se prolonguen automáticamente. La comunicación de campaña no desarrolla el instrumento legal concreto para aplicarlo.",
           "kind": "statement",
           "sourceIds": [
             "bildu-nov"
@@ -1489,8 +1489,8 @@
         {
           "id": "ehbildu-002",
           "topic": "vivienda",
-          "title": "Compra especulativa",
-          "summary": "Impulsar medidas para poner fin a la compra especulativa de viviendas.",
+          "title": "Frenar las compras de vivienda orientadas a especular",
+          "summary": "Impulsar medidas contra la compra de viviendas con la finalidad de obtener ganancias de su precio. El anuncio no concreta aquí qué operaciones se prohibirían ni mediante qué ley.",
           "kind": "statement",
           "sourceIds": [
             "bildu-nov"
@@ -1502,8 +1502,8 @@
         {
           "id": "ehbildu-003",
           "topic": "economia",
-          "title": "Costes de la inflación",
-          "summary": "Hacer que grandes empresas energéticas, petroleras y alimentarias absorban aumentos de costes durante crisis.",
+          "title": "Hacer que grandes empresas absorban aumentos de costes durante las crisis",
+          "summary": "Pedir que grandes empresas de energía, petróleo y alimentación asuman los aumentos de costes en vez de trasladarlos al consumidor. El anuncio no detalla el mecanismo para exigirlo.",
           "kind": "statement",
           "sourceIds": [
             "bildu-nov"
@@ -1515,8 +1515,8 @@
         {
           "id": "ehbildu-004",
           "topic": "instituciones",
-          "title": "Acuerdos parlamentarios",
-          "summary": "Utilizar su representación para impulsar una mayoría y un gobierno progresistas.",
+          "title": "Apoyar acuerdos para formar una mayoría y un gobierno progresistas",
+          "summary": "Utilizar sus escaños en el Parlamento para facilitar una mayoría y un gobierno de orientación progresista. La ficha expresa una estrategia de pactos, no un acuerdo de gobierno ya cerrado.",
           "kind": "statement",
           "sourceIds": [
             "bildu-nov"
@@ -1528,99 +1528,99 @@
         {
           "id": "ehbildu-005",
           "topic": "vivienda",
-          "title": "Vivienda vacía",
-          "summary": "Movilizar 25.000 viviendas vacías en diez años.",
+          "title": "Poner en uso 25.000 viviendas vacías en diez años",
+          "summary": "Conseguir que 25.000 viviendas que están vacías vuelvan a utilizarse a lo largo de diez años. La medida pertenece a un plan para los territorios vascos del Estado español, incluidos el País Vasco y Navarra.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-housing"
           ],
           "locator": "p. 18",
           "date": null,
-          "qualification": "Plan sectorial para Hego Euskal Herria; no programa 29N."
+          "qualification": "Medida de un plan de vivienda para el País Vasco y Navarra. No se presenta como parte verificada del programa del 29N."
         },
         {
           "id": "ehbildu-006",
           "topic": "vivienda",
-          "title": "Alquiler obligatorio",
-          "summary": "Aplicarlo en zonas de alta demanda si fracasan otras medidas sobre viviendas vacías.",
+          "title": "Obligar a alquilar viviendas vacías si fallan otras medidas",
+          "summary": "Aplicar el alquiler obligatorio en zonas donde existe mucha demanda de vivienda, si las demás medidas para poner en uso las viviendas vacías no funcionan. No se plantea aquí una obligación general sin esas condiciones.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-housing"
           ],
           "locator": "p. 18",
           "date": null,
-          "qualification": "Plan sectorial para Hego Euskal Herria; no programa 29N."
+          "qualification": "Medida de un plan de vivienda para el País Vasco y Navarra. No se presenta como parte verificada del programa del 29N."
         },
         {
           "id": "ehbildu-007",
           "topic": "vivienda",
-          "title": "Licencias turísticas",
-          "summary": "Limitar licencias a cinco años, con renovación municipal y posibilidad de suspensión en zonas saturadas.",
+          "title": "Limitar a cinco años las licencias de viviendas turísticas",
+          "summary": "Hacer que las autorizaciones de alquiler turístico duren cinco años y deban renovarse por el ayuntamiento. Permitir suspenderlas en zonas saturadas de este uso.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-housing"
           ],
           "locator": "pp. 18–19",
           "date": null,
-          "qualification": "Plan sectorial para Hego Euskal Herria; no programa 29N."
+          "qualification": "Medida de un plan de vivienda para el País Vasco y Navarra. No se presenta como parte verificada del programa del 29N."
         },
         {
           "id": "ehbildu-008",
           "topic": "vivienda",
-          "title": "Uso residencial",
-          "summary": "Recuperar 8.000 viviendas turísticas para residencia.",
+          "title": "Devolver 8.000 viviendas turísticas al uso como residencia",
+          "summary": "Cambiar el destino de 8.000 viviendas utilizadas para turismo para que vuelvan a ser viviendas residenciales. Es un objetivo del plan territorial de vivienda.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-housing"
           ],
           "locator": "p. 19",
           "date": null,
-          "qualification": "Plan sectorial para Hego Euskal Herria; no programa 29N."
+          "qualification": "Medida de un plan de vivienda para el País Vasco y Navarra. No se presenta como parte verificada del programa del 29N."
         },
         {
           "id": "ehbildu-009",
           "topic": "rural",
-          "title": "Vivienda rural",
-          "summary": "Financiar promoción pública y rehabilitación en áreas despobladas.",
+          "title": "Financiar vivienda pública y rehabilitación en zonas rurales despobladas",
+          "summary": "Destinar financiación a promover vivienda pública y arreglar viviendas existentes en áreas que pierden población. La medida pertenece a un plan territorial, no a un programa estatal completo.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-housing"
           ],
           "locator": "p. 19",
           "date": null,
-          "qualification": "Plan sectorial para Hego Euskal Herria; no programa 29N."
+          "qualification": "Medida de un plan de vivienda para el País Vasco y Navarra. No se presenta como parte verificada del programa del 29N."
         },
         {
           "id": "ehbildu-010",
           "topic": "vivienda",
-          "title": "Alternativa habitacional",
-          "summary": "Promover moratorias de desahucio sin alternativa residencial.",
+          "title": "Suspender desahucios cuando no haya otra vivienda disponible",
+          "summary": "Promover moratorias, es decir, suspensiones de los desahucios, cuando las personas afectadas no dispongan de una alternativa residencial. La ficha no desarrolla todos los requisitos de acceso a esa protección.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-housing"
           ],
           "locator": "p. 22",
           "date": null,
-          "qualification": "Plan sectorial para Hego Euskal Herria; no programa 29N."
+          "qualification": "Medida de un plan de vivienda para el País Vasco y Navarra. No se presenta como parte verificada del programa del 29N."
         },
         {
           "id": "ehbildu-011",
           "topic": "clima",
-          "title": "Rehabilitación integral",
-          "summary": "Priorizar eficiencia energética y accesibilidad en planes de barrio.",
+          "title": "Rehabilitar barrios para ahorrar energía y eliminar barreras",
+          "summary": "Dar prioridad a la mejora de los edificios y barrios para que consuman menos energía y sean accesibles, por ejemplo para personas con movilidad reducida.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-housing"
           ],
           "locator": "p. 23",
           "date": null,
-          "qualification": "Plan sectorial para Hego Euskal Herria; no programa 29N."
+          "qualification": "Medida de un plan de vivienda para el País Vasco y Navarra. No se presenta como parte verificada del programa del 29N."
         },
         {
           "id": "ehbildu-012",
           "topic": "sanidad",
-          "title": "Atención primaria",
-          "summary": "Dotarla de presupuesto propio y autonomía organizativa.",
+          "title": "Dar presupuesto propio y capacidad de organización a la atención primaria",
+          "summary": "Permitir que la atención primaria del sistema sanitario vasco tenga un presupuesto diferenciado y más autonomía para organizar sus servicios. Incluye la atención que se recibe habitualmente en los centros de salud.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-health"
@@ -1632,8 +1632,8 @@
         {
           "id": "ehbildu-013",
           "topic": "sanidad",
-          "title": "Plantilla sanitaria",
-          "summary": "Aumentar al menos un 10% la plantilla de primaria.",
+          "title": "Aumentar al menos un 10 % el personal de atención primaria",
+          "summary": "Incrementar como mínimo un 10 % la plantilla de atención primaria de la sanidad vasca, que presta la atención habitual más cercana a la población.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-health"
@@ -1645,8 +1645,8 @@
         {
           "id": "ehbildu-014",
           "topic": "sanidad",
-          "title": "Enfermería",
-          "summary": "Prever dos profesionales de enfermería por cupo.",
+          "title": "Asignar dos profesionales de enfermería por cupo de atención primaria",
+          "summary": "Prever dos profesionales de enfermería por cada cupo, el grupo de pacientes asignado a un equipo de atención primaria. La propuesta se refiere al sistema sanitario vasco.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-health"
@@ -1658,8 +1658,8 @@
         {
           "id": "ehbildu-015",
           "topic": "sanidad",
-          "title": "Contratación estable",
-          "summary": "Ofrecer contratos duraderos con formación e investigación dentro de la jornada.",
+          "title": "Dar contratos sanitarios estables con tiempo para formarse e investigar",
+          "summary": "Ofrecer contratos duraderos al personal sanitario e incluir actividades de formación e investigación dentro de su jornada laboral. Se plantea para el sistema sanitario vasco.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-health"
@@ -1671,8 +1671,8 @@
         {
           "id": "ehbildu-016",
           "topic": "empleo",
-          "title": "Participación laboral",
-          "summary": "Favorecer que las plantillas participen en decisiones y capital de las empresas.",
+          "title": "Dar a los trabajadores participación en decisiones y propiedad de sus empresas",
+          "summary": "Favorecer que las plantillas intervengan en decisiones empresariales y participen en el capital, es decir, que puedan tener una parte de la propiedad de la empresa.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-industry"
@@ -1684,8 +1684,8 @@
         {
           "id": "ehbildu-017",
           "topic": "economia",
-          "title": "Financiación pública",
-          "summary": "Reforzar instrumentos financieros públicos y un fondo para empresas estratégicas arraigadas en Euskadi.",
+          "title": "Crear financiación pública para empresas estratégicas vinculadas a Euskadi",
+          "summary": "Reforzar las herramientas de financiación pública y crear un fondo para empresas consideradas estratégicas que mantengan su vínculo con Euskadi. La ficha no concreta el tamaño del fondo.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-industry"
@@ -1697,8 +1697,8 @@
         {
           "id": "ehbildu-018",
           "topic": "clima",
-          "title": "Descarbonización industrial",
-          "summary": "Impulsar la transformación productiva para reducir emisiones industriales.",
+          "title": "Transformar la industria para reducir sus emisiones",
+          "summary": "Impulsar cambios en la producción industrial que permitan emitir menos gases de efecto invernadero. Eso es lo que significa descarbonizar la industria.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-industry"
@@ -1710,8 +1710,8 @@
         {
           "id": "ehbildu-019",
           "topic": "tecnologia",
-          "title": "Innovación empresarial",
-          "summary": "Apoyar colaboración tecnológica entre pymes y centros de investigación.",
+          "title": "Conectar pequeñas empresas con centros de investigación",
+          "summary": "Apoyar la colaboración entre pequeñas y medianas empresas y centros de investigación para desarrollar y aplicar tecnología. La ficha no fija aquí importes de ayuda.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-industry"
@@ -1723,8 +1723,8 @@
         {
           "id": "ehbildu-020",
           "topic": "pensiones",
-          "title": "Mínimo ligado al SMI",
-          "summary": "Avanzar hacia una pensión mínima equivalente al salario mínimo.",
+          "title": "Avanzar hacia ingresos de pensión equivalentes al salario mínimo",
+          "summary": "Defender en Navarra que las pensiones más bajas se acerquen al salario mínimo. Los mecanismos fiscales de apoyo navarros no equivalen por sí solos a crear una pensión estatal mínima para todo el mundo.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-pensions"
@@ -1736,8 +1736,8 @@
         {
           "id": "ehbildu-021",
           "topic": "pensiones",
-          "title": "Complemento navarro",
-          "summary": "Defender una renta anual mínima de 16.660 euros mediante pensión y deducciones fiscales.",
+          "title": "Garantizar 16.660 euros anuales en Navarra mediante pensión y deducciones",
+          "summary": "Defender un mínimo anual de 16.660 euros combinando pensión y deducciones fiscales: equivale a 1.190 euros en 14 pagas. Al publicarse el acuerdo todavía estaba pendiente su aprobación definitiva.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-budget"
@@ -1749,8 +1749,8 @@
         {
           "id": "ehbildu-022",
           "topic": "clima",
-          "title": "Fiscalidad renovable",
-          "summary": "Promover tributación territorial de instalaciones eólicas y fotovoltaicas.",
+          "title": "Hacer que instalaciones eólicas y solares paguen impuestos en Navarra",
+          "summary": "Promover una tributación propia de Navarra para las instalaciones que producen electricidad con viento y paneles solares. La ficha no detalla cuánto pagarían ni cómo se calcularía el impuesto.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-budget"
@@ -1762,8 +1762,8 @@
         {
           "id": "ehbildu-023",
           "topic": "sanidad",
-          "title": "Cuidados públicos",
-          "summary": "Defender cobertura de cuidados pública, universal y gratuita.",
+          "title": "Ofrecer cuidados públicos, universales y gratuitos",
+          "summary": "Defender un sistema público de cuidados abierto a toda la población y sin coste para quien recibe el servicio. Se refiere al apoyo a personas que necesitan atención o ayuda cotidiana.",
           "kind": "statement",
           "sourceIds": [
             "bildu-care"
@@ -1775,8 +1775,8 @@
         {
           "id": "ehbildu-024",
           "topic": "igualdad",
-          "title": "Acceso al aborto",
-          "summary": "Proteger a las mujeres frente al acoso junto a centros que realizan interrupciones del embarazo.",
+          "title": "Proteger frente al acoso a quienes acuden a centros de aborto",
+          "summary": "Impulsar protección para las mujeres que sufren acoso cerca de centros donde se practican abortos. Es una iniciativa para instar al Gobierno a actuar, no una norma que por sí misma cambie la ley.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-abortion"
@@ -1788,8 +1788,8 @@
         {
           "id": "ehbildu-025",
           "topic": "exterior",
-          "title": "Escalada militar",
-          "summary": "Oponerse a la escalada militar y priorizar soluciones pacíficas conforme al derecho internacional.",
+          "title": "Oponerse al aumento de la confrontación militar y priorizar la paz",
+          "summary": "Rechazar la escalada militar y favorecer soluciones pacíficas a los conflictos que respeten el derecho internacional. La ficha no concreta actuaciones para cada conflicto.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-peace"
@@ -1801,8 +1801,8 @@
         {
           "id": "ehbildu-026",
           "topic": "exterior",
-          "title": "OTAN",
-          "summary": "Expresar oposición política al militarismo y a la OTAN.",
+          "title": "Expresar oposición a la OTAN y al militarismo",
+          "summary": "Rechazar políticamente la alianza militar atlántica y la prioridad dada a soluciones militares. La declaración no fija un calendario ni un procedimiento de retirada.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-peace"
@@ -1814,47 +1814,47 @@
         {
           "id": "ehbildu-027",
           "topic": "educacion",
-          "title": "Euskera gratuito",
-          "summary": "Proponer gratuidad hasta B1 en el siguiente curso y hasta B2 en 2027–2028, sin adelantar matrícula.",
+          "title": "Hacer gratis el aprendizaje de euskera hasta B1 y después hasta B2",
+          "summary": "En la Comunidad Autónoma Vasca, ofrecer gratuidad hasta el nivel intermedio B1 en el curso siguiente al anuncio de marzo de 2026, y hasta B2 en 2027–2028. No exigir adelantar el importe de la matrícula.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-lang"
           ],
           "locator": "Proposición no de ley",
           "date": "2026-03-12",
-          "qualification": "Ámbito de la Comunidad Autónoma Vasca; propuesta presentada en marzo de 2026."
+          "qualification": "Propuesta para la Comunidad Autónoma Vasca, presentada en marzo de 2026."
         },
         {
           "id": "ehbildu-028",
           "topic": "empleo",
-          "title": "Lenguas y empleo público",
-          "summary": "Exigir las dos lenguas oficiales como regla, con aplazamientos definidos mediante un índice de progresividad.",
+          "title": "Exigir las dos lenguas oficiales como regla para el empleo público vasco",
+          "summary": "Pedir con carácter general el conocimiento de castellano y euskera en el empleo público. Permitir aplazamientos según un índice de progresividad, que ordenaría el ritmo de aplicación del requisito.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-profiles"
           ],
           "locator": "Enmiendas a la Ley de Empleo Público",
           "date": "2026-04-29",
-          "qualification": "Ámbito vasco."
+          "qualification": "La propuesta se refiere al ámbito vasco."
         },
         {
           "id": "ehbildu-029",
           "topic": "educacion",
-          "title": "Acuerdo educativo",
-          "summary": "Retomar el pacto educativo mediante una mesa presidida por el lehendakari.",
+          "title": "Retomar el pacto educativo vasco con una mesa de diálogo",
+          "summary": "Reabrir la negociación del acuerdo educativo mediante una mesa presidida por el lehendakari, el presidente del Gobierno vasco. La propuesta tiene ámbito autonómico.",
           "kind": "statement",
           "sourceIds": [
             "bildu-education"
           ],
           "locator": "Declaraciones de Otxandiano",
           "date": "2026-09-25",
-          "qualification": "Ámbito autonómico vasco."
+          "qualification": "La propuesta se refiere a las competencias y servicios de la Comunidad Autónoma Vasca."
         },
         {
           "id": "ehbildu-030",
           "topic": "inmigracion",
-          "title": "Apoyo a regularización",
-          "summary": "Adaptar servicios municipales y horarios para facilitar información y trámites a personas migrantes.",
+          "title": "Adaptar los servicios municipales para ayudar con la regularización",
+          "summary": "Ajustar servicios y horarios de los ayuntamientos para informar y facilitar trámites a personas migrantes. Es un ejemplo de actuación municipal, no una propuesta estatal sobre quién puede entrar en España.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-migration"
@@ -1866,8 +1866,8 @@
         {
           "id": "ehbildu-031",
           "topic": "seguridad",
-          "title": "Seguridad y libertades",
-          "summary": "Reformar sanciones por desobediencia y faltas de respeto, y sustituir las pelotas de goma.",
+          "title": "Revisar sanciones por desobediencia y sustituir las pelotas de goma",
+          "summary": "Cambiar las sanciones por desobediencia y faltas de respeto, y reemplazar las pelotas de goma utilizadas por la policía. La posición está documentada en 2024; la ficha no verifica su ejecución posterior.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-liberties"
@@ -1879,8 +1879,8 @@
         {
           "id": "ehbildu-032",
           "topic": "inmigracion",
-          "title": "Garantías en frontera",
-          "summary": "Evaluar solicitudes de protección antes de una eventual expulsión.",
+          "title": "Estudiar las peticiones de protección antes de expulsar a una persona",
+          "summary": "Exigir que se evalúen las solicitudes de protección de una persona antes de decidir una posible expulsión en frontera. La ficha no certifica que la reforma planteada se haya aplicado.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-liberties"
@@ -1892,8 +1892,8 @@
         {
           "id": "ehbildu-033",
           "topic": "territorio",
-          "title": "Soberanía vasca",
-          "summary": "Construir un Estado que reúna los siete territorios históricos vascos.",
+          "title": "Crear un Estado que reúna los siete territorios históricos vascos",
+          "summary": "Defender un Estado propio para Euskal Herria que reúna los siete territorios históricos vascos, situados actualmente en España y Francia. Se expresa un objetivo político, sin fijar aquí el procedimiento para alcanzarlo.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-statutes"
@@ -1905,8 +1905,8 @@
         {
           "id": "ehbildu-034",
           "topic": "instituciones",
-          "title": "Control público",
-          "summary": "Reducir duplicidades institucionales y transparentar el uso de fondos públicos.",
+          "title": "Reducir organismos duplicados y explicar cómo se usa el dinero público",
+          "summary": "Evitar que distintas instituciones repitan funciones y hacer más transparente el uso de los fondos públicos. La ficha no identifica todos los organismos que se reorganizarían.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-statutes"
@@ -1918,8 +1918,8 @@
         {
           "id": "ehbildu-035",
           "topic": "clima",
-          "title": "Modelo energético",
-          "summary": "Impulsar renovables públicas, ahorro energético y abandono de centrales nucleares y térmicas.",
+          "title": "Impulsar renovables públicas y abandonar centrales nucleares y térmicas",
+          "summary": "Defender energías renovables con protagonismo público, reducir el consumo energético y dejar atrás las centrales nucleares y térmicas. Es una orientación estratégica sin calendario de cierre concretado.",
           "kind": "official_position",
           "sourceIds": [
             "bildu-statutes"
@@ -1961,13 +1961,13 @@
       "description": "Nacionalismo vasco, autogobierno y negociación institucional. Su programa vincula competitividad económica, servicios públicos y protección social.",
       "ideals": [
         {
-          "text": "Autogobierno vasco y acuerdos bilaterales exigibles.",
+          "text": "Defender la capacidad de Euskadi para gobernarse y pactar con el Estado acuerdos bilaterales cuyo cumplimiento pueda exigirse.",
           "sourceIds": [
             "pnv-launch"
           ]
         },
         {
-          "text": "Actividad económica vinculada al bienestar social.",
+          "text": "Vincular el desarrollo de la economía con la mejora del bienestar de la población.",
           "sourceIds": [
             "pnv-launch"
           ]
@@ -1984,8 +1984,8 @@
         {
           "id": "pnv-001",
           "topic": "empleo",
-          "title": "Salario mínimo vasco",
-          "summary": "Reclamar competencia plena para fijarlo por encima del estatal mediante diálogo social.",
+          "title": "Permitir a Euskadi fijar un salario mínimo superior al estatal",
+          "summary": "Reclamar competencia plena para fijar un salario mínimo vasco mediante acuerdos entre representantes de empresas y trabajadores. Se plantea que sea superior al mínimo estatal y dentro de un nuevo estatus político para Euskadi.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-program"
@@ -1997,8 +1997,8 @@
         {
           "id": "pnv-002",
           "topic": "empleo",
-          "title": "Protección por desempleo",
-          "summary": "Ampliar la cobertura hasta 36 meses vinculándola a mejorar la empleabilidad.",
+          "title": "Ampliar la protección por desempleo hasta 36 meses",
+          "summary": "Extender hasta tres años la cobertura por desempleo y vincularla a actuaciones que mejoren las posibilidades de encontrar trabajo. La ficha no desarrolla todos los requisitos para acceder a esa duración.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-program"
@@ -2010,8 +2010,8 @@
         {
           "id": "pnv-003",
           "topic": "tecnologia",
-          "title": "Modernización de pymes",
-          "summary": "Apoyar digitalización, inteligencia artificial y procesos más eficientes.",
+          "title": "Ayudar a pequeñas empresas a usar tecnología y mejorar sus procesos",
+          "summary": "Apoyar la digitalización y el uso de inteligencia artificial en pequeñas y medianas empresas. Mejorar también sus procesos para que sean más eficientes.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-program"
@@ -2023,8 +2023,8 @@
         {
           "id": "pnv-004",
           "topic": "educacion",
-          "title": "Autonomía educativa",
-          "summary": "Preservar las competencias vascas y su sistema propio de becas.",
+          "title": "Mantener las competencias educativas y el sistema vasco de becas",
+          "summary": "Preservar la capacidad de Euskadi para decidir en educación y mantener su propio sistema de ayudas al estudio.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-program"
@@ -2036,8 +2036,8 @@
         {
           "id": "pnv-005",
           "topic": "pensiones",
-          "title": "Jubilación anticipada",
-          "summary": "Eliminar penalizaciones con más de 40 años cotizados.",
+          "title": "No penalizar la jubilación anticipada tras más de 40 años cotizados",
+          "summary": "Eliminar las reducciones de pensión por jubilarse antes de la edad ordinaria cuando se hayan cotizado más de 40 años a la Seguridad Social.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-program"
@@ -2049,8 +2049,8 @@
         {
           "id": "pnv-006",
           "topic": "sanidad",
-          "title": "Cannabis medicinal",
-          "summary": "Favorecer su regulación con garantías sanitarias y de seguridad.",
+          "title": "Regular el cannabis para uso medicinal con garantías sanitarias",
+          "summary": "Favorecer una regulación que permita utilizar cannabis con fines médicos, con controles de seguridad y protección de la salud. No equivale a proponer aquí su uso recreativo.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-program"
@@ -2062,8 +2062,8 @@
         {
           "id": "pnv-007",
           "topic": "sanidad",
-          "title": "Electrodependencia",
-          "summary": "Proteger de cortes eléctricos a quienes dependen de equipos médicos.",
+          "title": "Evitar cortes de luz a quienes necesitan equipos médicos eléctricos",
+          "summary": "Proteger el suministro de electricidad a las personas que dependen de dispositivos médicos para vivir o cuidar su salud. Son las llamadas personas electrodependientes.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-program"
@@ -2075,8 +2075,8 @@
         {
           "id": "pnv-008",
           "topic": "vivienda",
-          "title": "Alquiler temporal",
-          "summary": "Evitar su uso fraudulento para eludir garantías residenciales.",
+          "title": "Impedir el uso fraudulento de alquileres temporales",
+          "summary": "Evitar que se utilicen contratos de temporada para eludir las protecciones legales de quien realmente necesita una vivienda habitual.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-summary"
@@ -2088,8 +2088,8 @@
         {
           "id": "pnv-009",
           "topic": "clima",
-          "title": "Redes y energía",
-          "summary": "Invertir en redes y renovables para reducir costes energéticos.",
+          "title": "Invertir en redes eléctricas y renovables para reducir costes",
+          "summary": "Mejorar las redes de transporte y distribución de electricidad y aumentar la energía renovable. La reducción de costes energéticos es el objetivo declarado, no un ahorro cuantificado en esta ficha.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-summary"
@@ -2101,8 +2101,8 @@
         {
           "id": "pnv-010",
           "topic": "economia",
-          "title": "Autónomos",
-          "summary": "Mejorar protección ante cierres involuntarios y facilitar financiación.",
+          "title": "Proteger a autónomos que tienen que cerrar y facilitarles financiación",
+          "summary": "Mejorar la cobertura cuando un autónomo cesa su actividad de forma involuntaria. Facilitar también el acceso a financiación para trabajar por cuenta propia.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-summary"
@@ -2114,8 +2114,8 @@
         {
           "id": "pnv-011",
           "topic": "economia",
-          "title": "Ferrocarril",
-          "summary": "Exigir calendarios verificables de la Y vasca y el Corredor Atlántico.",
+          "title": "Exigir fechas comprobables para terminar la Y vasca y el Corredor Atlántico",
+          "summary": "Reclamar calendarios de ejecución que puedan verificarse para la red ferroviaria de alta velocidad vasca, conocida como Y vasca, y el Corredor Atlántico, un eje de transporte ferroviario.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-summary"
@@ -2127,8 +2127,8 @@
         {
           "id": "pnv-012",
           "topic": "rural",
-          "title": "Campo y pesca",
-          "summary": "Defender precios ligados a costes y relevo generacional.",
+          "title": "Relacionar precios con costes y facilitar nuevas generaciones en campo y pesca",
+          "summary": "Defender que los precios que reciben agricultores, ganaderos y pescadores tengan en cuenta sus costes de producción. Facilitar que nuevas generaciones puedan continuar esas actividades.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-summary"
@@ -2140,8 +2140,8 @@
         {
           "id": "pnv-013",
           "topic": "economia",
-          "title": "IVA esencial",
-          "summary": "Revisar IVA de bienes básicos dentro del marco europeo.",
+          "title": "Revisar el IVA de los bienes básicos dentro de las reglas europeas",
+          "summary": "Replantear el impuesto que se paga al comprar productos esenciales, respetando la normativa de la Unión Europea. La ficha no establece una rebaja concreta ni un listado completo de productos.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-summary"
@@ -2153,8 +2153,8 @@
         {
           "id": "pnv-014",
           "topic": "economia",
-          "title": "Fiscalidad foral",
-          "summary": "Ampliar capacidad normativa en IVA e impuestos especiales respetando Europa.",
+          "title": "Ampliar la capacidad vasca de decidir sobre IVA e impuestos especiales",
+          "summary": "Dar más capacidad para regular estos impuestos dentro del sistema fiscal vasco, respetando el marco europeo. Los impuestos especiales gravan determinados productos, como combustibles, alcohol o tabaco.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-summary"
@@ -2166,8 +2166,8 @@
         {
           "id": "pnv-015",
           "topic": "seguridad",
-          "title": "Ertzaintza",
-          "summary": "Ampliar medios y cooperación policial europea directa.",
+          "title": "Dar más medios a la Ertzaintza y cooperación directa con policías europeas",
+          "summary": "Reforzar la policía autonómica vasca con recursos y ampliar sus posibilidades de colaborar directamente con organismos y cuerpos policiales europeos.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-summary"
@@ -2179,8 +2179,8 @@
         {
           "id": "pnv-016",
           "topic": "seguridad",
-          "title": "Multirreincidencia",
-          "summary": "Reforzar respuestas judiciales rápidas, eficaces y proporcionadas.",
+          "title": "Mejorar la respuesta judicial a quienes cometen delitos repetidamente",
+          "summary": "Reforzar procedimientos rápidos, eficaces y proporcionados frente a la multirreincidencia. La propuesta no se reduce en esta ficha a un aumento concreto de penas.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-summary"
@@ -2192,8 +2192,8 @@
         {
           "id": "pnv-017",
           "topic": "instituciones",
-          "title": "Libertades públicas",
-          "summary": "Reformar seguridad ciudadana y revisar delitos que restringen expresión.",
+          "title": "Revisar leyes y delitos que limitan la libertad de expresión",
+          "summary": "Reformar la normativa de seguridad ciudadana y examinar delitos que restringen la expresión. La ficha no enumera todos los artículos que se modificarían.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-summary"
@@ -2205,8 +2205,8 @@
         {
           "id": "pnv-018",
           "topic": "igualdad",
-          "title": "Violencia machista",
-          "summary": "Reforzar atención a víctimas y recursos judiciales especializados.",
+          "title": "Mejorar la atención a víctimas de violencia machista y los juzgados especializados",
+          "summary": "Reforzar los servicios de apoyo a las víctimas y los recursos judiciales que se dedican específicamente a estos casos.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-summary"
@@ -2218,8 +2218,8 @@
         {
           "id": "pnv-019",
           "topic": "igualdad",
-          "title": "Derechos LGTBIQ+",
-          "summary": "Combatir discriminación y delitos de odio.",
+          "title": "Actuar contra la discriminación por orientación sexual e identidad de género",
+          "summary": "Combatir la discriminación y los delitos de odio contra personas lesbianas, gais, bisexuales, trans, intersexuales y otras diversidades sexuales y de género.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-summary"
@@ -2231,8 +2231,8 @@
         {
           "id": "pnv-020",
           "topic": "inmigracion",
-          "title": "Gestión migratoria",
-          "summary": "Ampliar competencias vascas y agilizar permisos y reconocimiento de titulaciones.",
+          "title": "Dar más competencias migratorias a Euskadi y agilizar permisos",
+          "summary": "Ampliar la gestión vasca de la inmigración y acelerar los trámites de permisos y reconocimiento de estudios obtenidos en el extranjero.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-summary"
@@ -2244,8 +2244,8 @@
         {
           "id": "pnv-021",
           "topic": "pensiones",
-          "title": "Actualización anual",
-          "summary": "Revalorizar pensiones con el IPC.",
+          "title": "Actualizar las pensiones cada año según los precios",
+          "summary": "Subir las pensiones en función del IPC, el indicador de los precios de consumo, para mantener su relación con la evolución del coste de vida.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-summary"
@@ -2257,8 +2257,8 @@
         {
           "id": "pnv-022",
           "topic": "vivienda",
-          "title": "Oferta residencial",
-          "summary": "Construir, rehabilitar y movilizar viviendas vacías con garantías para pequeños propietarios.",
+          "title": "Ampliar la oferta de vivienda y dar garantías a pequeños propietarios",
+          "summary": "Construir viviendas, rehabilitar las existentes y poner en uso las que están vacías. Acompañar estas medidas de garantías para los pequeños propietarios; la ficha no desarrolla aquí su contenido completo.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-launch"
@@ -2270,8 +2270,8 @@
         {
           "id": "pnv-023",
           "topic": "educacion",
-          "title": "Formación y empleo",
-          "summary": "Reforzar formación conectada con oportunidades laborales.",
+          "title": "Conectar la formación con oportunidades reales de empleo",
+          "summary": "Reforzar estudios y formación orientados a las necesidades y oportunidades del mercado laboral. La ficha no concreta aquí nuevas plazas o programas.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-launch"
@@ -2283,8 +2283,8 @@
         {
           "id": "pnv-024",
           "topic": "economia",
-          "title": "Arraigo industrial",
-          "summary": "Defender centros de decisión empresariales en Euskadi.",
+          "title": "Mantener en Euskadi los centros donde las empresas toman decisiones",
+          "summary": "Defender que las empresas conserven en Euskadi sus centros de dirección y decisión, en lugar de trasladarlos fuera del territorio.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-launch"
@@ -2296,8 +2296,8 @@
         {
           "id": "pnv-025",
           "topic": "sanidad",
-          "title": "Personal sanitario",
-          "summary": "Adecuar formación de especialistas a las necesidades vascas.",
+          "title": "Formar especialistas sanitarios según las necesidades de Euskadi",
+          "summary": "Ajustar la formación de médicos y otros especialistas a las necesidades del sistema sanitario vasco. La ficha no fija un número concreto de nuevas plazas.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-launch"
@@ -2309,8 +2309,8 @@
         {
           "id": "pnv-026",
           "topic": "sanidad",
-          "title": "Cuidados",
-          "summary": "Mejorar apoyo económico y servicios de respiro familiar.",
+          "title": "Mejorar las ayudas y el descanso de quienes cuidan a familiares",
+          "summary": "Aumentar el apoyo económico y ofrecer servicios que releven temporalmente a cuidadores familiares para que puedan descansar. Eso es lo que significa «respiro familiar».",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-launch"
@@ -2322,8 +2322,8 @@
         {
           "id": "pnv-027",
           "topic": "sanidad",
-          "title": "Amianto",
-          "summary": "Acelerar la reparación de sus víctimas.",
+          "title": "Agilizar la compensación y reparación a víctimas del amianto",
+          "summary": "Acelerar las medidas de reparación para personas dañadas por la exposición al amianto, un material cuyas fibras pueden causar enfermedades graves. La ficha no concreta aquí el importe de compensación.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-launch"
@@ -2335,8 +2335,8 @@
         {
           "id": "pnv-028",
           "topic": "territorio",
-          "title": "Estatuto de Gernika",
-          "summary": "Completar transferencias pendientes y defender competencias vascas.",
+          "title": "Transferir las competencias pendientes del Estatuto de Gernika",
+          "summary": "Completar los traspasos previstos en el Estatuto de Autonomía vasco y defender las competencias de Euskadi. La ficha no afirma que todas las transferencias estén ya realizadas.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-launch"
@@ -2348,8 +2348,8 @@
         {
           "id": "pnv-029",
           "topic": "territorio",
-          "title": "Concierto Económico",
-          "summary": "Preservar la capacidad fiscal y financiera de Euskadi.",
+          "title": "Mantener la autonomía fiscal vasca mediante el Concierto Económico",
+          "summary": "Preservar el sistema por el que las instituciones forales vascas gestionan y recaudan impuestos y se regula su relación financiera con el Estado. La propuesta defiende esa capacidad fiscal y financiera propia.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-launch"
@@ -2361,8 +2361,8 @@
         {
           "id": "pnv-030",
           "topic": "territorio",
-          "title": "Nuevo pacto",
-          "summary": "Defender reconocimiento nacional y bilateralidad con el Estado.",
+          "title": "Acordar con el Estado un nuevo reconocimiento político de Euskadi",
+          "summary": "Defender el reconocimiento nacional de Euskadi y una relación bilateral, es decir, negociada entre las instituciones vascas y el Estado. La ficha no desarrolla aquí el texto de ese nuevo pacto.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-launch"
@@ -2374,8 +2374,8 @@
         {
           "id": "pnv-031",
           "topic": "exterior",
-          "title": "Representación europea",
-          "summary": "Reclamar voz propia vasca en las instituciones europeas.",
+          "title": "Dar a Euskadi representación propia en las instituciones europeas",
+          "summary": "Reclamar una voz vasca propia en los organismos de la Unión Europea. La ficha no concreta todas las formas de representación que se pedirían.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-launch"
@@ -2387,8 +2387,8 @@
         {
           "id": "pnv-032",
           "topic": "instituciones",
-          "title": "Memoria y transparencia",
-          "summary": "Esclarecer vulneraciones de derechos humanos y reforzar rendición de cuentas.",
+          "title": "Aclarar vulneraciones de derechos humanos y exigir explicaciones públicas",
+          "summary": "Esclarecer hechos que hayan vulnerado derechos humanos y reforzar la rendición de cuentas: que las instituciones expliquen sus decisiones y asuman responsabilidades por ellas.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-launch"
@@ -2400,8 +2400,8 @@
         {
           "id": "pnv-033",
           "topic": "instituciones",
-          "title": "Pactos de gobierno",
-          "summary": "No facilitar gobiernos que dependan de Vox.",
+          "title": "No facilitar gobiernos cuya mayoría dependa de Vox",
+          "summary": "Comprometerse a no apoyar la formación de gobiernos que necesiten los votos de Vox para sostener su mayoría.",
           "kind": "manifesto_2026",
           "sourceIds": [
             "pnv-launch"
@@ -2413,8 +2413,8 @@
         {
           "id": "pnv-034",
           "topic": "exterior",
-          "title": "Seguridad europea",
-          "summary": "Agirregoitia defiende reforzar Europa dentro de la OTAN y reducir la dependencia de Estados Unidos.",
+          "title": "Reforzar el papel de Europa en la OTAN y depender menos de EEUU",
+          "summary": "Defender una Europa con más capacidad de decisión en seguridad dentro de la OTAN. Reducir su dependencia de Estados Unidos en ese ámbito.",
           "kind": "statement",
           "sourceIds": [
             "pnv-nato"
@@ -2426,8 +2426,8 @@
         {
           "id": "pnv-035",
           "topic": "tecnologia",
-          "title": "Artistas e IA",
-          "summary": "Reclamar medidas de protección para profesionales culturales ante la inteligencia artificial.",
+          "title": "Proteger a los profesionales culturales frente al uso de inteligencia artificial",
+          "summary": "Reclamar medidas que protejan a artistas y otros profesionales de la cultura ante la inteligencia artificial. La ficha no concreta aquí todos los derechos o compensaciones que se exigirían.",
           "kind": "statement",
           "sourceIds": [
             "pnv-ai"
@@ -2439,15 +2439,15 @@
         {
           "id": "pnv-036",
           "topic": "empleo",
-          "title": "Participación en empresas",
-          "summary": "Incentivar fiscalmente la compra de participaciones por las plantillas, condicionada a mantenerlas tres años.",
+          "title": "Dar ventajas fiscales a trabajadores que compren una parte de su empresa",
+          "summary": "Incentivar con descuentos fiscales la compra de participaciones de la empresa por sus trabajadores, si las mantienen al menos tres años. En grandes empresas, la medida se orienta a que la plantilla obtenga el control de la sociedad.",
           "kind": "official_position",
           "sourceIds": [
             "pnv-tax"
           ],
           "locator": "Participación de las personas trabajadoras",
           "date": "2026-09-01",
-          "qualification": "Acuerdo fiscal foral; en grandes empresas se orienta a obtener control de la sociedad."
+          "qualification": "Medida de un acuerdo sobre los impuestos gestionados por las instituciones forales vascas. En grandes empresas busca que los trabajadores lleguen a controlar la empresa."
         }
       ],
       "gaps": [

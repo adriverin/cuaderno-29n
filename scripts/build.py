@@ -14,7 +14,7 @@ topics = [
  ('inmigracion','Inmigración'),('igualdad','Igualdad y derechos'),('territorio','Modelo territorial'),
  ('instituciones','Democracia e instituciones'),('clima','Clima y energía'),('exterior','Europa y política exterior'),
  ('seguridad','Seguridad y justicia'),('tecnologia','Tecnología y ciencia'),('rural','Campo, mar y transporte')]
-data={'version':'2026-11-11.1','updated':'2026-11-11','topics':[{'id':i,'name':n} for i,n in topics], 'parties':parties,'sources':sources}
+data={'version':'2026-11-11.2','wordingRevision':'plain-es-1','updated':'2026-11-11','topics':[{'id':i,'name':n} for i,n in topics], 'parties':parties,'sources':sources}
 data['methodSources']=[
  {'title':'Convocatoria oficial: Real Decreto 806/2026','url':'https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742'},
  {'title':'Candidaturas proclamadas: BOE 3 de noviembre','url':'https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103'},
