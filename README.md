@@ -25,6 +25,7 @@ Activa «Modo ciego» encima de los filtros para ocultar nombres, colores, atrib
 - Acuerdo de −2 a +2; 0 es neutral/mixto y «No sé» no puntúa.
 - Importancia de 1 a 5; estrella independiente para lo imprescindible.
 - Notas en «Fuente y contexto».
+- «Mis respuestas guardadas» en «Mi cuaderno» muestra las selecciones una a una, incluso con modo ciego y aunque sean principios o antecedentes excluidos del cálculo.
 - Balance por temas y pesos personales en «Mi cuaderno».
 - Exporta periódicamente tus respuestas a JSON. Importar permite combinarlas con una copia previa.
 

@@ -13,4 +13,14 @@ const imported=C.validateImport(JSON.parse(JSON.stringify(s)),new Set(p.map(x=>x
 assert.deepEqual(imported.state.ratings,s.ratings);
 assert.throws(()=>C.validateImport({schema:1,ratings:{a:r('2')}},new Set(['a']),new Set()));
 assert.equal(C.validateImport({schema:1,ratings:{unknown:r(2)}},new Set(['a']),new Set()).ignored,1);
+const savedState=C.empty();
+savedState.ratings.a=r(0);
+savedState.ratings.b={...r(null),note:'Una duda'};
+savedState.ratings.c=r(-1);
+savedState.ratings.d={...r(null),importance:5};
+assert.deepEqual(C.savedPositions(p,savedState).map(x=>x.id),['a','b','c','d'],'include neutral, note-only, historical and importance-only selections');
+savedState.ratings.a=r(null);
+assert.equal(C.savedPositions(p,savedState).some(x=>x.id==='a'),false,'cleared default answers are omitted');
+savedState.ratings.a={...r(null),essential:true};
+assert.equal(C.savedPositions(p,savedState).some(x=>x.id==='a'),true,'star-only selections appear');
 console.log('Scoring, missing answers, exclusions, common topics and import validation passed.');

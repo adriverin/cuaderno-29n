@@ -15,6 +15,7 @@ const NotebookCore = (() => {
   return {state:result,ignored};
  }
  const ratingFor=(state,id)=>state.ratings[id] || {agreement:null,importance:3,essential:false,note:''};
+ function savedPositions(positions,state){return positions.filter(p=>{const r=ratingFor(state,p.id);return isAgreement(r.agreement)||r.essential||r.note.trim()||r.importance!==3;});}
  function summarize(positions,state,partyId,commonTopics=null){
   const all=positions.filter(p=>p.partyId===partyId && CURRENT_KINDS.has(p.kind));
   const groups=new Map();let rated=0,essentials=0,essentialAgainst=0;
@@ -28,6 +29,6 @@ const NotebookCore = (() => {
   const sets=partyIds.map(id=>new Set(positions.filter(p=>p.partyId===id && CURRENT_KINDS.has(p.kind) && isAgreement(ratingFor(state,p.id).agreement) && (state.topicWeights[p.topic]??3)>0).map(p=>p.topic)));
   return new Set([...sets[0]].filter(t=>sets.every(s=>s.has(t))));
  }
- return {empty,isAgreement,validateImport,ratingFor,summarize,commonRatedTopics,CURRENT_KINDS};
+ return {empty,isAgreement,validateImport,ratingFor,savedPositions,summarize,commonRatedTopics,CURRENT_KINDS};
 })();
 if(typeof module!=='undefined')module.exports=NotebookCore;
